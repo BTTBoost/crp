@@ -22,6 +22,7 @@ if (isDev) {
         "data/*-placeholder/1.json",
         "data/reddit-crypto/**",
         "data/tweet-crypto/**",
+        "data/crypto-issues/**",
       ],
     },
   });
@@ -37,6 +38,7 @@ if (isDev) {
         "data/*-placeholder/1.json",
         "data/reddit-crypto/**",
         "data/tweet-crypto/**",
+        "data/crypto-issues/**",
       ],
     },
   });
@@ -47,10 +49,10 @@ plugins = plugins.concat([
     options: {
       tweetTypeName: ["TweetJson", "twitterStatusesUserTimelineMyTweet"],
       redditTypeName: ["RedditJson"],
-      issueTypeName: ["RedditTopIssuesJson"],
+      issueTypeName: ["CryptoIssuesJson"],
       localesPath: localesPath,
       disqus: {
-        shortname: "reddit-top",
+        shortname: "buzzingcc",
       },
     },
   },

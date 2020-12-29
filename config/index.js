@@ -7,10 +7,10 @@ const siteMetadata = {
   description: "用中文浏览关于加密货币的国外热门讨论",
   keywords: ["buzzing", "加密货币", "比特币", "数字货币", "区块链"],
   menuLinks: [
-    // {
-    //   name: "每周精选",
-    //   url: "/issues",
-    // },
+    {
+      name: "每周精选",
+      url: "/issues",
+    },
     {
       name: "RSS",
       url: "/rss.xml",
@@ -43,10 +43,10 @@ const siteMetadata = {
       description: `See what's buzzing on Crypto in your native language`,
       keywords: ["buzzing", "crypto", "bitcoin", "blockchain"],
       menuLinks: [
-        // {
-        //   name: "Weekly Selection",
-        //   url: "/issues",
-        // },
+        {
+          name: "Weekly Selection",
+          url: "/en/issues",
+        },
         {
           name: "RSS",
           url: "/en/rss.xml",
@@ -78,10 +78,10 @@ const siteMetadata = {
       description: "用中文瀏覽關於加密貨幣的國外熱門討論",
       keywords: ["buzzing", "加密貨幣", "比特幣", "數字貨幣", "區塊鏈"],
       menuLinks: [
-        // {
-        // name: "每週精選",
-        // url: "/issues",
-        // },
+        {
+          name: "每週精選",
+          url: "/zh-Hant/issues",
+        },
         {
           name: "RSS",
           url: "/zh-Hant/rss.xml",
