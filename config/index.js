@@ -6,6 +6,8 @@ const siteMetadata = {
   shortTitle: "加密货币",
   description: "用中文浏览关于加密货币的国外热门讨论",
   keywords: ["buzzing", "加密货币", "比特币", "数字货币", "区块链"],
+  telegram: "@buzzingcc",
+  telegram_chat_id: "-1001406368978",
   menuLinks: [
     {
       name: "每周精选",
