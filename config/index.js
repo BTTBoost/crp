@@ -1,6 +1,6 @@
 const siteMetadata = {
   siteUrl: "https://crypto.buzzing.cc",
-  author: `Buzzing`,
+  author: `Buzzing.cc`,
   locale: "zh",
   title: "加密货币国外热门讨论",
   shortTitle: "加密货币",
