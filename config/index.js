@@ -110,6 +110,48 @@ const siteMetadata = {
         },
       ],
     },
+    {
+      locale: "ja",
+      title: "暗号通貨人気の応答",
+      shortTitle: "暗号通貨人気",
+      description: "人気の暗号通貨記事を日本語で閲覧",
+      keywords: ["buzzing", "暗号通貨"],
+      menuLinks: [
+        // {
+        // name: "每週精選",
+        // url: "/zh-Hant/issues",
+        // },
+        // {
+        //   name: "RSS",
+        //   url: "/zh-Hant/rss.xml",
+        //   prefetch: false,
+        // },
+      ],
+      menuLinks: [
+        {
+          name: "毎週の選択",
+          url: "/jp/issues",
+        },
+      ],
+
+      social: [
+        {
+          name: `Crypto Currency`,
+          url: `https://www.reddit.com/r/CryptoCurrency`,
+          external: true,
+        },
+        {
+          name: "BTC Group",
+          url: "https://www.reddit.com/r/Bitcoin",
+          external: true,
+        },
+        {
+          name: `Buzzing`,
+          url: `https://www.buzzing.cc/zh-Hant`,
+          external: true,
+        },
+      ],
+    },
   ],
 };
 
