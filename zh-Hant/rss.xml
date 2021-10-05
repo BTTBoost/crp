@@ -1,4 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 Oct 2021 06:01:11 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[在超過1290萬份文件和數千兆字節的數據中，詳細說明了億萬富翁和政治家如何避稅，加密貨幣沒有被使用過一次。]]></title><description><![CDATA[潘多拉文件。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 Oct 2021 07:47:41 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[Algorand沒有壞的tokenomics，原因就在這裏。]]></title><description><![CDATA[在關於Algorand的帖子或評論中，你有多少次看到有人說。"我喜歡
+我喜歡Algo，但糟糕的tokenomics讓我望而卻步 "或 "tokenomics是阻止我投資的唯一原因？
+阻止我投資？"。這已經成爲那些重複的流行語之一。
+人們在某個地方看到了，現在又重複着，卻沒有完全理解......]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q1dd1s/algorand_does_not_have_bad_tokenomics_and_heres/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q1dd1s/algorand_does_not_have_bad_tokenomics_and_heres/</guid><pubDate>Tue, 05 Oct 2021 05:30:42 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;How often on a post or comment about Algorand do you see someone say: &amp;quot;I like Algo but the bad tokenomics put me off&amp;quot; or &amp;quot;the tokenomics are the only thing stopping me investing?&amp;quot;. It&amp;#39;s become one of those repeated buzzwords which people saw somewhere and now repeat without fully understanding it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Algorand is a great long term investment &amp;amp; you should not be investing in this coin for a short term pump in my opinion. NFA.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Tokenomics for those who don&amp;#39;t know means the ecosystem of the crypto coin or token and how it distributed to the community, foundation, early backers, private sale etc. Proof of work coins like Bitcoin &amp;amp; Ethereum distribute the coins based on how much &amp;quot;work&amp;quot; or mining you do, so only miners can get more bitcoin.&lt;/p&gt;
+
+&lt;p&gt;Proof of Stake coins can go a few routes but the route that Algorand took was mint all their tokens at once (10 billion ALGO) and set up the distribution cycle from there. Let&amp;#39;s look first how it was distributed initially and the original plan.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Initial Distribution&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The plan for Algorand&amp;#39;s distribution was on a 4 year cycle (by 2024) to have all ALGOs distributed by after listening to the community before the coin was fully released, the extended this to be predicted fully released in &lt;strong&gt;10 years&lt;/strong&gt; (by 2030). The reason from this (from here: &lt;a href=&quot;https://algorand.foundation/governance/algo-dynamics&quot;&gt;https://algorand.foundation/governance/algo-dynamics&lt;/a&gt;) is that they want to reward the long term holders &amp;amp; participants in the governance program:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;quot;A new reward system benefiting the participants, existing and future, who commit to participate in the governance of the ecosystem and prove their commitment by locking their Algos for a potentially long term&amp;quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/2fugee10mhr71.png?width=613&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d23aa62df05b45736c97494e9633f6750c37f5c6&quot;&gt; This shows the proposed allocation of the 10B ALGO over the 10 year scale. &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/51t16be1mhr71.jpg?width=2100&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=b48e764abdabb9dc28d166df780cb3d193145a13&quot;&gt; This is from November 2020 I believe so it quite outdated but it shows the proposed timescale of distribution over 10 years. &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see from the above graph, by 2021 we should be at about 4B ALGO distributed, we are actually at about 6.1B ALGO distributed. I&amp;#39;ll go into why this is a big plus for us investors &amp;amp; why it has happened shortly&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Accelerated vesting&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The biggest concern I see is about Accelerated vesting (the 2.5B for Early Backer incentives) which was scheduled to be fully released by 2024. Basically what happens is that every time the 30 day average price of Algorand hits a new 30 day average high, more coins are released to the early backers as reward for running the relay and this can have the effect of pushing the price down, &lt;em&gt;if&lt;/em&gt; and it&amp;#39;s a BIG if, they decide to sell. The coins are NOT just released into the ecosystem contrary to popular belief on this subreddit, they are distributed to these backers who can choose what to do with them. &lt;strong&gt;To clarify, the accelerated vesting does not give them &amp;quot;more&amp;quot; coins, just they that will receive them faster.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Accelerated vesting is almost over. There are approximately 247m ALGOs still to be distributed via this method according to &lt;a href=&quot;https://np.reddit.com/r/algorand/comments/pu5ynh/accelerated_vesting_is_not_over_yet/&quot;&gt;this post&lt;/a&gt; in the official subreddit, that&amp;#39;s only 10% and I imagine it will be gone next time we hit a 30 day high.&lt;/p&gt;
+
+&lt;p&gt;The vesting is the reason for us being at 6.1B already and the reason this is good (in my opinion) is that the price is still holding steady at around $2 up from $1 earlier in the year even with all these extra ALGO in the ecosystem and it does not look like there has been that much selling from the early backers. Any extra ALGO put into the system will now have diminishing effects on the price.&lt;/p&gt;
+
+&lt;p&gt;We now have 3.9B coins to be distributed in the next 9 years and will likely end sooner than that, but I&amp;#39;m not fully sure on the schedule and how much it will be impacted by the accelerated vesting.&lt;/p&gt;
+
+&lt;p&gt;You can read in detail here about the accelerated vesting: &lt;a href=&quot;https://algorand.foundation/news/algorand-foundation-early-backer&quot;&gt;https://algorand.foundation/news/algorand-foundation-early-backer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Early backers/Algo Foundations holdings&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Another big concern I see is that the Early Backers &amp;amp; Algo foundation hold too much power &amp;amp; % of coins compared to the community. This is definitely true for the moment, by the end of the distribution it will be max 25% to the early backers (assuming no sales/purchases) and about 25% for the Algorand foundation (see below for the tables with this info). Obviously 50% is a huge percentage of the governance and honestly is worrying for a decentralized ecosystem and I don&amp;#39;t blame people being put off by this info. Plus the % of power is larger than 50% right now due to not being at 10B algo, but we have to remember that the early backers are not one homogenous blob and will have different votes &amp;amp; ideas.&lt;/p&gt;
+
+&lt;p&gt;But for me it&amp;#39;s fine because it seems to me that the Algorand foundation &lt;em&gt;should&lt;/em&gt; have a big stake in the game, so 25% of the governance power is completely fine by me and I&amp;#39;m not worried about this part of it.&lt;/p&gt;
+
+&lt;p&gt;The Early Backer&amp;#39;s portion is more concerning although I think it is fine in the long run, but definitely something to consider!&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/4gvjah63mhr71.png?width=583&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a637c4993d17dcf4e50bac0dac9ba078ebead1ae&quot;&gt; The distribution once all 10B Algo are released. &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#39;s some more information about their tokenomics: &lt;a href=&quot;https://algorand.foundation/governance/algo-dynamics&quot;&gt;https://algorand.foundation/governance/algo-dynamics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;TL;DR: Algo&amp;#39;s tokenomics are not bad, they are just built for a long term scale (10 years) and while there are a couple of concerns (early backers). I think this is a phenomenal opportunity to get in on a project by a &lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pzyue3/in_celebration_of_algorands_governance_program/&quot;&gt;great team&lt;/a&gt; (post i made a few days ago about their team if you&amp;#39;re interested).&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[10年前購買的被遺忘的4905美元黃金比特幣實物幣現在價值4800萬美元。]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q1fkpq/forgotten_4905_gold_bitcoin_physical_coin_bought/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q1fkpq/forgotten_4905_gold_bitcoin_physical_coin_bought/</guid><pubDate>Tue, 05 Oct 2021 05:30:42 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[有沒有人完全不知道自己在做什麼？]]></title><description><![CDATA[我只是在想，我是如何進入像Avax、Sol、FTM和ADA這樣的項目的？
+足夠早地看到一個非常好的利潤。總的來說，我的投資組合已經上升到
+我的投資組合已經夠多了，可以截圖了。
+
+但問題是我完全不知道我在做什麼。感覺就像我
+只是一直在扔錢...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q1jrb4/anybody_else_have_absolutely_no_idea_what_they/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q1jrb4/anybody_else_have_absolutely_no_idea_what_they/</guid><pubDate>Tue, 05 Oct 2021 04:30:37 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I was just thinking about how I got into projects like Avax, Sol, FTM, and ADA early enough to see a really nice profit. And all in all my portfolio is up enough that it is screenshot worthy. &lt;/p&gt;
+
+&lt;p&gt;But the thing is I have absolutely no idea what I am doing. It feels like I’ve just been throwing money into Cryptos just based of Reddit, Twitter or Youtubers tell me to buy. My research for Sol consisted of seeing a long Reddit post on this sub of someone shilling it and the thing was I didn’t even read the post. I just looked at the length and thought if this guy went through the effort to type this long of a post it must be a good investment and a bought a couple thousand worth. A lot of my other positions in my portfolio are very similarly purchased. &lt;/p&gt;
+
+&lt;p&gt;Don’t even get me started on the tech, at least half the positions in my portfolio I couldn’t even tell you what they do or their use case. I just know I have made money off it &lt;/p&gt;
+
+&lt;p&gt;The saying that everybody is a genius in a bull run is sooo true. Any idiot can just make money right now(source: an idiot) &lt;/p&gt;
+
+&lt;p&gt;So to this sub that are not smooth brained like me, how do I go about doing your own research?&lt;/p&gt;
+
+&lt;p&gt;I think I’m going to take some profit and  consolidation into stables right then just stick with BTC and ETH till I figure out what the hell I’m doing.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[由於BTC的存在，我沒有債務]]></title><description><![CDATA[我很振奮。7年的債務在不到1年的時間裏消失了，這要感謝奇妙的BTC。
+精彩的BTC。最重要的是，我只需要兌現我包裏的15％左右。
+興奮啊!
+
+編輯--誠然，這不是鉅額債務，但它是跟隨我多年的債務。
+多年來，我一直無法清償這些債務，因爲我身處在美國。]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q1ka73/debt_free_thanks_to_btc/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q1ka73/debt_free_thanks_to_btc/</guid><pubDate>Tue, 05 Oct 2021 04:30:37 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m pumped. 7 years of debt disappearing in less than 1 year thanks to the wonderful BTC. And the best part is I only need to cash out 15ish% of my bag. Stoked!&lt;/p&gt;
+
+&lt;p&gt;Edit - admittedly it’s not huge debt but it’s debt that’s been following me around for years that I was unable to clear due to being in an out of work with health problems. Thankfully life has been much more stable the past 1.5 years which in turn allowed me to invest in BTC!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[SHIB在上升，但對我來說仍然是一個拒絕。]]></title><description><![CDATA[人們在他們的子和推特上現在失去了他們的頭腦，因爲shib
+漲了。人們聲稱這是一個新的歷史高點，我看到的是一個更大的飆升，回到它剛推出的時候。
+但不管怎樣，它正在上升。推特上的一個迴應稱，我們
+我們即將成爲shibillionairs或類似的東西...。]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q1fidn/shib_on_the_rise_but_still_a_no_for_me/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q1fidn/shib_on_the_rise_but_still_a_no_for_me/</guid><pubDate>Tue, 05 Oct 2021 04:30:37 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;People on their sub and Twitter are losing their minds right now because shib went up. People claiming a new all time high, I see a way bigger spike back when it first launched, but whatever, it’s going up. A Twitter response claimed, we are about to be shibillionairs or something along those lines. &lt;/p&gt;
+
+&lt;p&gt;Look, there is no hate here, if you made or are making money, congrats. I just can’t do it. The whole idea of meme coins has just become infuriating.&lt;/p&gt;
+
+&lt;p&gt;Ive spent a lot of time on this sub learning about different projects, listening to pros and cons. It’s become really interesting to understand what projects do, what their utility is. Ive started to DCA into coins I believe in, ATOM, SOL, ETH, because I believe that regardless of market situations, their utility will help them continue growing. &lt;/p&gt;
+
+&lt;p&gt;Meme coins feel like playing the lotto. A lot of people love the lotto. I never play. I feel pretty strongly that I’m meant to earn money and invest, but not just luck into riches. &lt;/p&gt;
+
+&lt;p&gt;Again, congrats to anyone making money on any crypto, but I’ll stick to my utility based bag of coins. &lt;/p&gt;
+
+&lt;p&gt;Rant over, thanks 🙏&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[在超過1290萬份文件和數千兆字節的數據中，詳細說明了億萬富翁和政治家如何避稅，加密貨幣沒有被使用過一次。]]></title><description><![CDATA[潘多拉文件。
 
 數以TB計的數據，1290萬份文件，都詳細說明了億萬富翁和300多名腐敗政客如何避稅。
 超過300名腐敗的政客是如何避稅的。
@@ -257,80 +349,4 @@ TL;DR在最後。
 &lt;p&gt;&lt;a href=&quot;https://preview.redd.it/oed7j0f3scr71.png?width=1616&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=cf60279a60b0bf67ac12d4c2b4d6aeb978e00973&quot;&gt;https://preview.redd.it/oed7j0f3scr71.png?width=1616&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=cf60279a60b0bf67ac12d4c2b4d6aeb978e00973&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://preview.redd.it/ciuy89d4scr71.png?width=1488&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7291fd90739b46140f265d7310074a1a367699e8&quot;&gt;https://preview.redd.it/ciuy89d4scr71.png?width=1488&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7291fd90739b46140f265d7310074a1a367699e8&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[投票結果動態（點擊放大）。
-- 3月24日，BTC 52K，16%認爲BTC &lt; 100K
-- 6月21日，BTC 31K，40%認爲BTC &lt; 100K
-- 10月3日，BTC 48K，30%認爲BTC &lt; 100K
-因此，10月的價格與3月相似，但恐懼感仍像6月一樣高......不錯！🚀 https://t.co/eQt3xc3WQY]]></title><link>https://crypto.buzzing.cc/tweet/1444992563279278080</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1444992563279278080</guid><pubDate>Mon, 04 Oct 2021 12:35:44 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[塔克-卡爾森：事實證明，他們所說的關於疫苗的一切
-關於疫苗的說法都是完全錯誤的!
-https://t.co/0LdvVIKfV9 https://t.co/SBesE8cd7q]]></title><link>https://crypto.buzzing.cc/tweet/1445004225210105858</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1445004225210105858</guid><pubDate>Mon, 04 Oct 2021 12:35:44 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[每日討論 - 2021年10月4日 (GMT+0)]]></title><description><![CDATA[歡迎來到每日討論。請閱讀免責聲明、準則和
-規則後再參與。
-
---------------------------------------------------------------------------------
-
-
-
-
-
-免責聲明。
-
-考慮到所有在這裏發佈的信息，並在其中加入一些鹽。
-總是交叉檢查...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q0tyy1/daily_discussion_october_4_2021_gmt0/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q0tyy1/daily_discussion_october_4_2021_gmt0/</guid><pubDate>Mon, 04 Oct 2021 12:32:36 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to the Daily Discussion. Please read the disclaimer, guidelines, and rules before participating.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr/&gt;
-
-&lt;h2&gt;&lt;/h2&gt;
-
-&lt;h3&gt;Disclaimer:&lt;/h3&gt;
-
-&lt;p&gt;Consider all information posted here with several liberal heaps of salt, and always cross check any information you may read on this thread with known sources. Any trade information posted in this open thread may be highly misleading, and could be an attempt to manipulate new readers by known &amp;quot;pump and dump (PnD) groups&amp;quot; for their own profit. BEWARE of such practices and exercise utmost caution before acting on any trade tip mentioned here. &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Please be careful about what information you share and the actions you take.&lt;/strong&gt; Do not share the amounts of your portfolios (why not just share percentage?). Do not share your private keys or wallet seed. Use strong, non-SMS 2FA if possible. Beware of scammers and be smart. Do not invest more than you can afford to lose, and do not fall for pyramid schemes, promises of unrealistic returns (get-rich-quick schemes), and other common scams.&lt;/p&gt;
-
-&lt;hr/&gt;
-
-&lt;h2&gt;&lt;/h2&gt;
-
-&lt;h3&gt;Rules:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;All &lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/about/rules/&quot;&gt;sub rules&lt;/a&gt; apply in this thread. The prior exemption for karma and age requirements is no longer in effect. &lt;/li&gt;
-&lt;li&gt;Discussion topics must be related to cryptocurrency.&lt;/li&gt;
-&lt;li&gt;Behave with civility and politeness. Do not use offensive, racist or homophobic language.&lt;/li&gt;
-&lt;li&gt;Comments will be sorted by newest first.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr/&gt;
-
-&lt;h2&gt;&lt;/h2&gt;
-
-&lt;h3&gt;Useful Links:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/wiki/beginner_resources&quot;&gt;&lt;strong&gt;Beginner Resources&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/gj96lb/introducing_rcryptocurrency_moons/&quot;&gt;&lt;strong&gt;Intro to r/Cryptocurrency MOONs 🌔&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/wiki/moons_wiki/&quot;&gt;&lt;strong&gt;MOONs Wiki Page&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://old.reddit.com/r/CryptoCurrency/comments/kth255/join_the_crypto_currency_discord/&quot;&gt;&lt;strong&gt;r/CryptoCurrency Discord&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/cryptocurrencymemes&quot;&gt;&lt;strong&gt;r/CryptoCurrencyMemes&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://old.reddit.com/r/CryptoCurrency/search?q=title%3A%22Daily+Discussion+-+%22+&amp;amp;restrict_sr=on&amp;amp;sort=new&amp;amp;t=all&quot;&gt;&lt;strong&gt;Prior Daily Discussions&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrencyMeta/&quot;&gt;&lt;strong&gt;r/CryptoCurrencyMeta&lt;/strong&gt;&lt;/a&gt; - Join in on all meta discussions regarding &lt;a href=&quot;/r/CryptoCurrency&quot;&gt;r/CryptoCurrency&lt;/a&gt; whether it be moon distributions or governance.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[更新：恢復已故人員的加密貨幣]]></title><description><![CDATA[非常感謝這裏的朋友們，他們給了我一些很好的指導。
-
-我確實設法恢復了他至少95%的投資組合。有1或2個小
-我找不到他的鑰匙或密碼，但他的妻子很高興，因爲我們確實找回了他的大部分錢。
-我們確實設法恢復了他的大部分資金。
-
-對於那些給我發信息的人...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q0zviw/update_recovering_a_deceased_persons_crypto/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q0zviw/update_recovering_a_deceased_persons_crypto/</guid><pubDate>Mon, 04 Oct 2021 10:30:46 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Big thanks to the folks here who gave me some good pointers. &lt;/p&gt;
-
-&lt;p&gt;I did manage to recover at least 95% of his portfolio.
-There are 1 or 2 small wallets that I couldn’t find his keys or password but his wife is thrilled that we did manage to recover the bulk of his money. &lt;/p&gt;
-
-&lt;p&gt;To those guys who messaged me with tips and tricks. Many thanks 🙏 &lt;/p&gt;
-
-&lt;p&gt;To those guys who accused me of stealing someone’s money - I was prepared to dox myself last night to get the help I needed but won’t be doing that now even though I have nothing to hide and nothing to lose. I’m not going to go out of my way to steal $20,000 when I have millions in crypto. &lt;/p&gt;
-
-&lt;p&gt;To those guys who messaged me asking for a percentage to recover the funds … ummm really?&lt;/p&gt;
-
-&lt;p&gt;And to the scammers who messaged me thinking I was born last night - fuck you and eat shit.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[#比特幣每月的RSI是66。在其他市場，RSI在30到70之間。但對於比特幣則不同。RSI在45-100範圍內。那麼下一步是什麼，綠色底部（如2014年和2018年）還是綠色頂部（如2011年）？有一件事是肯定的，這個週期是不同的。https://t.co/pZo6WjrpoK]]></title><link>https://crypto.buzzing.cc/tweet/1444953496093085699</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1444953496093085699</guid><pubDate>Mon, 04 Oct 2021 09:35:47 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
