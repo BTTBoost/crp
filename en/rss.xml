@@ -1,4 +1,125 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 07 Oct 2021 06:34:26 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Hold on to your (market) caps! BTC hits $1,000,000,000,000]]></title><description><![CDATA[We're back guys and gals. Bitcoin hit that 1 trillion... Yes ONE TRILLION...
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 07 Oct 2021 08:31:46 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[El Salvadorans buying more bitcoin through the Chivo ATMs than they are withdrawing]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q2yii5/el_salvadorans_buying_more_bitcoin_through_the/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q2yii5/el_salvadorans_buying_more_bitcoin_through_the/</guid><pubDate>Thu, 07 Oct 2021 06:42:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Hedera Hashgraph (ℏ) DD]]></title><description><![CDATA[Ħello All. Ħello Future.
+
+I have put this together to compile all the information I have come across on
+this wonderful project, and hope it will help all ℏBAR-Barians new and old.
+
+Introduction
+
+Hedera Hashgraph is a 3rd Generation Distributed Ledger Technology (DLT) created
+by US Air Force computer…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q2s58g/hedera_hashgraph_ℏ_dd/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q2s58g/hedera_hashgraph_ℏ_dd/</guid><pubDate>Thu, 07 Oct 2021 05:30:44 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Ħello All. Ħello Future.&lt;/p&gt;
+
+&lt;p&gt;I have put this together to compile all the information I have come across on this wonderful project, and hope it will help all ℏBAR-Barians new and old.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hedera Hashgraph is a 3rd Generation Distributed Ledger Technology (DLT) created by US Air Force computer scientists Leemon Baird and Mance Harmon operating in the Decentralised Finance (DeFi) space. &lt;em&gt;You can learn more about DLT technology&lt;/em&gt; &lt;a href=&quot;https://www.r3.com/blockchain-101/&quot;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt; &lt;em&gt;and the definition of DeFi&lt;/em&gt; &lt;a href=&quot;https://hedera.com/learning/what-is-decentralized-finance#:%7E:text=Short%20for%20decentralized%20finance%2C%20DeFi,applications%20built%20on%20blockchain%20technologies&quot;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt; Renowned mathematician Baird fashioned the Hashgraph Algorithm which dramatically improves upon current blockchain technology and offers a fully decentralised solution, scalable to enterprises of all sizes across the globe.&lt;/p&gt;
+
+&lt;p&gt;Hedera patented solution achieves the highest grade of security theoretically possible, Asynchronous byzantine fault tolerant (ABFT), whilst maintaining the fastest transaction speeds and extremely low energy consumption. All of this, coupled with complete finality and low fixed fees, Hedera offers a turnkey solution to enterprises for public ledgers. Unlike any other public network available, Hedera is governed by a council of globally recognised/respected companies, banks and universities on every continent (excl. Antarctica). Some examples include Google, IBM and Boeing; however, the full Governing Council can be found &lt;a href=&quot;https://hedera.com/council&quot;&gt;here&lt;/a&gt;, and the list is really impressive. &lt;strong&gt;HBAR(&lt;/strong&gt; ℏ &lt;strong&gt;)&lt;/strong&gt; is the native, energy-efficient cryptocurrency of Hedera that powers the decentralised economy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hedera Hashgraph offers an array of features and services. There are currently two primary services which include:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://hedera.com/token-service&quot;&gt;Hedera Token Service&lt;/a&gt; – Configure, mint, and manage fungible and non-fungible tokens on Hedera without needing to set up and deploy a smart contract.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://hedera.com/consensus-service&quot;&gt;Hedera Consensus Service&lt;/a&gt; – Send event data to the public ledger for immutable, verifiable, and fairly ordered records of applications and layer -2 networks.&lt;/p&gt;
+
+&lt;p&gt;No Fork Guarantee – As the Hashgraph consensus algorithm is exclusive with open review code, the network and its cryptocurrency have a no-fork guarantee. This ultimately means that other ‘versions’ of the blockchain cannot be created, which ensures stability of development for application builders, and long-term confidence in the network.&lt;/p&gt;
+
+&lt;p&gt;There are many other capabilities and additional functionality that Hedera offers including scheduled transactions, multi signature transactions, atomic swaps, file services and smart contracts 2.0, interactable with native Hedera services, like HTS. &lt;a href=&quot;https://hedera.com/services&quot;&gt;View Here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;More information on these can be found by clicking the links.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/32myfy4exvr71.png?width=1630&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0a20536a6abe505f7b7b778f89f26608f620c061&quot;&gt;https://preview.redd.it/32myfy4exvr71.png?width=1630&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0a20536a6abe505f7b7b778f89f26608f620c061&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;True Decentralisation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The common misconception with Hedera Hashgraph is the fact that it is not a decentralised network. This is factually incorrect.&lt;/p&gt;
+
+&lt;p&gt;The official definition of ‘Decentralisation’ is the following; “the transfer of control of an activity or organization to several local offices or authorities rather than one single one.”&lt;/p&gt;
+
+&lt;p&gt;In an effort to decentralise, Hedera has top tier organisations spread around the world, operating on different continents and under different governments. These are highly respected, reputable and trusted organisations. The Governing Council run the nodes and the nodes are distributed across the world. Currently the Governing Council is made up of 23 members but there will be a total of 39 in the near future. The Governing Council share equal vote in the direction of the software and each member has a limited 3-year maximum term, with up to 2 consecutive terms.&lt;/p&gt;
+
+&lt;p&gt;The current Governing Council clearly speaks for itself…&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/kcael28fxvr71.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=abee638b1d5529e0696899274ea9c3a903a0fb83&quot;&gt;https://preview.redd.it/kcael28fxvr71.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=abee638b1d5529e0696899274ea9c3a903a0fb83&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Once the network grows, Hedera will introduce ‘Mirror Nodes’. Anyone in the world is able to download and run a node on the Mirror network, and a Mirror Node gets cryptographic proof that all the data is absolutely the consensus and is correct. This ultimately further increases decentralisation.&lt;/p&gt;
+
+&lt;p&gt;Something could be said for many other cryptocurrencies being more centralised than people actually think, as large mining pools are not known, transparent and/or trusted. In some cases, these large mining pools could control the majority supply.&lt;/p&gt;
+
+&lt;p&gt;Leemon explains this really well in &lt;a href=&quot;https://www.youtube.com/watch?v=R6R3TKXyofY&amp;amp;ab_channel=Cryptocito&quot;&gt;this interview&lt;/a&gt; (timestamp 14:10).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management &amp;amp; Ownership (Swirlds)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hedera was founded by Hashgraph inventor Leemon Baird and his business partner Mance Harmon, and has an exclusive license to the Hashgraph patents held by their company. Swirlds, the creator of the Hashgraph Algorithm, has a permanent seat on the Governing Council and an equal vote. More information on the MLA agreement between Swirlds and Hedera can be found &lt;a href=&quot;https://help.hedera.com/hc/en-us/articles/360006895478-Does-Hedera-have-an-exclusive-license-to-use-the-hashgraph-technology-&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HBAR Foundation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“The Hedera Governing Council, the group of diverse organizations responsible for stewarding the Hedera network, has announced the approval of a plan to allocate 10.7 billion HBARS (approximately 20% of total supply), currently worth US $5 billion as of September 16th, 2021, towards the development of the Hedera ecosystem.”&lt;/p&gt;
+
+&lt;p&gt;“Hedera&amp;#39;s Governing Council has initially earmarked up to 5.35 billion HBARS, worth approximately US $2.5 billion as of Sept 16th, to the newly established &lt;a href=&quot;https://c212.net/c/link/?t=0&amp;amp;l=en&amp;amp;o=3293338-1&amp;amp;h=1488909395&amp;amp;u=http%3A%2F%2Fhbarfoundation.org%2F&amp;amp;a=independent+HBAR+Foundation&quot;&gt;independent HBAR Foundation&lt;/a&gt;. The HBAR Foundation will have autonomy over the administration, development, and deployment of its HBAR distributions, and will provide grants to developers, start-ups, and other organizations to accelerate the development and adoption of the Hedera network for a wide variety of applications in decentralized finance (DeFi), non-fungible tokens (NFTs), Central Bank Digital Currencies (CBDCs), gaming and other industries. The HBAR Foundation will be led by &lt;a href=&quot;https://c212.net/c/link/?t=0&amp;amp;l=en&amp;amp;o=3293338-1&amp;amp;h=3898579510&amp;amp;u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshaynehigdon%2F&amp;amp;a=Shayne+Higdon&quot;&gt;Shayne Higdon&lt;/a&gt;, a hands-on enterprise software executive with significant venture capital and private equity experience, having led 40+ M&amp;amp;A and corporate venture transactions in areas such as SaaS, multi-cloud, application performance, and identity management.”&lt;/p&gt;
+
+&lt;p&gt;This is something that is really exciting and that is completely non-existent in the crypto space and will drive teams of people globally to begin building on the Hedera network ultimately identifying new use cases and growing the ecosystem. Watch this space!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Greenest PoS DLT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Energy consumption has a huge role to play in the economy and innovative enterprises. The costs of the likes of Bitcoin and Ethereum can no longer be ignored. With Hedera surpassing the number of Ethereum transactions, and processing more than 100,000 TPS (competing with Visa!), it’s only a matter of time before expensive methods become obsolete.&lt;/p&gt;
+
+&lt;p&gt;The UCL team used a mathematical consumption model that predicts expected energy consumption per transaction, as a function of network load. Applying this model to six different PoS-based DLT systems confirms that Hedera Hashgraph energy consumption per transaction is indeed at least three orders of magnitude lower than that of Bitcoin. Furthermore, UCL discovered significant differences among the analysed PoS-based systems themselves. &lt;a href=&quot;https://hedera.com/ucl-blockchain-energy&quot;&gt;View Here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/fafbvgthxvr71.png?width=1001&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a40240c37b13b985360ea6ead9f5a5e838d1863f&quot;&gt;https://preview.redd.it/fafbvgthxvr71.png?width=1001&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a40240c37b13b985360ea6ead9f5a5e838d1863f&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/5qagpanjxvr71.png?width=1747&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=13ee1a8660fc11d3a6ff5a7c7d52f2bacb18a27e&quot;&gt;https://preview.redd.it/5qagpanjxvr71.png?width=1747&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=13ee1a8660fc11d3a6ff5a7c7d52f2bacb18a27e&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Future Road Map&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hedera has a clear and transparent roadmap available which improves on their Network, Ecosystem, Performance &amp;amp; Scale, Decentralisation and Smart Contracts. See below;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q4 2021&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;HTS Improvement for NFTS&lt;br/&gt;
+Flexible Token Associations&lt;br/&gt;
+Reactive Native SDK&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q1 2022&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Longer Term Scheduled Transactions&lt;br/&gt;
+Scalable Smart Contracts&lt;br/&gt;
+Additional Mirror Node Data Scalability&lt;br/&gt;
+Sustained Network Performance Optimisation&lt;br/&gt;
+Additional Network Automation&lt;br/&gt;
+Upgraded Developer Portal&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q2 2022&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hedera Improvement Proposal&lt;br/&gt;
+Enable Ecosystem Integrations&lt;br/&gt;
+Permissioned Community Nodes&lt;br/&gt;
+Enable Staking Rewards Programs&lt;/p&gt;
+
+&lt;p&gt;You can view more details on the Hedera roadmap &lt;a href=&quot;https://hedera.com/roadmap&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Resources:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Use Cases&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Shout out to &lt;a href=&quot;https://np.reddit.com/u/Jakertrader47/&quot;&gt;u/Jakertrader47&lt;/a&gt; for posting, you can find all the use cases here: &lt;a href=&quot;https://www.hbartothemoon.com/allcases&quot;&gt;https://www.hbartothemoon.com/allcases&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FUD (Fear, Uncertainty &amp;amp; Doubt)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I really liked &lt;a href=&quot;https://np.reddit.com/r/hashgraph/comments/pvgxcs/an_arsenal_of_responses_to_combat_common_fud/&quot;&gt;this post&lt;/a&gt; from &lt;a href=&quot;https://np.reddit.com/u/divertss/&quot;&gt;u/divertss&lt;/a&gt; and wanted to include it as it outlines and combats any elements of common FUD surrounding HBAR, so make sure you check it out.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Worth a Watch&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=IjQkag6VOo0&amp;amp;ab_channel=HederaHashgraph&quot;&gt;https://www.youtube.com/watch?v=IjQkag6VOo0&amp;amp;ab_channel=HederaHashgraph&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=wqpRU2deHlo&amp;amp;ab_channel=HederaHashgraph&quot;&gt;https://www.youtube.com/watch?v=wqpRU2deHlo&amp;amp;ab_channel=HederaHashgraph&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=R6R3TKXyofY&amp;amp;t=1128s&amp;amp;ab_channel=Cryptocito&quot;&gt;https://www.youtube.com/watch?v=R6R3TKXyofY&amp;amp;t=1128s&amp;amp;ab_channel=Cryptocito&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you enjoyed this post, and would like me to do a follow up post diving into the the financials (Market Cap / Price Action / Stock Price) and use cases then let me know.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://np.reddit.com/r/hashgraph/comments/q22401/hedera_hashgraph_%E2%84%8F_dd_part_2/&quot;&gt;Continue to Part 2 Here!&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Soros Fund Management CEO confirms the billionaire investor's family office is trading bitcoin]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q2xfr6/soros_fund_management_ceo_confirms_the/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q2xfr6/soros_fund_management_ceo_confirms_the/</guid><pubDate>Thu, 07 Oct 2021 05:30:44 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Today is the 7th Anniversery of Slaying the Bear Whale who sold 30,000 BTC for $300 per bitcoin]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q2nlvz/today_is_the_7th_anniversery_of_slaying_the_bear/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q2nlvz/today_is_the_7th_anniversery_of_slaying_the_bear/</guid><pubDate>Thu, 07 Oct 2021 05:30:44 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Hold on to your (market) caps! BTC hits $1,000,000,000,000]]></title><description><![CDATA[We're back guys and gals. Bitcoin hit that 1 trillion... Yes ONE TRILLION...
 Market cap today. We're back in business. Great start to Q4. Long may this run
 continue.
 
@@ -505,33 +626,4 @@ threaten to smash your head in with unless you transfer your funds. What…]]></
 &lt;p&gt;Keep your mouth shut about how much you own. I know it seems safe on reddit but you’d be surprised how easy it is for someone to dox you if they wanted to badly enough. &lt;/p&gt;
 
 &lt;p&gt;Talk in percentages and not hard numbers. It would be fucking tragic to see someone lose their investments because they were looking for clout online, or even if they just didn’t know&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[MicroStrategy confirm that buying/ holding bitcoin is now their primary corporate business strategy in a letter to the FASB, with growing their analytics software second.]]></title><description><![CDATA[In a recent letter to the FASB found HERE
-[https://www.fasb.org/cs/BlobServer?blobkey=id&blobnocache=true&blobwhere=1175836327196&blobheader=application%2Fpdf&blobheadername2=Content-Length&blobheadername1=Content…]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q29mq5/microstrategy_confirm_that_buying_holding_bitcoin/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q29mq5/microstrategy_confirm_that_buying_holding_bitcoin/</guid><pubDate>Wed, 06 Oct 2021 08:34:19 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;In a recent letter to the FASB found &lt;a href=&quot;https://www.fasb.org/cs/BlobServer?blobkey=id&amp;amp;blobnocache=true&amp;amp;blobwhere=1175836327196&amp;amp;blobheader=application%2Fpdf&amp;amp;blobheadername2=Content-Length&amp;amp;blobheadername1=Content-Disposition&amp;amp;blobheadervalue2=973641&amp;amp;blobheadervalue1=filename%3DAGENDACONSULT.ITC.012.MICROSTRATEGY_INCORPORATED_PHONG_LE.pdf&amp;amp;blobcol=urldata&amp;amp;blobtable=MungoBlobs&quot;&gt;HERE&lt;/a&gt;, President &amp;amp; Chief Financial Officer of MicroStrategy, Phong Le writes:&lt;/p&gt;
-
-&lt;p&gt;&amp;quot;In the first quarter of 2021, we determined to pursue as part of our overall corporate strategy, a strategy of acquiring bitcoin with our liquid assets that exceed working capital requirements, and from time to time, 
-subject to market conditions, issuing debt or equity securities with the objective of using the proceeds to purchase bitcoin. &lt;/p&gt;
-
-&lt;p&gt;We now pursue two corporate strategies in the operation of our business: &lt;/p&gt;
-
-&lt;p&gt;(1)to acquire and hold bitcoin, which we view as a store of value, supported by a robust and public open-source
-architecture, that is untethered to sovereign monetary policy and can therefore serve as a hedge against inflation and &lt;/p&gt;
-
-&lt;p&gt;(2) to grow our enterprise analytics software business to promote our vision of Intelligence 
-Everywhere. &amp;quot;&lt;/p&gt;
-
-&lt;p&gt;The history of Bitcoin will never forget MicroStrategy.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[My wife thought I’m cheating on her because I’m spending too much time on internet. She searched my browser history, now she thinks I’m addicted to drug called Bitocin.]]></title><description><![CDATA[Lately, I started to stare at my phone more than usual due to recent spike in
-cryptocurrency volatile market. You know how it goes when market is pumping. I
-started to learn or maybe even repeat some things that I know about cryptos,
-blockchain, TA...
-
-My wife started to have feelings that I’m…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q2eizx/my_wife_thought_im_cheating_on_her_because_im/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q2eizx/my_wife_thought_im_cheating_on_her_because_im/</guid><pubDate>Wed, 06 Oct 2021 08:34:19 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Lately, I started to stare at my phone more than usual due to recent spike in cryptocurrency volatile market. You know how it goes when market is pumping. I started to learn or maybe even repeat some things that I know about cryptos, blockchain, TA...&lt;/p&gt;
-
-&lt;p&gt;My wife started to have feelings that I’m cheating on her. The suspicion was building up. She was trying to see what I’m doing on my phone most of the day, why I was hiding the screen from her. You know, I followed the most crucial commandment of crypto. Don’t disclose that you’re invested in crypto.&lt;/p&gt;
-
-&lt;p&gt;Few days passed, I got little bit drunk and went to sleep. My wife realised it and researched my phone! Oh boy, that was definitely good morning. She started to scream at me, that I’m fucking narcotic, that now she knows from where i was getting all the money. She told me that she knows about my addiction to &lt;strong&gt;Bitocin&lt;/strong&gt; and how I’m buying it low selling it high. She knows everything. &lt;/p&gt;
-
-&lt;p&gt;Recent search history: “best place to store  Bitocin”, “where to hide keys to your Trezor”, “where to buy Bitocin”, “how to sell Bitocin”.  “How to fuck your cousin...” fuck thats different story.&lt;/p&gt;
-
-&lt;p&gt;Moral of the story, clear your cookies and cache, delete the browse history. You don’t want your wife to know that you’re addicted to Bitocin.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Bitcoin set to become legal payment in Brazil]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q22qvz/bitcoin_set_to_become_legal_payment_in_brazil/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q22qvz/bitcoin_set_to_become_legal_payment_in_brazil/</guid><pubDate>Wed, 06 Oct 2021 07:38:20 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Decentralization, not security or speed, is the true value of Blockchain - Minima Chief Blockchain Architect]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q2aws2/decentralization_not_security_or_speed_is_the/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q2aws2/decentralization_not_security_or_speed_is_the/</guid><pubDate>Wed, 06 Oct 2021 06:30:42 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
