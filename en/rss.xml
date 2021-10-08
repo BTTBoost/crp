@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Oct 2021 20:15:43 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Nobel Prize in Economic Sciences: Satoshi Nakamoto]]></title><description><![CDATA[It's Nobel week in Stockholm, grant Satoshi Nakamoto The Economic Sciences Prize
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Oct 2021 22:07:46 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Bloomberg Believes Securities And Exchange Commission (SEC) May Approve Four Bitcoin ETFs For The First Time By The End Of October]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q3yh5z/bloomberg_believes_securities_and_exchange/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q3yh5z/bloomberg_believes_securities_and_exchange/</guid><pubDate>Fri, 08 Oct 2021 19:30:08 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[You can now view your Moon earnings history with charts!]]></title><description><![CDATA[Thank you to everyone who has given me feedback and reported bugs over this last
+round, it's been super valuable!
+
+
+🌕🤖 MOONS BOT 1.0
+
+(Mention u/moons_bot [/u/moons_bot] in a comment to get your report and chart)
+
+
+CHARTS
+
+I've been steadily chipping away at the to-do list for Moons Bot and…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q3yful/you_can_now_view_your_moon_earnings_history_with/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q3yful/you_can_now_view_your_moon_earnings_history_with/</guid><pubDate>Fri, 08 Oct 2021 19:30:08 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;sup&gt;Thank you to everyone who has given me feedback and reported bugs over this last round, it&amp;#39;s been super valuable!&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h1&gt;🌕🤖 MOONS BOT 1.0&lt;/h1&gt;
+
+&lt;p&gt;(Mention &lt;a href=&quot;/u/moons_bot&quot;&gt;u/moons_bot&lt;/a&gt; in a comment to get your report and chart)&lt;/p&gt;
+
+&lt;h1&gt;CHARTS&lt;/h1&gt;
+
+&lt;p&gt;I&amp;#39;ve been steadily chipping away at the to-do list for Moons Bot and finally am ready to go live with a big update: Charts! Moons Bot will now send you a chart of your earnings over the last 5 rounds. It&amp;#39;s not super pretty, but it&amp;#39;s a start. Here&amp;#39;s an example of mine after Round 18:&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/0dp93h94c5s71.png?width=697&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=64520b77bd025aa571a5529875a179b8cb68a847&quot;&gt;https://preview.redd.it/0dp93h94c5s71.png?width=697&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=64520b77bd025aa571a5529875a179b8cb68a847&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;These charts are linked in the report that Moons Bot sends you, so just find the link near the top (between the  📈 chart emojis).&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/b8rtaee6c5s71.png?width=833&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b46dc1b26501100e1777f285bb115d8477445aec&quot;&gt;https://preview.redd.it/b8rtaee6c5s71.png?width=833&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b46dc1b26501100e1777f285bb115d8477445aec&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1&gt;WHAT&amp;#39;S NEXT&lt;/h1&gt;
+
+&lt;p&gt;Up next on the list is a subscription service that will enable you to sign up to receive your report automatically each period without having to remember to ping the bot. Hopefully that will be out before the next round ends.&lt;/p&gt;
+
+&lt;p&gt;If you have other suggestions please leave a comment and we can discuss! Happy moon farming!&lt;/p&gt;
+
+&lt;p&gt;---&lt;/p&gt;
+
+&lt;h1&gt;DEV STUFF&lt;/h1&gt;
+
+&lt;p&gt;Most of the other development has been on my side of the bot, where I can view what it&amp;#39;s doing and who is requesting reports, handling errors, etc. If anyone is interested in how that looks, here is a fresh table with only my request so far. It will display the last 20 requests so I can keep an eye on any problems.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/w72kdbf8c5s71.png?width=735&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=79bd7bdee1880275654bfe854420520313f76622&quot;&gt;https://preview.redd.it/w72kdbf8c5s71.png?width=735&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=79bd7bdee1880275654bfe854420520313f76622&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m having fun building this and happy to help out anyone else who&amp;#39;s interested in learning how to program or wants to know more about the bot. Feel free to leave a comment and I&amp;#39;ll answer when I can.&lt;/p&gt;
+
+&lt;p&gt;EDIT: Here&amp;#39;s a look at the terminal after 20 minutes and 100 or so requests. Looks like it&amp;#39;s going slow, but going. A few users seem to have messages disabled or something which throws that &amp;quot;Blacklisted Bot&amp;quot; message by their name, so make sure you can get messages if you request one.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/e8cgljwdm8s71.png?width=875&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=36a33ab916b9fac24e1c9c8ad1f7d3eceae9566f&quot;&gt;https://preview.redd.it/e8cgljwdm8s71.png?width=875&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=36a33ab916b9fac24e1c9c8ad1f7d3eceae9566f&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;---&lt;/p&gt;
+
+&lt;p&gt;Just want to note that the bot often gets a large increase in requests when these posts go up, so there may be delays or bugs if many people are requesting reports. If you experience anything like this feel free to let me know so I can try to improve it!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Nobel Prize in Economic Sciences: Satoshi Nakamoto]]></title><description><![CDATA[It's Nobel week in Stockholm, grant Satoshi Nakamoto The Economic Sciences Prize
 for the priceless contribution of cryptocurrency to the world's economy!]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q3tk31/nobel_prize_in_economic_sciences_satoshi_nakamoto/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q3tk31/nobel_prize_in_economic_sciences_satoshi_nakamoto/</guid><pubDate>Fri, 08 Oct 2021 16:59:38 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It&amp;#39;s Nobel week in Stockholm, grant Satoshi Nakamoto The Economic Sciences Prize for the priceless contribution of cryptocurrency to the world&amp;#39;s economy!&lt;/p&gt;
 &lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[The first time I heard of BTC was in 2016, BTC was 600$ I thought it was too expensive, the next time I checked was in 2021 BTC was 64,000$.]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q3x44k/the_first_time_i_heard_of_btc_was_in_2016_btc_was/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q3x44k/the_first_time_i_heard_of_btc_was_in_2016_btc_was/</guid><pubDate>Fri, 08 Oct 2021 16:59:38 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Top El Salvador post is by a butt coiner who wants Bitcoin to crash to 1K. He is not offering any "unbiased perspective" nor does he want crypto to succeed.]]></title><description><![CDATA[The controversial top post about El Salvador's OP claims that he wants crypto to
 succeed,
@@ -744,16 +802,4 @@ Therefore I’m taking my earnings and I’m going to DCA…]]></description><li
 &lt;p&gt;Therefore I’m taking my earnings and I’m going to DCA into mostly BTC but also into AlGO.&lt;/p&gt;
 
 &lt;p&gt;I’m seeing BTC mentioned daily in regards to countries slowly adopting as official currency, I see crypto as the next big thing, I believe the next 5 years will be an eye opener for us!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[API3 announce Bitcoin Alliance with El Salvador’s State-Owned Bank and 3 other Crypto Startups]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q3ege3/api3_announce_bitcoin_alliance_with_el_salvadors/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q3ege3/api3_announce_bitcoin_alliance_with_el_salvadors/</guid><pubDate>Thu, 07 Oct 2021 19:30:48 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Do NOT buy SHIB right now]]></title><description><![CDATA[A whale bought more than 6 Trillion SHIB causing the price to go up. If you are
-having some FOMO about SHIB, please ignore it. Do not buy it. Because when the
-whale sells, it is guaranteed that SHIB will crash. This is just a ploy to get
-people to invest more into SHIB. Right after the whale bought…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q3c1fi/do_not_buy_shib_right_now/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q3c1fi/do_not_buy_shib_right_now/</guid><pubDate>Thu, 07 Oct 2021 18:44:49 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;A whale bought more than 6 Trillion SHIB&lt;/strong&gt; causing the price to go up. If you are having some FOMO about SHIB, please ignore it. Do not buy it. Because when the whale sells, it is guaranteed that SHIB will crash. This is just a ploy to get people to invest more into SHIB. Right after the whale bought SHIB, the price has kept going up.&lt;/p&gt;
-
-&lt;p&gt;If you buy SHIB right now, this is exactly what the whale wants you to do. They will certainly cash out on all their SHIB once this hype starts to lose momentum. Plus this is just the only whale that we know of, there are probably more whales that bought SHIB earlier ready to sell.&lt;/p&gt;
-
-&lt;p&gt;Remember, SHIB is a hype coin with no real motive other than to get people to invest before the creators can rugpull. Do yourself a favor and DO NOT invest. This coin has absolutely nothing unique about it other than hype. When the hype dies down, so will the coin.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Out of all coins, I'm betting my money on ETH, MATIC and ADA]]></title><description><![CDATA[ETH doesn't need an introduction for why it's on my list. Demand will keep
-rising and especially after ETH 2.0 drops.Polygon Matic will follow through even
-after ETH 2.0 drops. They are the best commit chain on the market right now in
-my opinion and have great projects on t he way. Even Mark Cuban…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q3bh24/out_of_all_coins_im_betting_my_money_on_eth_matic/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q3bh24/out_of_all_coins_im_betting_my_money_on_eth_matic/</guid><pubDate>Thu, 07 Oct 2021 18:44:49 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;ETH doesn&amp;#39;t need an introduction for why it&amp;#39;s on my list. Demand will keep rising and especially after ETH 2.0 drops.Polygon Matic will follow through even after ETH 2.0 drops. They are the best commit chain on the market right now in my opinion and have great projects on t he way. Even Mark Cuban joined his NFT website with them. They also acquired Hermez roll up which will increase their transaction speeds by up to 10 fold. Overall, great projects for now.And finally Cardano because the concept is still in its infancy honestly. It won&amp;#39;t be in full effect for years from now. I&amp;#39;ll hold their coins and just keep staking. By that time who know how high ADA prices will be&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[API3 announce Bitcoin Alliance with El Salvador’s State-Owned Bank and 3 other Crypto Startups]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q3ege3/api3_announce_bitcoin_alliance_with_el_salvadors/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q3ege3/api3_announce_bitcoin_alliance_with_el_salvadors/</guid><pubDate>Thu, 07 Oct 2021 19:30:48 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
