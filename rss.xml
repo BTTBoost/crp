@@ -1,4 +1,119 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 10 Oct 2021 22:57:08 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA["比特币在很大程度上可以取代黄金的地位，因为它的功能比把金条传来传去要强得多"--贝莱德首席投资官里克-里德，他负责2.4万亿美元的资产。贝莱德的资产管理总额为9.5万亿美元。]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q58tmb/bitcoin_could_take_the_place_of_gold_to_a_large/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q58tmb/bitcoin_could_take_the_place_of_gold_to_a_large/</guid><pubDate>Sun, 10 Oct 2021 20:30:39 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[乔治-索罗斯在2018年。比特币是一个骗局，乔治-索罗斯在2021年初。比特币正在将投资者从黄金中偷走, 乔治-索罗斯的基金在2021年底: 买入比特币]]></title><description><![CDATA[在2018年
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 11 Oct 2021 01:16:51 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[加密货币亿万富翁说他需要购买价值数十亿的稳定币，因为银行不愿意与他或他的公司进行交易]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q5drd4/crypto_billionaire_says_he_needed_to_buy_billions/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q5drd4/crypto_billionaire_says_he_needed_to_buy_billions/</guid><pubDate>Sun, 10 Oct 2021 22:33:16 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[决定在我的余生中每周购买25美元的比特币。]]></title><description><![CDATA[这不是很多钱，当我有更好的收入时，我打算增加它。
+但我一直在思考这个问题。老实说，我认为比特币将
+继续增长，而不是一丝不苟地买入跌停板和HODLing，我打算把它当作一个突变体。
+我打算把它当作共同基金或指数基金，因为我认为...]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q5bzlw/decided_to_buy_25_of_bitcoin_every_week_for_the/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q5bzlw/decided_to_buy_25_of_bitcoin_every_week_for_the/</guid><pubDate>Sun, 10 Oct 2021 21:30:42 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It’s not a lot of money, and I’m going to increase it when I have a better income but I’ve been thinking about this a lot. I honestly think Bitcoin will continue to grow and instead of meticulously buying the dips and HODLing, I’m going to treat it like a mutual fund or an index fund because I think the curve will keep climbing over the course of decades. Does anyone see something I don’t and think this is a bad idea?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[大家都在谈论BTC ETF，但比特币也即将在4年内首次升级。什么是Taproot。]]></title><description><![CDATA[2017年，隔离见证（SegWit）软分叉被执行，这是比特币网络的最后一次升级，直到到现在为止。
+它是比特币网络的最后一次升级，直到今天。这也是一个有争议的
+这也是一次有争议的升级，导致了硬分叉（比特币现金诞生）。然而，Taproot是
+得到了绝大多数矿工的支持，预计它将会...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q5a8z8/everyone_is_talking_about_btc_etf_but_bitcoin_is/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q5a8z8/everyone_is_talking_about_btc_etf_but_bitcoin_is/</guid><pubDate>Sun, 10 Oct 2021 21:30:42 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;In 2017, Segregated Witness (SegWit) soft fork was performed and it was the last upgrade to the Bitcoin’s network until today. It was also a controversial upgrade which lead to a hard fork (Bitcoin Cash was born). However, Taproot is supported by the great majority of miners and it is expected to activate via soft fork on November 16th this year.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Taproot includes three Bitcoin Improvement Proposals&lt;/strong&gt; (BIPs) that improve network’s privacy, security and scalability (scalability is, to put it simply, how many transactions per second the network can handle):&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;BIP340&lt;/strong&gt; introduces &lt;strong&gt;Schnorr digital signature scheme&lt;/strong&gt; on top of the current Elliptic Curve Digital Signature Algorithm (ECDSA). In short, Schnorr reduces Bitcoin’s data load, improves privacy and speeds up transaction verifications. Cryptographers generally agree that Schnorr is better than ECDSA in almost every way with virtually no trade-offs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BIP341&lt;/strong&gt; introduces &lt;strong&gt;Taproot&lt;/strong&gt; – a privacy improvement that &lt;strong&gt;makes smart contracts more efficient and private&lt;/strong&gt; (e.g. only relevant parts of the contract will be revealed. Today, all information is revealed, even that regarding the parts of the contract which weren’t fulfilled).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BIP342&lt;/strong&gt; introduces &lt;strong&gt;Tapscript&lt;/strong&gt; – a reformed version of Bitcoin’s scripting language that enables schnort/taproot transactions and &lt;strong&gt;makes future Bitcoin upgrades easier&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Those improvements will result in cheaper transactions and will enable creating complex smart contracts. But their main feature is &lt;strong&gt;making multisig transactions and complex smart contracts indistinguishable from standard transactions&lt;/strong&gt; via key aggregation (this will also tackle the main problem of the Lightning Network – privacy).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why is it called Taproot?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/gzb9pl8w5ns71.png?width=588&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=93ccbf99d80c0274795120f3a4c80f732f777a12&quot;&gt;https://preview.redd.it/gzb9pl8w5ns71.png?width=588&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=93ccbf99d80c0274795120f3a4c80f732f777a12&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;(A) is how it works today, (B) is how it will work after Taproot activation. Signature verification is the most computationally intensive operation in a script because signatures are verified individually (A). By allowing for signature batch verification (B), Bitcoin can realize its efficiency improvements. &lt;strong&gt;This will open up the possibility of Bitcoin-based Decentralized Autonomous Organizations (DAOs) and other Decentralized Finance (DeFi) applications&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is also worth pointing out that if Taproot was active and widely adopted in April, when bitcoin transaction fees reached an all-time high, it would have most likely allowed everyone to successfully transfer any number of bitcoins.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TLDR:&lt;/strong&gt; Taproot will increase the number of transactions per second that can be made on Bitcoin, upgrade the network’s security and privacy, enable complex DeFi smart contracts and help with the main issue of Lightning Network by increasing its privacy. Taproot improves Bitcoin’s viability not only as a store of value, but also (especially) as a medium of exchange.&lt;/p&gt;
+
+&lt;p&gt;More information can be found here: &lt;a href=&quot;https://kraken.docsend.com/view/9e9y7may8526z934&quot;&gt;https://kraken.docsend.com/view/9e9y7may8526z934&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[KnowYourCrypto #31 - Monero (XMR)]]></title><description><![CDATA[如果你对这个系列的前几篇文章感兴趣，可以在这里查看。
+
+ * 比特币(BTC)
+   [https://www.reddit.com/r/CryptoCurrency/comments/pfxxyp/knowyourcrypto_1_september_1_2021_bitcoin_btc/]
+ * 以太坊(ETH)
+  ...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q5ak6c/knowyourcrypto_31_monero_xmr/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q5ak6c/knowyourcrypto_31_monero_xmr/</guid><pubDate>Sun, 10 Oct 2021 21:30:42 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;If you are interested to the previous posts of this series, check it out here:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pfxxyp/knowyourcrypto_1_september_1_2021_bitcoin_btc/&quot;&gt;Bitcoin (BTC)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pgod2h/knowyourcrypto_2_september_2_2021_ethereum_eth/&quot;&gt;Ethereum (ETH)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/phcnks/knowyourcrypto_3_september_3_2021_cardano_ada/&quot;&gt;Cardano (ADA)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/phyjc1/knowyourcrypto_4_september_4_2021_binance_coin_bnb/&quot;&gt;Binance Coin (BNB)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/piks1m/knowyourcrypto_5_september_5_2021_tether_usdt/&quot;&gt;Tether (USDT)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pj77yd/knowyourcrypto_6_september_6_2021_xrp_xrp/&quot;&gt;XRP (XRP)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pjuvea/knowyourcrypto_7_september_7_2021_dogecoin_doge/&quot;&gt;Dogecoin (DOGE)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pkita5/knowyourcrypto_8_september_8_2021_usd_coin_usdc/&quot;&gt;USD Coin (USDC)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pl5ggp/knowyourcrypto_9_september_9_2021_polkadot_dot/&quot;&gt;Polkadot (DOT)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/plsi6b/knowyourcrypto_10_september_10_2021_solana_sol/&quot;&gt;Solana (SOL)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pmecnl/knowyourcrypto_11_september_11_2021_uniswap_uni/&quot;&gt;Uniswap (UNI)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pn0i2z/knowyourcrypto_12_september_12_2021_binance_usd/&quot;&gt;Binance USD (BUSD)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pnn5su/knowyourcrypto_13_september_13_2021_bitcoin_cash/&quot;&gt;Bitcoin Cash (BCH)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pobquv/knowyourcrypto_14_september_14_2021_litecoin_ltc/&quot;&gt;Litecoin (LTC)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/poy48t/knowyourcrypto_15_september_15_2021_chainlink_link/&quot;&gt;Chainlink (LINK)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/ppcw5u/knowyourcrypto_16_september_16_2021_terra_luna/&quot;&gt;Terra (LUNA)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/ppkvbx/knowyourcrypto_17_september_16_2021_internet/&quot;&gt;Internet Computer (ICP)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pq81eq/knowyourcrypto_18_september_17_2021_wrapped/&quot;&gt;Wrapped Bitcoin (WBTC)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pqtmod/knowyourcrypto_19_september_18_2021_polygon_matic/&quot;&gt;Polygon (MATIC)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pr9mo2/knowyourcrypto_20_september_19_2021_algorand_algo/&quot;&gt;Algorand (ALGO)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/prwmfr/knowyourcrypto21_september_20_2021_vechain_vet/&quot;&gt;VeChain (VET)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pslkws/knowyourcrypto_22_september_21_2021_stellar/&quot;&gt;Stellar Lumens (XLM)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/ptxjs5/knowyourcrypto_23_september_23_2021_harmony_one/&quot;&gt;Harmony (ONE)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pulnr0/knowyourcrypto_24_september_24_2021_hedera/&quot;&gt;Hedera Hashgraph (HBAR)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pv9prd/knowyourcrypto_25_september_25_2021_tron_trx/&quot;&gt;Tron (TRX)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pwjtu4/knowyourcrypto_26_september_27_2021_cosmos_atom/&quot;&gt;Cosmos (ATOM)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pxxskc/knowyourcrypto_27_axie_infinity_axs/&quot;&gt;Axie Infinity (AXS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/q3axyu/knowyourcrypto_28_tezos_xtz/&quot;&gt;Tezos (XTZ)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/q40j0f/knowyourcrypto_29_ergo_erg/&quot;&gt;Ergo (ERG)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/q4ngf4/knowyourcrypto_30_nano_nano/&quot;&gt;Nano (NANO)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;What is it?&lt;/h1&gt;
+
+&lt;p&gt;Monero is a cryptocurrency created in 2014 and released in April of that same year. Its main strength is precisely concerning privacy. Then it also has characteristics common to other virtual currencies, such as Bitcoin. Monero is in fact decentralized and scalable. This means that its value can increase or decrease in scale according to the need and availability of the currency itself. The name derives from Esperanto and in that language it means &amp;quot;coin&amp;quot;. Monero is also particular because it has a different system from the other virtual currencies derived from Bitcoins and is based on a protocol that is in fact called &lt;strong&gt;CryptoNote&lt;/strong&gt;.  The system in question is based on different algorithms and it is no coincidence that it was also praised by one of the developers of Bitcoin Core, an authority in the field of virtual currencies such as Wladimir J. Van der Laan.&lt;/p&gt;
+
+&lt;h1&gt;How does it work?&lt;/h1&gt;
+
+&lt;p&gt;Monero uses, like other virtual currencies, a blockchain system for its transactions, but not very transparent as it is for the sisters of this virtual currency.  The measures adopted for the privacy of those who use Monero are: Ring signature, Stealth address and RingCT (Ring Confidential Transaction):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Monero Ring Signature&lt;/strong&gt;: The first of these three measures, Ring Signature, serves to hide where the money from a transaction made with Monero comes from. In fact, every single transaction carried out with Monero is inserted into a group of similar transactions: Monero enters the key of your account together with the public keys of other accounts present in the blockchain (using a triangular distribution method).  In this way, an outside observer will never be able to understand which of the keys of this group corresponds to the key of your account (from where the transaction takes place). In short, it is not possible to trace the source of a transaction.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stealth Address&lt;/strong&gt;: The second measure taken by Monero serves to guarantee the privacy of those who will receive the money from the transaction. Each time a transaction occurs, the &amp;quot;sender&amp;quot; of the transaction must create an address (randomly) for the &amp;quot;receiver&amp;quot;, which is valid for one use only.  In practice, for each transaction that is carried out, a different address is generated (by Monero) for the recipient of the transaction. In this way, only the sender and the receiver are able to know where a transaction went “to end”.  In fact, in no way is it possible to find a connection between this address created for the receiver and the real address of the receiver. By doing so, the recipient&amp;#39;s privacy is always protected.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;RingCT (Ring Confidential Transaction)&lt;/strong&gt;: The third measure taken by Monero is the RingCT, which serves to hide the amount exchanged in individual transactions. This is precisely one of the latest measures implemented by Monero to protect the privacy of its users.  When a transaction with Monero is made, the sender must enter his entire wallet as an input. As the output of the transaction, however, the sender must enter two information:  The first output that the sender must enter is the amount of Monero that he really wants to send to the recipient  The second output that the sender must enter is the remaining amount of their wallet, which will be sent &amp;quot;back&amp;quot; to their wallet in the form of change  The transaction is verified with a simple calculation, that is: the two outputs that must equal the input entered are added. In this way it is proven by the system that no new Monero were created during the transactions. Also, the amounts entered for these transactions are never shown.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;Where to store it?&lt;/h1&gt;
+
+&lt;p&gt;The best hot wallets for XMR are MyMonero, MoneroGUI, and CakeWallet and Atomic Wallet. If you want more security, a cold storage like Ledger or Trezor is the right choice.&lt;/p&gt;
+
+&lt;h1&gt;Pros&amp;amp;Cons&lt;/h1&gt;
+
+&lt;p&gt;*DISCLAIMER* These lists are subjective, it depends from person to person&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;One of the most private cryptocurrencies&lt;/li&gt;
+&lt;li&gt;Great devs team&lt;/li&gt;
+&lt;li&gt;Monero can be profitably mined using CPU’s as well as GPUs&lt;/li&gt;
+&lt;li&gt;Probably the most decentralized systems&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Centralization of miners on Monero&lt;/li&gt;
+&lt;li&gt;Monero has quickly found a place as the currency of choice on Dark Web sites&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我们将不再看到残酷的熊市标记，因为加密货币已经是非常主流的。]]></title><description><![CDATA[我知道很多人都会这么说，因为加密货币曾经见过-80%的
+崩溃过。然而，我真的看不到BTC被卖到5位数以下了
+了。我也不认为ETH会在3位数时被卖出。这简直是太多的
+折扣。现在有太多的人熟悉加密货币了。你...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q5aln9/we_will_no_longer_see_brutal_bear_markers_because/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q5aln9/we_will_no_longer_see_brutal_bear_markers_because/</guid><pubDate>Sun, 10 Oct 2021 21:30:42 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I know that a lot of people will say otherwise because Crypto has seen -80% crashes before. However, I really can&amp;#39;t see BTC being sold below 5 digits anymore. Nor do I see ETH being sold at 3 digits. It&amp;#39;s simply too much of a discount. Way too many people are familiar with Crypto nowadays. You have thousands of institutions and companies investing in Crypto. You didn&amp;#39;t have this just 2 years ago.&lt;/p&gt;
+
+&lt;p&gt;Moreover, the explosive growth we&amp;#39;ve seen just this year alone makes me believe that Crypto can no longer be stopped no matter how much FUD is being spread around. Bear markets are also becoming less longer and less and less profound.  We’ve had two down 83% bear markets, but  The previous two have been -61% and -54%. With the -54% being just a few months ago and we&amp;#39;re already on a new bull market. &lt;/p&gt;
+
+&lt;p&gt;The Crypto market just a few months ago crashed -54% because of an Elon tweet and crashed -30% again after a China FUD in June. Since then we&amp;#39;ve brushed off dozens of these tweets and actually spurred a bull run after the latest China FUD. I seriously believe 2021 has begun a new chapter for Crypto. We are not only seeing longer and more bull markets but shorter and fewer bear markets in between. Crypto is a huge multi-trillion dollar industry now. I truly believe long and brutal bear markets are now a thing of the past.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA["比特币在很大程度上可以取代黄金的地位，因为它的功能比把金条传来传去要强得多"--贝莱德首席投资官里克-里德，他负责2.4万亿美元的资产。贝莱德的资产管理总额为9.5万亿美元。]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q58tmb/bitcoin_could_take_the_place_of_gold_to_a_large/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q58tmb/bitcoin_could_take_the_place_of_gold_to_a_large/</guid><pubDate>Sun, 10 Oct 2021 20:30:39 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[乔治-索罗斯在2018年。比特币是一个骗局，乔治-索罗斯在2021年初。比特币正在将投资者从黄金中偷走, 乔治-索罗斯的基金在2021年底: 买入比特币]]></title><description><![CDATA[在2018年
 [https://www.forbes.com/sites/gurufocus/2018/01/25/george-soros-from-davos-bitcoin-is-a-typical-bubble/]
 乔治-索罗斯声称，比特币将是一个骗局，并将失去其价值在
 将来会失去价值
@@ -980,38 +1095,4 @@ please; NEVER BUY CRYPTO FROM ROBINHOOD.
 They say personal experience is the best teacher, but I say
 learning from the experiences of others is truly the best way
 to learn.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[无价的NFT艺术收藏品被人用喷漆工具肆意破坏]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q4lnbk/priceless_nft_art_collection_vandalized_with/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q4lnbk/priceless_nft_art_collection_vandalized_with/</guid><pubDate>Sat, 09 Oct 2021 18:36:04 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[准备好迎接以太坊的供应冲击]]></title><description><![CDATA[自8月5日以来，已经有超过188,000个ETH被烧毁。这大约是750,000,000美元
-价值的以太坊。以太坊也一直在持续出现通货紧缩的日子。
-不仅如此，以太坊还接近于三倍的减半。也许最
-看好的事情是，加密货币交易所正在耗尽...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q4nwqi/get_ready_for_ethereum_supply_shock/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q4nwqi/get_ready_for_ethereum_supply_shock/</guid><pubDate>Sat, 09 Oct 2021 17:39:56 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Since August 5, over 188,000 ETH has been burned. This is about $750,000,000 worth of Ethereum. Ethereum has also been consistently seeing deflationary days. Not only this, but Ethereum is also close to a triple halving. Perhaps the most bullish thing is that Crypto exchanges are running out of Ethereum.&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/qenj6lyz2gs71.png?width=408&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ce81e35a6bcb9ad5e5386fce035fe3988b755029&quot;&gt;ETH On Exchanges at their lowest level&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;And guess what? This is not even the biggest news for Ethereum. Ethereum layer 2 is also promising 100x gas cuts and is expected to be live by November. This is incredibly bullish for Ethereum. We can easily expect one of the largest bull runs ever if this keeps continuing. Miners are also losing momentum too. With Ethereum being burned more and more and exchanges almost running out soon, I&amp;#39;d say get ready for a supply shock soon.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[这是我们最后一次看到50000美元的比特币吗？]]></title><description><![CDATA[比特币已经超过了5万5千美元，回调并没有起到什么作用。
-
-这是一个时代的结束吗？
-
-比特币作为低于1万亿美元资产的日子是否永远结束了？]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q4jnr4/is_this_the_last_time_well_ever_see_a_50000/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q4jnr4/is_this_the_last_time_well_ever_see_a_50000/</guid><pubDate>Sat, 09 Oct 2021 17:39:56 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Bitcoin has passed $55k, and the pullback didn&amp;#39;t do much.&lt;/p&gt;
-
-&lt;p&gt;Is this the end of an era?  &lt;/p&gt;
-
-&lt;p&gt;Are the days of Bitcoin as less than a $1 Trillion asset over forever?&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[你说比特币是比房地产更好的投资吗？]]></title><description><![CDATA[想一想吧。
-
-房地产需要大量的工作：你必须维护房子，找到一个租户。
-还有意想不到的费用和税款，...
-
-
-
-比特币不是一种更省事、更好的投资形式吗？你只需要
-就可以获得比房子更好的升值。]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q4k4op/would_you_say_bitcoin_a_better_investment_than/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q4k4op/would_you_say_bitcoin_a_better_investment_than/</guid><pubDate>Sat, 09 Oct 2021 17:39:56 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Think about it. &lt;/p&gt;
-
-&lt;p&gt;Real estate takes so much work: you have to maintain the house, find a tenant, there are unexpected costs and taxes,...&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;Isn&amp;#39;t Bitcoin a more hassle-free and better form of investment? You just have to buy and HODL and you get better appreciation than with a house.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Polygon（$MATIC）区块链正被瑞士邮政使用]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q4ifjz/polygon_matic_blockchain_is_being_used_by/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q4ifjz/polygon_matic_blockchain_is_being_used_by/</guid><pubDate>Sat, 09 Oct 2021 16:57:48 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[大空头》投资者Michael Burry认为柴犬币 "毫无意义"--注意到狗币的衍生品供应量超过1万亿枚]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q4k36l/the_big_short_investor_michael_burry_dismisses/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q4k36l/the_big_short_investor_michael_burry_dismisses/</guid><pubDate>Sat, 09 Oct 2021 15:41:32 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[无价的NFT艺术收藏品被人用喷漆工具肆意破坏]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q4lnbk/priceless_nft_art_collection_vandalized_with/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q4lnbk/priceless_nft_art_collection_vandalized_with/</guid><pubDate>Sat, 09 Oct 2021 18:36:04 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
