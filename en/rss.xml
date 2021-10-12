@@ -1,4 +1,163 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 12 Oct 2021 21:05:46 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Binance starts a $1 Billion crypto development fund. The money will be going to investments in areas such as gaming, virtual reality, liquidity incentives and talent development.]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6lkcz/binance_starts_a_1_billion_crypto_development/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6lkcz/binance_starts_a_1_billion_crypto_development/</guid><pubDate>Tue, 12 Oct 2021 18:46:26 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[If you look through #bitcoin volatility, you see 200 week moving average always going up, and BTC never closing a month below 200WMA. The trend is your friend. https://t.co/VhkQrpe3G6]]></title><link>https://crypto.buzzing.cc/tweet/1447980518377721859</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1447980518377721859</guid><pubDate>Tue, 12 Oct 2021 17:44:17 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[The current US debt is more than 1 Bitcoin for every single person in America.]]></title><description><![CDATA[If you look at the US national debt [https://www.pgpf.org/national-debt-clock],
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 12 Oct 2021 23:23:49 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[HEX crypto scam exposed (yet again): majority of addresses with hex never bought HEX!]]></title><description><![CDATA[Etherscan shows 258,903 holders for hex
+
+I went to etherscan and looked up HEX
+[https://etherscan.io/token/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39]. It
+shows that there are 258,903 holders and you can see the top 1,000 holders.
+However, if you choose Download CSV Export at the bottom, you get the…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6pf7v/hex_crypto_scam_exposed_yet_again_majority_of/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6pf7v/hex_crypto_scam_exposed_yet_again_majority_of/</guid><pubDate>Tue, 12 Oct 2021 20:35:52 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;Etherscan shows 258,903 holders for hex&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I went to etherscan and looked up &lt;a href=&quot;https://etherscan.io/token/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39&quot;&gt;HEX&lt;/a&gt;. It shows that there are 258,903 holders and you can see the top 1,000 holders. However, if you choose Download CSV Export at the bottom, you get the first 100,000 token holders. I went ahead and downloaded these.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;91,964 out of first 100,000 addresses never bought hex!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I also did this for Safemoon and WISB on binance smart chain. I plotted the token balance distributions. For hex, I saw a huge spike in the histogram plot.&lt;/p&gt;
+
+&lt;p&gt;The top plot shows the single spike for hex. In the bottom plot, the vertical scale is logarithmic, so every major tick on the axis means 10 times more balances.&lt;/p&gt;
+
+&lt;p&gt;Looking in the raw data, it appears that most balances have exactly 100 HEX.&lt;/p&gt;
+
+&lt;p&gt;91,964 out of 100,000 addresses have 100 HEX to be exact!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;One address sent HEX to 173k addresses in large batches, mostly small amounts of 100 and 101 HEX&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The sender address is &lt;a href=&quot;https://etherscan.io/address/0x0b795e585ec0436e4572cc9b24fc5da1faf9cfc6&quot;&gt;0x0b795e585ec0436e4572cc9b24fc5da1faf9cfc6&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Etherscan page for this address found 173,310 ERC20 transactions and shows the last 10,000 transactions. And what do we find here?&lt;/p&gt;
+
+&lt;p&gt;9,693 of the last 10,000 transactions are send transactions of 101 HEX to different addresses. They were all sent on June 27 of 2020 between 17:28 and 19:31. The other 307 transactions after, contains mostly send transactions of larger HEX amounts. Like 14 times a send transaction of 12,201.83575 HEX for example.&lt;/p&gt;
+
+&lt;p&gt;At the bottom, you can choose Download CSV Export again. This gives the first 5,000 ERC20 transactions. The address received 2,000,000 HEX on March 27 of 2020 as first transaction. It sent 1000 HEX each to 1000 different addresses the day after on March 28 of 2020. Then it received another 1,000,000 HEX from the same address on March 29 of 2020. And the next two days, it sent 100 HEX each to over 3998 different addresses.&lt;/p&gt;
+
+&lt;p&gt;Till this day, all these addresses that I&amp;#39;ve seen, never bought more or sold or staked HEX. You might find a few exceptions if you go through them. I don&amp;#39;t know.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/7cvyld96l1t71.png?width=1032&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e96d996a1527b750dcfb3d519c17c1feca9d990f&quot;&gt;https://preview.redd.it/7cvyld96l1t71.png?width=1032&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e96d996a1527b750dcfb3d519c17c1feca9d990f&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/yddonbt4l1t71.png?width=3554&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=dfd2c9f094511cbfd03a17d0b0edbd5fbd6dce93&quot;&gt;https://preview.redd.it/yddonbt4l1t71.png?width=3554&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=dfd2c9f094511cbfd03a17d0b0edbd5fbd6dce93&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/7dy8jct4l1t71.png?width=3578&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d2c0ba3e23d084cba3bdc62f9fd5edc1b460cec9&quot;&gt;https://preview.redd.it/7dy8jct4l1t71.png?width=3578&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d2c0ba3e23d084cba3bdc62f9fd5edc1b460cec9&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/sx8dcct4l1t71.png?width=3572&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=59281d8dc11a3bd7419ef5179129db4ef3b7606f&quot;&gt;https://preview.redd.it/sx8dcct4l1t71.png?width=3572&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=59281d8dc11a3bd7419ef5179129db4ef3b7606f&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So we know that of the first 100,000 hex &amp;quot;holders&amp;quot;, 91,964 of them never bought hex, but one address just dropped hex to these addresses. And they still have the same amount of 100 or 101 HEX that was sent to them.&lt;/p&gt;
+
+&lt;p&gt;This address made 173,310 ERC20 transactions in total.&lt;/p&gt;
+
+&lt;p&gt;Now, there is still an unknown gap of three months between the first 5000 transactions and the last 10,000 transactions of this address. But we can select a different date range for CSV export to get these transactions. Then we find that almost all the transactions are of small amounts of 100 and 101 HEX sent to different addresses in three months time, between March 27 and June 27 of 2020.&lt;/p&gt;
+
+&lt;p&gt;So we know now that least 173k out of 259k holder addresses never bought hex!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Help expose this scam&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Maybe you could help investigate this further. How much of the 86k remaining holders are real buyers? Richard Heart wants us to believe hex has a large number of users, but most of the holders are not buyers at all.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Great work by user 11sensei11 (I&amp;#39;d tag but it&amp;#39;d get removed)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Also this post will be brigaded by the HEX &amp;quot;community&amp;quot; as per usual, but people need to know the truth on this elaborate scam. &lt;strong&gt;Stay away at all costs.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Who else invests more than 50% of their income?]]></title><description><![CDATA[Who else invests more than 50% of their income?
+
+Save 10% of my income and keep it in my bank for emergency funds,
+
+Spend 30% of my income,
+
+I try to invest 60% of my income,
+
+Out of the 60%
+
+15% goes into stocks
+
+45% goes into Crypto
+
+Out of the 45%
+
+30% goes into ETH
+
+10% goes into BTC
+
+5% goes…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6ozla/who_else_invests_more_than_50_of_their_income/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6ozla/who_else_invests_more_than_50_of_their_income/</guid><pubDate>Tue, 12 Oct 2021 20:35:52 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Who else invests more than 50% of their income?&lt;/p&gt;
+
+&lt;p&gt;Save 10% of my income and keep it in my bank for emergency funds,&lt;/p&gt;
+
+&lt;p&gt;Spend 30% of my income,&lt;/p&gt;
+
+&lt;p&gt;I try to invest 60% of my income, &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Out of the 60%&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;15% goes into stocks&lt;/p&gt;
+
+&lt;p&gt;45% goes into Crypto&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Out of the 45%&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;30% goes into ETH&lt;/p&gt;
+
+&lt;p&gt;10% goes into BTC&lt;/p&gt;
+
+&lt;p&gt;5% goes into other alts&lt;/p&gt;
+
+&lt;p&gt;I think I should probably stop allocating 10% for emergency funds because I have been doing that for a while and have generated a good emergency fund, I think in a few months I’ll start putting the 10% into crypto as well!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA["Bitcoin mining will "strengthen" US energy grid." - U.S. Senator]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q6lfjd/bitcoin_mining_will_strengthen_us_energy_grid_us/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q6lfjd/bitcoin_mining_will_strengthen_us_energy_grid_us/</guid><pubDate>Tue, 12 Oct 2021 19:30:33 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[JPMorgan CEO Jamie Dimon on Bitcoin: "How do you know it ends at 21 million? You all read the algorithms? You guys all believe that? I don't know, I've always been a skeptic of stuff like that". Yes Mr. Dimon, we do read algorithms]]></title><description><![CDATA[This came from an IIF event yesterday where he also said, "Our clients are
+adults, they disagree, that's what makes markets. If they want to have access to
+buy or sell bitcoin, we can't custody it, but we can give them legitimate, as
+clean as possible access."
+
+He also called Bitcoin worthless and…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6q8sm/jpmorgan_ceo_jamie_dimon_on_bitcoin_how_do_you/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6q8sm/jpmorgan_ceo_jamie_dimon_on_bitcoin_how_do_you/</guid><pubDate>Tue, 12 Oct 2021 19:30:33 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;This came from an IIF event yesterday where he also said, &amp;quot;Our clients are adults, they disagree, that&amp;#39;s what makes markets. If they want to have access to buy or sell bitcoin, we can&amp;#39;t custody it, but we can give them legitimate, as clean as possible access.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;He also called Bitcoin worthless and has previously said, &amp;quot;My own personal advice to people is: stay away from it. That does not mean the clients don&amp;#39;t want it...I don&amp;#39;t smoke marijuana but if you make it nationally legal, I&amp;#39;m not going to stop our people from banking it.&amp;quot; This came after his clients have shown great interest in Bitcoin&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;You all read the algorithms?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/13yf928wq1t71.jpg?width=947&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=d32912165f8b5f9092f14c4a3f8c3727d5050c11&quot;&gt;https://preview.redd.it/13yf928wq1t71.jpg?width=947&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=d32912165f8b5f9092f14c4a3f8c3727d5050c11&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Its just 2 lines of code.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;if (halvings &amp;gt;= 64)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;return 0;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I&amp;#39;ve always been a skeptic of stuff like that&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Stuff like what? reading?&lt;/p&gt;
+
+&lt;p&gt;Anyone with basic math knowledge can verify it. If he can&amp;#39;t do that simple math for himself he probably shouldn&amp;#39;t be a CEO at an investment bank.&lt;/p&gt;
+
+&lt;p&gt;This is one of the most ignorant statements I&amp;#39;ve ever read on crypto&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[JPMorgans CEO Hates Bitcoin, But Loves Taking Money from his Customers for Crypto Funds]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6ci95/jpmorgans_ceo_hates_bitcoin_but_loves_taking/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6ci95/jpmorgans_ceo_hates_bitcoin_but_loves_taking/</guid><pubDate>Tue, 12 Oct 2021 19:30:33 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Shiba Inu coin is pointless, expert says]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6febe/shiba_inu_coin_is_pointless_expert_says/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6febe/shiba_inu_coin_is_pointless_expert_says/</guid><pubDate>Tue, 12 Oct 2021 19:30:33 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Shiba inu beats Chainlink to top 11 crypto spot]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6my1d/shiba_inu_beats_chainlink_to_top_11_crypto_spot/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6my1d/shiba_inu_beats_chainlink_to_top_11_crypto_spot/</guid><pubDate>Tue, 12 Oct 2021 19:30:33 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Why I’m so bullish this cycle, and why this time is different: Staking. There isn’t as much pressure to sell. Get ready for the pump of a lifetime.]]></title><description><![CDATA[I think it’s fair to say at this point most of us think this bull cycle has some
+room to run.
+
+Some say it will follow the trends of the past - 2013, 2017 - but this time,
+it’ll be longer and more drawn out.
+
+I’m optimistic because I don’t know if we will be able to recognise a bear
+market similar…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6nt72/why_im_so_bullish_this_cycle_and_why_this_time_is/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6nt72/why_im_so_bullish_this_cycle_and_why_this_time_is/</guid><pubDate>Tue, 12 Oct 2021 19:30:33 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I think it’s fair to say at this point most of us think this bull cycle has some room to run.&lt;/p&gt;
+
+&lt;p&gt;Some say it will follow the trends of the past - 2013, 2017 - but this time, it’ll be longer and more drawn out.&lt;/p&gt;
+
+&lt;p&gt;I’m optimistic because I don’t know if we will be able to recognise a bear market similar to the past after this run is over. People can keep their funds locked up and continue collecting dividends - if we can do that, a lot of us who wouldn’t otherwise hold will be more inclined to.&lt;/p&gt;
+
+&lt;p&gt;Big players are getting in. Credit/debit card rewards require staking. People are hodling their damn Moons!&lt;/p&gt;
+
+&lt;p&gt;This year is the first time I have experienced staking (at least staking wasn’t holding NEO to collect GAS back in 2017) and you can be sure, the fact that it’s here means this bull run will run a while - or never necessarily truly “end” in some of our previous views of volatility who have been in crypto for a while.&lt;/p&gt;
+
+&lt;p&gt;You don’t have to tell me to hodl twice because of staking. Since that is likely true for many of you, get ready for 5x+ gains.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Binance starts a $1 Billion crypto development fund. The money will be going to investments in areas such as gaming, virtual reality, liquidity incentives and talent development.]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6lkcz/binance_starts_a_1_billion_crypto_development/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q6lkcz/binance_starts_a_1_billion_crypto_development/</guid><pubDate>Tue, 12 Oct 2021 18:46:26 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[If you look through #bitcoin volatility, you see 200 week moving average always going up, and BTC never closing a month below 200WMA. The trend is your friend. https://t.co/VhkQrpe3G6]]></title><link>https://crypto.buzzing.cc/tweet/1447980518377721859</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1447980518377721859</guid><pubDate>Tue, 12 Oct 2021 17:44:17 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[The current US debt is more than 1 Bitcoin for every single person in America.]]></title><description><![CDATA[If you look at the US national debt [https://www.pgpf.org/national-debt-clock],
 you'll see that right now it's at $28.4 Trillion. That's $86,025 for every
 single person in America.
 
@@ -339,173 +498,4 @@ The reason most people…]]></description><link>https://crypto.buzzing.cc/reddit
 &lt;p&gt;50% of my portfolio is in BTC and ETH.  I take my profits from all other alts and pour them into Bitcoin.&lt;/p&gt;
 
 &lt;p&gt;BTC is King.  You can&amp;#39;t convince me otherwise.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[If you have more than 1 BTC, you are in the top 1.73% of Hodlers]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q5zukp/if_you_have_more_than_1_btc_you_are_in_the_top/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q5zukp/if_you_have_more_than_1_btc_you_are_in_the_top/</guid><pubDate>Mon, 11 Oct 2021 19:30:13 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Update your Crypto Vocab.]]></title><description><![CDATA[I've had conversations with people via text recently and I've noticed that many
-people gets confused with some abbreviations or words used often in crypto,
-mostly used in this sub too, so I've decide to put down some major crypto
-phrases and abbreviations used very often in this sub for newbies to…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q5vcli/update_your_crypto_vocab/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q5vcli/update_your_crypto_vocab/</guid><pubDate>Mon, 11 Oct 2021 19:30:13 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve had conversations with people via text recently and I&amp;#39;ve noticed that many people gets confused with some abbreviations or words used often in crypto, mostly used in this sub too, so I&amp;#39;ve decide to put down some major crypto phrases and abbreviations used very often in this sub for newbies to learn. Hopefully you learn something new.&lt;/p&gt;
-
-&lt;p&gt;Let&amp;#39;s Dive In😁👀&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;FUD:&lt;/em&gt; Fear, Uncertainty, and Doubt. Propaganda to lower prices&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;FOMO:&lt;/em&gt; Fear of Missing Out&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;HODL:&lt;/em&gt; Hold On for Dear Life&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;MOONING:&lt;/em&gt; Prices going up extremely high &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;FIAT:&lt;/em&gt; Government issued Currency. Such as the US dollar&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;WHALE:&lt;/em&gt; Someone who owns lots of Crypto &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;BULLISH:&lt;/em&gt; An expectation that price is going to increase &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;BEARISH:&lt;/em&gt; An expectation that price is going to decrease &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;ATH:&lt;/em&gt; All-Time-High. The highest price a coin has ever been &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;MARKET CAP:&lt;/em&gt; Total Supply X Current Price &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;ICO:&lt;/em&gt; Initial Coin Offering. A type of crowd funding &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;ROI:&lt;/em&gt; Return on Investment. Gains - Initial investment &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;COLD STORAGE:&lt;/em&gt; Moving Crypto-currency &amp;#39;offline&amp;#39;, paper/hardware&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;REKT:&lt;/em&gt; REKT describes when an investor gets blown out of the water by a catastrophic coin collapse&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;ERC20:&lt;/em&gt; The predominant standard for creating smart contracts of the Ethereum blockchain &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;DUMP:&lt;/em&gt; The act of selling Crypto&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;BIT:&lt;/em&gt; 1 Bit is equal 1/1,000,000 of a Bitcoin &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;SHILL:&lt;/em&gt; An individual promoting Alt-coins for their own benefits &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;NODE:&lt;/em&gt; A computer that runs a cryptocurrency&amp;#39;s software and validate transactions &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;PUMP:&lt;/em&gt; A rapid rise in a cryptocurrency&amp;#39;s price &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;SHITCOIN:&lt;/em&gt; A term used to describe altcoins that are based on faulty technology or have little promise for the future &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;NO COINER:&lt;/em&gt; Someone who has no crypto and firmly believes that crypto will fail&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;DILDO:&lt;/em&gt; No, not that! The red or green &amp;quot;candles&amp;quot; or vertical lines, on graphs showing crypto market data&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;DEFI:&lt;/em&gt; DeFi stands for Decentralized Finance &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;YIELD FARMING:&lt;/em&gt; This invloves earning interests by investing crypto in decentralized finance markets&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;DYOR:&lt;/em&gt; Do your own Research &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;NFT:&lt;/em&gt; Non-Fungible token is an exclusive digital asset that can represent anything &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;BRR:&lt;/em&gt; BRR comes from a meme that describes the sound the money printers make when government prints money &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;SATOSHI:&lt;/em&gt; The pseudonym creator and the smallest unit of bitcoin &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;GAS:&lt;/em&gt; A fee which must be paid to Execute Ethereum transactions&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;KYC:&lt;/em&gt; Know your customer. Info gathered by exchanges in compliance to laws&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;dApps:&lt;/em&gt; A decentralized application that has no centralized control &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;DCA:&lt;/em&gt; Dollar-cost averaging (DCA) is an investment strategy in which an investor divides up the total amount to be invested across periodic purchases of a target asset in an effort to reduce the impact of volatility on the overall purchase.&lt;/p&gt;
-
-&lt;p&gt;I know many of y&amp;#39;all know virtually all the phrases here but I&amp;#39;m pretty sure someone learnt something new. Feel free to add yours in the comment. Probably I can learn a new word too :)&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Classic https://t.co/DJFaUYXIvv https://t.co/WpVuNqg92y]]></title><link>https://crypto.buzzing.cc/tweet/1447629281895534602</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1447629281895534602</guid><pubDate>Mon, 11 Oct 2021 18:46:55 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Hate on Coinbase all you want. I just sold a tiny amount of BTC and chose their new "instant cash out" option which cost 55 cents. Checked my bank account 15 seconds later and the funds were there.]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q6061f/hate_on_coinbase_all_you_want_i_just_sold_a_tiny/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/q6061f/hate_on_coinbase_all_you_want_i_just_sold_a_tiny/</guid><pubDate>Mon, 11 Oct 2021 18:46:50 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I just sold my 1st ever NFT/painting and i have no words to describe how i feel right now.]]></title><description><![CDATA[This was from a series of paintings i did that was inspired by the massacre of
-peaceful protestors in Iran that happened in 2018 and about 1500 innocent people
-were killed on streets.
-
-it is called Throne of Blood and somehow Mr703 who is one of the original crypto
-punks collectors and one of the…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q5wmgw/i_just_sold_my_1st_ever_nftpainting_and_i_have_no/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q5wmgw/i_just_sold_my_1st_ever_nftpainting_and_i_have_no/</guid><pubDate>Mon, 11 Oct 2021 18:46:50 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;This was from a series of paintings i did that was inspired by the massacre of peaceful protestors in Iran that happened in 2018 and about 1500 innocent people were killed on streets.&lt;/p&gt;
-
-&lt;p&gt;it is called Throne of Blood and somehow Mr703 who is one of the original crypto punks collectors and  one of the biggest punk holders in the world bought it after it sat there for months with no luck.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/zegpt7ehvts71.jpg?width=1080&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=d0826807ecd670508c46130d73c04c9c8993185e&quot;&gt;Throne of Blood&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;i know its not much in sale value but you have no idea what it means to me. right now i still think im dreaming. what de fuck is happening? o my god.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/cscpcebjvts71.jpg?width=1080&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=bf009bdf890e4dfd2f2872ddfd33dee8a5d13289&quot;&gt;https://preview.redd.it/cscpcebjvts71.jpg?width=1080&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=bf009bdf890e4dfd2f2872ddfd33dee8a5d13289&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[We just had @100trillionUSD on YouTube to discuss bitcoin and our channel was deleted.
-
-We have no strikes and didn't violate any community guidelines.
-
-@YouTube what is going on?! https://t.co/mVHs3L8jMa]]></title><link>https://crypto.buzzing.cc/tweet/1447611409462857728</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1447611409462857728</guid><pubDate>Mon, 11 Oct 2021 17:45:06 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[YouTube just deleted our channel after @100trillionUSD and I were talking about a hyper bullish scenario for bitcoin in the next 5 years.
-
-Thankfully I have a backup recording and we'll release it tomorrow on the podcast. 
-
-Make sure you subscribe: https://t.co/HP1mmpVIpU]]></title><link>https://crypto.buzzing.cc/tweet/1447616047079731203</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1447616047079731203</guid><pubDate>Mon, 11 Oct 2021 17:45:06 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Hey r/cryptocurrency, we are Metal, a company dedicated to reimagining how the world uses money - in all of its forms. Ask Us Anything about Proton, Metal Pay, WebAuth, NFTs, banking, DeFi, DAOs, and more!]]></title><description><![CDATA[Hello, r/Cryptocurrency [https://www.reddit.com/r/Cryptocurrency/]!
-
-We’re Metal, a company dedicated to reimagining how the world uses money - in
-all of its forms. Our company is composed of distinct, yet intertwined, products
-that build off of each other to create a robust and growing…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q5xztf/hey_rcryptocurrency_we_are_metal_a_company/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/q5xztf/hey_rcryptocurrency_we_are_metal_a_company/</guid><pubDate>Mon, 11 Oct 2021 17:30:25 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello,&lt;a href=&quot;https://www.reddit.com/r/Cryptocurrency/&quot;&gt; r/Cryptocurrency&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;We’re Metal, a company dedicated to reimagining how the world uses money - in all of its forms. Our company is composed of distinct, yet intertwined, products that build off of each other to create a robust and growing ecosystem.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Proton Blockchain&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Proton uses a &lt;a href=&quot;https://blog.protonchain.com/a-deep-dive-into-verified-identities-how-proton-sets-the-industry-standard/&quot;&gt;system of human-readable&lt;/a&gt; &lt;a href=&quot;https://blog.protonchain.com/introducing-verified-identities-on-proton/&quot;&gt;verified @names&lt;/a&gt; to approve transactions, receive funds, and ensure the ecosystem stays people-friendly. Capable of up to 4,000 transactions per second, and with zero gas fees. A key part of the Proton blockchain is the &lt;a href=&quot;https://blog.protonchain.com/proton-wallet-available-for-download-on-the-ios-app-store/&quot;&gt;Proton wallet&lt;/a&gt;, an app available for Android and iOS users that allows for easy transaction approvals, cryptocurrency storage, &lt;a href=&quot;https://blog.protonchain.com/understanding-cryptocurrency-staking/&quot;&gt;staking,&lt;/a&gt; swapping, and so much more. Cryptocurrency swapping is done through &lt;a href=&quot;https://blog.protonchain.com/proton-swap-is-now-officially-live/&quot;&gt;Proton Swap&lt;/a&gt;, a next-generation decentralized cryptocurrency exchange.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Proton Loan&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://blog.protonchain.com/introducing-proton-lend-loan-a-new-decentralized-finance-lending-market-built-on-proton-blockchain/&quot;&gt;Proton Loan&lt;/a&gt; is a new decentralized lending market built on the Proton blockchain. Utilizing the cross-chain capabilities of &lt;a href=&quot;https://blog.protonchain.com/xtokens/&quot;&gt;Proton-wrapped xtokens,&lt;/a&gt; Proton Loan makes it possible to deposit cryptocurrency into lending pools to earn interest, and to take collateralized loans from cryptocurrency pools with zero gas fees.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Proton Market&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://blog.protonchain.com/customize-your-own-nft-storefront-with-our-interactive-template/&quot;&gt;Proton Market&lt;/a&gt; is a radically easy-to-use NFT marketplace that allows anyone to create, sell, buy, and trade NFTs. A unique feature of Proton Market is the ability to earn royalties on your NFTs and that you pay zero gas fees.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Metal Pay&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://blog.metalpay.com/&quot;&gt;Metal Pay&lt;/a&gt; is a payments app with a built-in cryptocurrency Marketplace containing over 40 different token options. With fees starting at just 1% for all trades, and 0% fees for BTC, TUSD, MTL, and XPR, Metal Pay is one of the most affordable ways to buy and sell cryptocurrency.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;WebAuth.com&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We’ve built &lt;a href=&quot;https://blog.protonchain.com/introducing-webauth-com-authentication-identity-and-payments-on-webauth-protocol/&quot;&gt;WebAuth.com&lt;/a&gt; to become the standard for authorization, identity, and online payment processing by verifying identities through the use of your Face ID / Touch ID / MetaMask / Yubikey or other authentication methods, over the Proton network.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Recent milestones &amp;amp; updates:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://blog.metalpay.com/metalpay/metal-pay-partners-with-railsbank-to-launch-our-services-in-europe/&quot;&gt;Metal Pay partners with Railsbank to launch our services in Europe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://blog.protonchain.com/introducing-webauth-com-authentication-identity-and-payments-on-webauth-protocol/&quot;&gt;Introducing WebAuth.com – Authentication, Identity and Payments on WebAuth Protocol&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://blog.protonchain.com/proton-has-completed-our-custody-platform-migration-action-required/&quot;&gt;Proton Has Completed Our Custody Platform Migration&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://blog.metalpay.com/metalpay/metal-pay-is-coming-to-georgia/&quot;&gt;Metal Pay is coming to Georgia!&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://blog.protonchain.com/update-on-proton-loan-and-protons-first-native-fiat-integration/&quot;&gt;Update on Proton Loan and Proton’s first native fiat integration (protonchain.com)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;-------------------------------------&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Joining us for this AMA will be:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Marshall Hayner (our founder and CEO) -&lt;a href=&quot;https://www.reddit.com/u/MarshallHayner/&quot;&gt; u/MarshallHayner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Lee Woolley  (Senior Executive) -&lt;a href=&quot;https://www.reddit.com/u/LeeWoolley/&quot;&gt; u/LeeWoolley&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Together, we’re ready to answer your questions about Metal, Proton, and everything we’re building.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ask us anything!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;-------------------------------------&lt;/p&gt;
-
-&lt;p&gt;In addition to the AMA, we&amp;#39;ll be rewarding the best 100 questions with $8888 worth in $XPR!&lt;/p&gt;
-
-&lt;p&gt;All you have to do is:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ask your questions in this AMA thread &amp;amp; wait for them to be answered.&lt;/li&gt;
-&lt;li&gt;When selected, you&amp;#39;ll be required to install the Metal Pay (&lt;a href=&quot;https://m.tl/iOS&quot;&gt;iOS&lt;/a&gt;/&lt;a href=&quot;https://m.tl/android&quot;&gt;Android&lt;/a&gt;) and/or&lt;a href=&quot;https://www.protonchain.com/wallet/&quot;&gt; Proton Wallet&lt;/a&gt; app and message&lt;a href=&quot;https://www.reddit.com/u/Team-Metal/&quot;&gt; u/Team-Metal&lt;/a&gt;, and share your wallet username.&lt;/li&gt;
-&lt;li&gt;Wait for the rewards and enjoy!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;-------------------------------------&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Connect with us:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Reddit: &lt;a href=&quot;https://www.reddit.com/r/MetalPay/&quot;&gt;r/MetalPay&lt;/a&gt; and &lt;a href=&quot;https://www.reddit.com/r/ProtonChain/&quot;&gt;r/ProtonChain&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/metalpaysme&quot;&gt;Metal Pay&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/protonxpr&quot;&gt;Proton&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;CEO/Founder: &lt;a href=&quot;https://twitter.com/MarshallHayner&quot;&gt;Marshall Hayner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://discord.gg/Metal&quot;&gt;Discord&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://t.me/protonxpr&quot;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
