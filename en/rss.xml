@@ -1,4 +1,165 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 21 Oct 2021 23:46:26 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[When Bitcoin Hit $100: CNBC's 2013 Coverage]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcqvje/when_bitcoin_hit_100_cnbcs_2013_coverage/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcqvje/when_bitcoin_hit_100_cnbcs_2013_coverage/</guid><pubDate>Thu, 21 Oct 2021 20:41:37 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Bitcoin 🙌💎]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcu9vk/bitcoin/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcu9vk/bitcoin/</guid><pubDate>Thu, 21 Oct 2021 19:35:12 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[If you get rich from crypto, keep it as a secret. Don’t tell anyone, your future will thank you.]]></title><description><![CDATA[Some people have what is called here in New Zealand “tall poppy syndrome”.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 22 Oct 2021 02:14:22 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[KnowYourCrypto #38: Basic Attention Token (BAT)]]></title><description><![CDATA[If you are interested to the previous posts of this series, check it out here:
+
+ * Bitcoin (BTC)
+   [https://www.reddit.com/r/CryptoCurrency/comments/pfxxyp/knowyourcrypto_1_september_1_2021_bitcoin_btc/]
+ * Ethereum (ETH)
+  …]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcus68/knowyourcrypto_38_basic_attention_token_bat/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcus68/knowyourcrypto_38_basic_attention_token_bat/</guid><pubDate>Thu, 21 Oct 2021 23:30:42 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;If you are interested to the previous posts of this series, check it out here:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pfxxyp/knowyourcrypto_1_september_1_2021_bitcoin_btc/&quot;&gt;Bitcoin (BTC)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pgod2h/knowyourcrypto_2_september_2_2021_ethereum_eth/&quot;&gt;Ethereum (ETH)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/phcnks/knowyourcrypto_3_september_3_2021_cardano_ada/&quot;&gt;Cardano (ADA)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/phyjc1/knowyourcrypto_4_september_4_2021_binance_coin_bnb/&quot;&gt;Binance Coin (BNB)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/piks1m/knowyourcrypto_5_september_5_2021_tether_usdt/&quot;&gt;Tether (USDT)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pj77yd/knowyourcrypto_6_september_6_2021_xrp_xrp/&quot;&gt;XRP (XRP)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pjuvea/knowyourcrypto_7_september_7_2021_dogecoin_doge/&quot;&gt;Dogecoin (DOGE)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pkita5/knowyourcrypto_8_september_8_2021_usd_coin_usdc/&quot;&gt;USD Coin (USDC)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pl5ggp/knowyourcrypto_9_september_9_2021_polkadot_dot/&quot;&gt;Polkadot (DOT)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/plsi6b/knowyourcrypto_10_september_10_2021_solana_sol/&quot;&gt;Solana (SOL)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pmecnl/knowyourcrypto_11_september_11_2021_uniswap_uni/&quot;&gt;Uniswap (UNI)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pn0i2z/knowyourcrypto_12_september_12_2021_binance_usd/&quot;&gt;Binance USD (BUSD)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pnn5su/knowyourcrypto_13_september_13_2021_bitcoin_cash/&quot;&gt;Bitcoin Cash (BCH)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pobquv/knowyourcrypto_14_september_14_2021_litecoin_ltc/&quot;&gt;Litecoin (LTC)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/poy48t/knowyourcrypto_15_september_15_2021_chainlink_link/&quot;&gt;Chainlink (LINK)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/ppcw5u/knowyourcrypto_16_september_16_2021_terra_luna/&quot;&gt;Terra (LUNA)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/ppkvbx/knowyourcrypto_17_september_16_2021_internet/&quot;&gt;Internet Computer (ICP)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pq81eq/knowyourcrypto_18_september_17_2021_wrapped/&quot;&gt;Wrapped Bitcoin (WBTC)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pqtmod/knowyourcrypto_19_september_18_2021_polygon_matic/&quot;&gt;Polygon (MATIC)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pr9mo2/knowyourcrypto_20_september_19_2021_algorand_algo/&quot;&gt;Algorand (ALGO)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/prwmfr/knowyourcrypto21_september_20_2021_vechain_vet/&quot;&gt;VeChain (VET)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pslkws/knowyourcrypto_22_september_21_2021_stellar/&quot;&gt;Stellar Lumens (XLM)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/ptxjs5/knowyourcrypto_23_september_23_2021_harmony_one/&quot;&gt;Harmony (ONE)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pulnr0/knowyourcrypto_24_september_24_2021_hedera/&quot;&gt;Hedera Hashgraph (HBAR)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pv9prd/knowyourcrypto_25_september_25_2021_tron_trx/&quot;&gt;Tron (TRX)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pwjtu4/knowyourcrypto_26_september_27_2021_cosmos_atom/&quot;&gt;Cosmos (ATOM)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pxxskc/knowyourcrypto_27_axie_infinity_axs/&quot;&gt;Axie Infinity (AXS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/q3axyu/knowyourcrypto_28_tezos_xtz/&quot;&gt;Tezos (XTZ)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/q40j0f/knowyourcrypto_29_ergo_erg/&quot;&gt;Ergo (ERG)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/q4ngf4/knowyourcrypto_30_nano_nano/&quot;&gt;Nano (NANO)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/q5ak6c/knowyourcrypto_31_monero_xmr/&quot;&gt;Monero (XMR)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/q5yai4/knowyourcrypto_32_elrond_egld/&quot;&gt;Elrond (EGLD)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/q6oy31/knowyourcrypto_33_ethereum_classic_etc/&quot;&gt;Ethereum Classic (ETC)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/q7dusq/knowyourcrypto_34_cryptocom_coin_cro/&quot;&gt;Crypto.com Coin (CRO)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/q8rk0k/knowyourcrypto_35_pancake_swap_cake/&quot;&gt;Pancake Swap (CAKE)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/qaog18/knowyourcrypto_36_enjin_coin_enj/&quot;&gt;Enjin Coin (ENJ)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/qbeo4q/knowyourcrypto_37_iota_iota/&quot;&gt;Iota (IOTA)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;What is it?&lt;/h1&gt;
+
+&lt;p&gt;Basic Attention Token (BAT) is a utility token based on Ethereum technology  for digital advertising and are used as a digital currency between publishers, users and advertisers on the &lt;strong&gt;Brave&lt;/strong&gt; browser. The browser prevents advertisers from invading users space and privately measures users attention on certain websites. Brave browser is 2-8 times faster than Chrome and Safari.&lt;/p&gt;
+
+&lt;h1&gt;How does it work?&lt;/h1&gt;
+
+&lt;p&gt;This token aims to &amp;quot;save&amp;quot; the digital advertising system in this digital era when the privacy of internet users is heavily invaded.  Under the current conditions, web users are publicly monitored by advertisers and browsers through various channels. User privacy is not respected by advertisers since browsers can keep track of which pages you visit often, which accounts you follow and in no time, blow the phone with a myriad of ads with your &amp;quot;interests&amp;quot; that they have discovered. This changes with the introduction of the Brave Browser which offers a private platform for its users.  BATs are used by advertisers who trade in BAT to purchase advertising space from content creators and user attention from brave browser users. The amount of time spent on the ad is labeled &amp;#39;attention&amp;#39; and users can also allow the ads to run on their devices at a small cost, offering BAT tokens. Publishers and content creators receive advertising revenue and user contributions or donations to create better content while users are rewarded with BATs for their attention (where users are privately &amp;quot;linked&amp;quot; to their interests, confirmed anonymously and presented with meaningful advertisements that they are interested in). Users have the choice of whether or not to opt-in to see the ads, which use a separate open source component. When users opt to receive ads on the platform, the ads will be shown based on their interests and confirmed anonymously.  In November 2017, the founders of BAT announced that users could now give tokens directly to their favorite channels, thereby increasing user and publisher activity on Brave. But what is BAT token? BAT, an ERC20 token, is developed on a smart contract based on the Ethereum blockchain. The token uses Proof of Work (PoW) technology. However, to maintain network security, use &lt;strong&gt;Zero-Knowledge Password&lt;/strong&gt; proof, (ZKP). This is a process that does not require password swapping when logging into your account. Lack of passwords means they shouldn&amp;#39;t be stolen. Users are required to demonstrate that they know some secret questions about the person on the other side.&lt;/p&gt;
+
+&lt;h1&gt;Where to store it?&lt;/h1&gt;
+
+&lt;p&gt;The best hot wallet for BAT are MyEtherWallet, TrustWallet and Atomic Wallet. If you want more security, a cold storage like Ledger is the right choice.&lt;/p&gt;
+
+&lt;h1&gt;Pros&amp;amp;Cons&lt;/h1&gt;
+
+&lt;p&gt;*DISCLAIMER* These lists are subjective, it depends from person to person&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Very fast and intuitive browser&lt;/li&gt;
+&lt;li&gt;Interesting partnerships&lt;/li&gt;
+&lt;li&gt;Great devs team&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Low adoption&lt;/li&gt;
+&lt;li&gt;Scalability issues&lt;/li&gt;
+&lt;li&gt;As stated in its white paper, &amp;#39;&lt;em&gt;in the early stage, the flow of BAT token will be regulated by Brave’.&lt;/em&gt; So, for now, it seems pretty centralized&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Knowledge is knowing a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.]]></title><description><![CDATA[I see a lot of people bitching that NFTs are a scam and I’ve seen a dozen
+comments at least that people wouldn’t buy SHIB even if they knew it would
+double “out of principle”
+
+This isn’t a reality show. There are no points or gains to be made from taking
+some kind of neckbeard elitist “high road”.…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcryws/knowledge_is_knowing_a_tomato_is_a_fruit_wisdom/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcryws/knowledge_is_knowing_a_tomato_is_a_fruit_wisdom/</guid><pubDate>Thu, 21 Oct 2021 23:30:42 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I see a lot of people bitching that NFTs are a scam and I’ve seen a dozen comments at least that people wouldn’t buy SHIB even if they knew it would double “out of principle”&lt;/p&gt;
+
+&lt;p&gt;This isn’t a reality show. There are no points or gains to be made from taking some kind of neckbeard elitist “high road”. So what is SHIB is crap? Then don’t buy it. But don’t get salty when people trade it and make money on it. Yes. It’s a fruit (as opposed to BTC being broccoli and ETH being carrots). It still can be used to make money &lt;/p&gt;
+
+&lt;p&gt;A WISE investor recognizes that an NFT has no inherent value and will be worthless one day but can be used to make money TODAY &lt;/p&gt;
+
+&lt;p&gt;This applies to “just being in it for the tech”. Okay. Then your profile will be sound and you shouldn’t give a fuck if people invest in NFTs or shitcoins &lt;/p&gt;
+
+&lt;p&gt;The level of hipster neckbeardism is out of control&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Unpopular Opinion: Moons are shit and not worth shitposting.]]></title><description><![CDATA[I’ve been in this community for a hot minute but recently (4-5 months) it’s just
+been boring. Original, quality posts are few and far between (Coming from a
+total lurker btw) which makes the member experience meh.
+
+Shitposts are great and I miss the meme days but the ratio is too damn high
+compared…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qd1q1v/unpopular_opinion_moons_are_shit_and_not_worth/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qd1q1v/unpopular_opinion_moons_are_shit_and_not_worth/</guid><pubDate>Thu, 21 Oct 2021 23:30:42 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been in this community for a hot minute but recently (4-5 months) it’s just been boring. Original, quality posts are few and far between (Coming from a total lurker btw) which makes the member experience meh. &lt;/p&gt;
+
+&lt;p&gt;Shitposts are great and I miss the meme days but the ratio is too damn high compared to insightful posts. As crypto adoption increases, of course moons would become an obsession for some and it makes sense that they exist in a crypto sub, but I think they’ve devalued the sub. &lt;/p&gt;
+
+&lt;p&gt;Im not saying they shouldn’t exist or that they won’t provide good for many people. But as far as the quality of this community, and to attempt at providing an actual unpopular opinion, I think they’ve really hurt cc. &lt;/p&gt;
+
+&lt;p&gt;End of Rant and opinion. Please obliterate me.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Coinbase Recurrent Purchase - They are likely scamming you]]></title><description><![CDATA[I buy Bitcoin every week through Coinbase using their recurrent purchase
+feature, and once it's available, I withdraw to my HW wallet.
+
+I have been noticing how Coinbase always picks a price that's on the top 10%
+prices during that day as the sale price. With an example, if the price for a
+given day…]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcmavw/coinbase_recurrent_purchase_they_are_likely/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcmavw/coinbase_recurrent_purchase_they_are_likely/</guid><pubDate>Thu, 21 Oct 2021 22:37:32 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I buy Bitcoin every week through Coinbase using their recurrent purchase feature, and once it&amp;#39;s available, I withdraw to my HW wallet. &lt;/p&gt;
+
+&lt;p&gt;I have been noticing how Coinbase always picks a price that&amp;#39;s on the top 10% prices during that day as the sale price. With an example, if the price for a given day ranges between 50K and 52K, you will almost certainly get an auto-purchase sale price of ~$51,900.&lt;/p&gt;
+
+&lt;p&gt;Yesterday&amp;#39;s case is more egregious. Besides the $3 fee applied, they gave me a sales price of $67,022.51 / BTC - a price that was never reached in their platform.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s pretty obvious to me that they are scamming me, and probably everybody, with the sale price. In between the fee, and the inflated price, I think they are regularly making 5+% on each of my purchases.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I’m ALL IN and it feels good!]]></title><description><![CDATA[I started buying in 2017 but stupidly didn’t buy the bear market and focused on
+stocks (which did incredible for stocks). I was comfortable holding my stocks
+and felt they were safe and had a great return. However, they have not compared
+to BTC’s overall returns after this bull run.
+
+When BTC began…]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcrs31/im_all_in_and_it_feels_good/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcrs31/im_all_in_and_it_feels_good/</guid><pubDate>Thu, 21 Oct 2021 22:37:32 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I started buying in 2017 but stupidly didn’t buy the bear market and focused on stocks (which did incredible for stocks).  I was comfortable holding my stocks and felt they were safe and had a great return.  However, they have not compared to BTC’s overall returns after this bull run.&lt;/p&gt;
+
+&lt;p&gt;When BTC began making headlines again, I dove into the research and actually had a panic attack when “it clicked” in my brain.  How could I have not seen the potential before?  Thank goodness I never sold a single sat during the bear market.&lt;/p&gt;
+
+&lt;p&gt;I decided to aggressively DCA into Bitcoin.  I sold all my stocks and Alts when the first dip occurred this year and put it all on BTC.  I bought every dip.  Then I called my IRA manager and told him to sell everything and mail me the check.  I dumped all of it on BTC in the low 30k’s and 29k.  My IRA manager said it was crazy. &lt;/p&gt;
+
+&lt;p&gt;Well, I’ve now DCA’d everything into BTC.  New BTC purchases will come from my salary.  I have no other assets besides my house and an S19j Pro ASIC miner I recently bought.  I plan to keep everything I mine and purchase more ASICs. &lt;/p&gt;
+
+&lt;p&gt;I’ve never had more money in my life and I’ve never felt so optimistic.  Who’s crazy now?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Opinion: Crypto is not safer than stocks]]></title><description><![CDATA[A post a few minutes was claiming an unpopular opinion that crypto is safer than
+stocks, fair enough - people have unpopular opinions all the time & I didn't
+really agree with the post but each to their own! But what really shocked me was
+the number of comments agreeing with the OP or saying it's…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcwkkk/opinion_crypto_is_not_safer_than_stocks/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcwkkk/opinion_crypto_is_not_safer_than_stocks/</guid><pubDate>Thu, 21 Oct 2021 22:37:32 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A post a few minutes was claiming an unpopular opinion that crypto is safer than stocks, fair enough - people have unpopular opinions all the time &amp;amp; I didn&amp;#39;t really agree with the post but each to their own! But what really shocked me was the number of comments agreeing with the OP or saying it&amp;#39;s actually a popular opinion. &lt;/p&gt;
+
+&lt;p&gt;This is &lt;a href=&quot;/r/cryptocurrency&quot;&gt;/r/cryptocurrency&lt;/a&gt; so obviously we do love crypto here and I would wager a lot of people here own more crypto than stocks or bonds, but the fact remains that crypto IS a risk and stocks are far safer.&lt;/p&gt;
+
+&lt;p&gt;Yes the returns are much lower, but if you take the safe market approach with mutual funds or targeted date funds (typically used for retirement) you can be looking at 10% a year with compound interest. This adds up fast and as long as you aren&amp;#39;t looking at the charts everyday and understand this is a LONG TERM investment, you are all but guaranteed to make money.&lt;/p&gt;
+
+&lt;p&gt;Crypto is risky and only a handful will still be around in 40 years. Maybe I&amp;#39;m going against the grain, but saying that crypto is safer than stocks is peak living in a bubble territory.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Link for context&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/qcw61e/unpopular_opinion_investing_in_crypto_is_actually/&quot;&gt;https://www.reddit.com/r/CryptoCurrency/comments/qcw61e/unpopular_opinion_investing_in_crypto_is_actually/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Bitcoin has risen over 200% since Jim Cramer sold]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcwfw0/bitcoin_has_risen_over_200_since_jim_cramer_sold/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcwfw0/bitcoin_has_risen_over_200_since_jim_cramer_sold/</guid><pubDate>Thu, 21 Oct 2021 21:30:53 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[If you've just got into Crypto and are checking the prices constantly...don't worry, this passes]]></title><description><![CDATA[I remember when I first started buying crypto again (having bought some bags and
+forgotten about them in 2017) last year. Every morning I'd wake up and check my
+portfolio, and I'd wake up in the night to check it.
+
+Mates of mine already had 5 or 6 figure portfolios, and I did not. How did…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcnxks/if_youve_just_got_into_crypto_and_are_checking/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcnxks/if_youve_just_got_into_crypto_and_are_checking/</guid><pubDate>Thu, 21 Oct 2021 21:30:53 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I remember when I first started buying crypto again (having bought some bags and forgotten about them in 2017) last year. Every morning I&amp;#39;d wake up and check my portfolio, and I&amp;#39;d wake up in the night to check it. &lt;/p&gt;
+
+&lt;p&gt;Mates of mine already had 5 or 6 figure portfolios, and I did not. How did they manage not to spend all day obsessing over 1-2% price movements? That&amp;#39;s hundreds, maybe thousands of dollars of value shifting every minute. They told me that having been through a full bull and bear cycle already, they know better than to waste time checking the price constantly. &lt;/p&gt;
+
+&lt;p&gt;I have a portfolio I&amp;#39;m pleased with. No Lambo, and I can&amp;#39;t quit my job, but it&amp;#39;s more than I had hoped for when I started, and I find myself checking less and less. Why would I? I&amp;#39;m not planning to sell for the next few years, and everything is locked and earning interest, so I couldn&amp;#39;t sell even if I tried. &lt;/p&gt;
+
+&lt;p&gt;As you stay in this space a bit longer, you will become more confident in your investments, and so won&amp;#39;t need to be reassured by every tiny green candle, and won&amp;#39;t panic at the slightest pullback.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[We all know that Bitcoin and Ethereum are number 1 and 2. What coin should be in 3rd spot?]]></title><description><![CDATA[We can’t deny the fact that Bitcoin and Ethereum have been number 1&2 for a VERY
+long time. And looks like it will continue to be like that for years. (Unless
+Ethereum flips Bitcoin). But what coin deserves to be in 3rd position? I know
+that BNB is the 3rd largest by market cap. However, it is like…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qczra9/we_all_know_that_bitcoin_and_ethereum_are_number/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qczra9/we_all_know_that_bitcoin_and_ethereum_are_number/</guid><pubDate>Thu, 21 Oct 2021 21:30:53 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;We can’t deny the fact that Bitcoin and Ethereum have been number 1&amp;amp;2 for a VERY long time. And looks like it will continue to be like that for years. (Unless Ethereum flips Bitcoin). But what coin deserves to be in 3rd position? I know that BNB is the 3rd largest by market cap. However, it is like that because Binance is “forcing” its use. Moreover, I don’t like the fact that BNB is “centralized”, so for me it doesn’t deserve the 3rd spot. Does ADA or Solana deserve it? By being in 3rd spot I mean in the long term, not a coin that pumps this bull run and then we never see it again.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[When Bitcoin Hit $100: CNBC's 2013 Coverage]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcqvje/when_bitcoin_hit_100_cnbcs_2013_coverage/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcqvje/when_bitcoin_hit_100_cnbcs_2013_coverage/</guid><pubDate>Thu, 21 Oct 2021 20:41:37 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Bitcoin 🙌💎]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcu9vk/bitcoin/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcu9vk/bitcoin/</guid><pubDate>Thu, 21 Oct 2021 19:35:12 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[If you get rich from crypto, keep it as a secret. Don’t tell anyone, your future will thank you.]]></title><description><![CDATA[Some people have what is called here in New Zealand “tall poppy syndrome”.
 People become envious and resentful when you got rich or more successful than
 them.
 
@@ -320,145 +481,4 @@ sentiment, $5K and beyond before…]]></description><link>https://crypto.buzzing
 &lt;p&gt;Let&amp;#39;s all hope this is just the start of not just a massive bull, but also the path to mainstream acceptance and beyond.&lt;/p&gt;
 
 &lt;p&gt;Take a breath, take profit and smile for being in the global 5% who know where we&amp;#39;re all going.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Mariah Carey invests in cryptocurrency company Gemini “to get more women involved”]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qca34m/mariah_carey_invests_in_cryptocurrency_company/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qca34m/mariah_carey_invests_in_cryptocurrency_company/</guid><pubDate>Thu, 21 Oct 2021 03:40:28 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Peter Thiel says bitcoin at $60,000 is a sure sign the 'decrepit' political system is about to implode]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qc7ecu/peter_thiel_says_bitcoin_at_60000_is_a_sure_sign/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qc7ecu/peter_thiel_says_bitcoin_at_60000_is_a_sure_sign/</guid><pubDate>Thu, 21 Oct 2021 03:40:28 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Bitcoin to Reach $168,000 Before the End of the Year, Predicts Wall Street Strategist]]></title><description><![CDATA[All we can do is hope that this will happen.
-https://crypto-academy.org/bitcoin-to-reach-168000/]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qc2sx1/bitcoin_to_reach_168000_before_the_end_of_the/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qc2sx1/bitcoin_to_reach_168000_before_the_end_of_the/</guid><pubDate>Thu, 21 Oct 2021 02:43:08 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;All we can do is hope that this will happen.&lt;br/&gt;
-&lt;a href=&quot;https://crypto-academy.org/bitcoin-to-reach-168000/&quot;&gt;https://crypto-academy.org/bitcoin-to-reach-168000/&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Losing Everything in Vegas Is Legal, but Heaven Forbid We Buy Crypto Assets: Raoul Pal to SEC]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qc7yzh/losing_everything_in_vegas_is_legal_but_heaven/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qc7yzh/losing_everything_in_vegas_is_legal_but_heaven/</guid><pubDate>Thu, 21 Oct 2021 02:43:08 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[ETF explained]]></title><description><![CDATA[I know we have a lot of new investors and this space can be complicated so every
-now and then I like to do a quick post to explain something that’s being widely
-talked about. This way you don’t have to nod along and pretend to know 😜 after
-seeing someone say “it’s like an NFT” I felt a quick…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qbyadb/etf_explained/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qbyadb/etf_explained/</guid><pubDate>Thu, 21 Oct 2021 02:08:45 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I know we have a lot of new investors and this space can be complicated so every now and then I like to do a quick post to explain something that’s being widely talked about. This way you don’t have to nod along and pretend to know 😜 after seeing someone say “it’s like an NFT” I felt a quick summary could be useful. &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;ETF = Exchange Traded Fund&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Spot ETF mimics the price of &lt;em&gt;the coin&lt;/em&gt;, allowing traditional investors to buy into the ETF &lt;strong&gt;without&lt;/strong&gt; owning or trading the coin itself — like we do. It’s an investment vehicle that tracks the performance, they aren’t buying coins (or fractions of the coin) but the price of one share of the ETF follows the price of the coin. If coin rises in value, so does the spot ETF. &lt;/p&gt;
-
-&lt;p&gt;A futures ETF, (like BITO) is similar but it mimics the price of coin futures instead of market price - the value of the ETF is derived from the price movements of the coin’s futures.&lt;/p&gt;
-
-&lt;h1&gt;Why?&lt;/h1&gt;
-
-&lt;p&gt;Because they can do it without learning anything new, they don’t need to learn about seed phrases or crypto exchanges at all. Old school investors and WSB boys can participate in the market without learning anything new or diving into the rabbit hole that we’re in. &lt;em&gt;Don’t undermine this point — you’ve learned a lot so far and it’s daunting to people. The main concern for traditional investors is the crypto process is “sketchy”.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h1&gt;Disadvantages&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;you don’t own the coins &lt;/li&gt;
-&lt;li&gt;high management fees&lt;/li&gt;
-&lt;li&gt;boring: there’s no trading for other crypto projects&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There is advantages as well, (taxes, diversification, risk analysis reports) but I don’t want to make the thread too long.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;repost - it was auto-deleted for being about a popular coin so I edited out the specifics&lt;/em&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Never forget to thank the paper hands]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qc874c/never_forget_to_thank_the_paper_hands/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qc874c/never_forget_to_thank_the_paper_hands/</guid><pubDate>Thu, 21 Oct 2021 02:08:45 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Bitcoin Has Doubled In Value Since China Banned BTC Mining]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qc1vru/bitcoin_has_doubled_in_value_since_china_banned/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qc1vru/bitcoin_has_doubled_in_value_since_china_banned/</guid><pubDate>Thu, 21 Oct 2021 00:53:22 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[This subreddit is about to get a lot more popular! Let's remember to be supportive and educational for newcomers.]]></title><description><![CDATA[With Bitcoin's new all-time-high today, the fourth quarter of the largest ever
-bull year in cryptocurrency history is underway. Bitcoin's price could double,
-triple, or even quadruple from here, and many small-cap alts will follow with
-even greater gains. This subreddit is about to get a lot more…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcbq6q/this_subreddit_is_about_to_get_a_lot_more_popular/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcbq6q/this_subreddit_is_about_to_get_a_lot_more_popular/</guid><pubDate>Thu, 21 Oct 2021 00:53:22 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;With Bitcoin&amp;#39;s new all-time-high today, the fourth quarter of the largest ever bull year in cryptocurrency history is underway. Bitcoin&amp;#39;s price could double, triple, or even quadruple from here, and many small-cap alts will follow with even greater gains. This subreddit is about to get a lot more popular as searches for information on cryptocurrencies increase and our posts make it to the front page.&lt;/p&gt;
-
-&lt;p&gt;Lets remember to be supportive and informative for newcomers. We all came here to learn once.&lt;/p&gt;
-
-&lt;p&gt;Help them understand how scams work, the difference between coin price and marketcap, and the importance of two-factor authentication (with an app, not a phone number). Remind them that time spent in the market is more important than trying to time the market, but to always save a little liquidity for the perfect setup, and to never invest more than they can afford to lose.&lt;/p&gt;
-
-&lt;p&gt;For all the newcomers already here, welcome aboard! We&amp;#39;re going to the moon.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Where are we now in the bull run? What does history tell us? Which phase are we in?]]></title><description><![CDATA[As we get further along in the bull run, and gather more information, the fog
-begins to lift and we can get a better idea of where we are.
-
-Back in May, a lot of people thought we had already gone through the final phase
-of the bull run, and some people said we were in 2018 2.0.
-
-I had serious…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qc53rj/where_are_we_now_in_the_bull_run_what_does/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qc53rj/where_are_we_now_in_the_bull_run_what_does/</guid><pubDate>Thu, 21 Oct 2021 00:53:22 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As we get further along in the bull run, and gather more information, the fog begins to lift and we can get a better idea of where we are.&lt;/p&gt;
-
-&lt;p&gt;Back in May, a lot of people thought we had already gone through the final phase of the bull run, and some people said we were in 2018 2.0.&lt;/p&gt;
-
-&lt;p&gt;I had serious doubts about that, having been through bull runs before. Never seen a crypto bull run being that short. Considering they keep getting longer, and with more adoption, more institutional investors, and increasing interest, it didn&amp;#39;t add up.&lt;/p&gt;
-
-&lt;p&gt;Plus, in past runs, people have always been premature at calling the peaks. Myself included. I called it about 3 times too early back in 2017.&lt;/p&gt;
-
-&lt;p&gt;Here is where we are now:&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/z8ufs94psmu71.jpg?width=953&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=84c8d0199b3b21b6544c0fa8c4172fef98965652&quot;&gt;2021&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If the past is any guide, we know that there has consistently been double peak formations, inaugurating each bull run with a first peak, followed by a crash. Then the real bull run starts after that.&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/nc5orxojvmu71.jpg?width=890&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=cf25b0d31bf99fce5c085ca71e6ee8a4013d43b9&quot;&gt;2011&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/lvz5kjanvmu71.jpg?width=837&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=6f52e6300dd860713a4624d2ff28217524549303&quot;&gt;2017&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The most pronounced double peak was in 2013&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/m37g5uapvmu71.jpg?width=888&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=2a0aaa0de52b82d21634a4de69ba783cdb368ece&quot;&gt;2013&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;And it looks like we might be set to repeat this stronger double peak market:&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/0d2mlaoqtmu71.jpg?width=451&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=0d8cd962e0bee8ff5c2cb6ab154a7429549d0f33&quot;&gt;https://preview.redd.it/0d2mlaoqtmu71.jpg?width=451&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=0d8cd962e0bee8ff5c2cb6ab154a7429549d0f33&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;In the phases of a bull run, this might put us right after the bear trap, after the first sell off.&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/p9sk5vqoumu71.png?width=640&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=69c7c9505c075544652ba6d1b1262f58fd1d464a&quot;&gt;https://preview.redd.it/p9sk5vqoumu71.png?width=640&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=69c7c9505c075544652ba6d1b1262f58fd1d464a&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If 2017 is any guide, we still have to go through the crypto craze phase, where crypto has its own version of Beatles mania. Where the media shifts the story from regulation and criminal activity, to instant millionaires and lambos.&lt;/p&gt;
-
-&lt;p&gt;This is still just a theory.&lt;/p&gt;
-
-&lt;p&gt;Remember, nobody knows shit about fuck.&lt;/p&gt;
-
-&lt;p&gt;But as we get more information as we get further along in this bull run, we can get a better idea of where we are. Or develop better theories.&lt;/p&gt;
-
-&lt;p&gt;At least we know that we are not currently in a bear market, and May wasn&amp;#39;t 2018 2.0. And if that&amp;#39;s the case, history tells us that we may have only inaugurated the bull run.&lt;/p&gt;
-
-&lt;p&gt;Things are just getting started.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[YSK: You might be getting crypto investing advice from a 13 year old]]></title><description><![CDATA[I guess it gives new meaning to "everyone's a genius in a bull run."
-
-I think something that is overlooked by many is that you only need to be 13
-years old to use Reddit, per the ToS
-[https://www.redditinc.com/policies/user-agreement-september-12-2021].
-
-I'm making this post because sometimes the…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcaqxp/ysk_you_might_be_getting_crypto_investing_advice/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcaqxp/ysk_you_might_be_getting_crypto_investing_advice/</guid><pubDate>Thu, 21 Oct 2021 00:53:22 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I guess it gives new meaning to &amp;quot;everyone&amp;#39;s a genius in a bull run.&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;I think something that is overlooked by many is that you only need to be 13 years old to use Reddit, per the &lt;a href=&quot;https://www.redditinc.com/policies/user-agreement-september-12-2021&quot;&gt;ToS&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;m making this post because sometimes the sentiment and mindsets that I read here are alarming to me. People that don&amp;#39;t want to be &amp;quot;wage slaves&amp;quot; making it to the front page saying that crypto is going to give them financial freedom and property on a secluded island. The idea that you can forget about your career, because BTC and your alts are enough to make you rich.&lt;/p&gt;
-
-&lt;p&gt;There is also a completely unsubstantiated poll that came up on the sub today asking what your age is.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/zsaqrs6dynu71.png?width=670&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=56922304c578248491931c871bb74487b5069ef1&quot;&gt;I&amp;#39;m not actually &amp;gt;60, or am I?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I don&amp;#39;t know how to put this gently, but wisdom often comes with experience. And the reality is that the older you get, the more experience you usually have. People will undoubtedly say &amp;quot;a 20 year old can have more experience than a 40 year old&amp;quot; which can be true in some cases, but the reality is that more often than not the 40 year old will have more experience to fall back on to make an educated decision.&lt;/p&gt;
-
-&lt;p&gt;Experience is especially crucial when it comes to investment decisions and doling out advice. My fear is that more than half of this sub has little to no investing experience. But you can&amp;#39;t know how old the person is who is on the other side of the screen.&lt;/p&gt;
-
-&lt;p&gt;The person giving you advice might be a teenager who has $100 or less invested in the coin they are shilling. On average, a crypto investor has $263 in their account. (&lt;a href=&quot;https://www.cnbc.com/2021/10/20/some-investors-putting-more-money-into-cryptocurrencies-than-stocks.html&quot;&gt;link&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Let me put it this way, if you are 25, how confident are you in investing advice received from an 18 year old? If you are 35, how confident are you in investing advice received from a 25 year old?&lt;/p&gt;
-
-&lt;p&gt;Without any data to back it up, I&amp;#39;m sure that a huge portion of users here have been investing for less than 5 years, but even more concerning is that they probably started investing in January of 2021. That&amp;#39;s less than a year of investing experience. And let me tell you, years of trials and tribulations, getting burned in the markets and assessing what risk you can really tolerate, goes a long way in how you approach your investment decisions.&lt;/p&gt;
-
-&lt;p&gt;Be aware of the fact that we will never know the age or level of experience of whoever is postulating what comes next. Factually, we can know that the person might be as young as 13 years old.&lt;/p&gt;
-
-&lt;p&gt;-------&lt;/p&gt;
-
-&lt;p&gt;As someone who has been in the markets 10+ years, experience that only goes so far, and you could never validate to begin with - I have the following advice, which I&amp;#39;ve stated in previous posts:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Always do your own research and be weary of advice received from people on the internet.&lt;/li&gt;
-&lt;li&gt;The person giving you advice might have a menial amount of money invested in the first place.&lt;/li&gt;
-&lt;li&gt;Focus on your studies and continuously improve your skills to make yourself more marketable in the workplace... higher salary = more money to invest in crypto.&lt;/li&gt;
-&lt;li&gt;Don&amp;#39;t put all your eggs in one basket. Diversify your investments including outside of the crypto market.&lt;/li&gt;
-&lt;li&gt;Chances are that crypto is not going to make you rich. Maybe it will, but it would be ill-advised to plan for this outcome.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;-------&lt;/p&gt;
-
-&lt;p&gt;Is this a gatekeeping post? Pretty much. Take it for what it&amp;#39;s worth, and sorry to any of those who I may have offended. For all you know, I am 13 years old.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Mariah Carey invests in cryptocurrency company Gemini “to get more women involved”]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qca34m/mariah_carey_invests_in_cryptocurrency_company/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qca34m/mariah_carey_invests_in_cryptocurrency_company/</guid><pubDate>Thu, 21 Oct 2021 03:40:28 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
