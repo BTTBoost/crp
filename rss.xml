@@ -1,4 +1,109 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 22 Oct 2021 02:14:22 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[KnowYourCrypto #38: Basic Attention Token (BAT)]]></title><description><![CDATA[如果你对这个系列的前几篇文章感兴趣，可以在这里查看。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 22 Oct 2021 04:53:35 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[Cardano is basically dead. People just don't realise it yet.]]></title><description><![CDATA[Cardano's throughput is currently incredibly low.
+
+The best case is 6.5tps. This is hardly more than Bitcoin.
+
+The worst case is significantly lower.
+
+https://i.imgur.com/sIglkyi.jpeg
+
+--------------------------------------------------------------------------------
+
+This is not currently an issue,…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qd49i1/cardano_is_basically_dead_people_just_dont/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qd49i1/cardano_is_basically_dead_people_just_dont/</guid><pubDate>Fri, 22 Oct 2021 02:18:17 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Cardano&amp;#39;s throughput is currently incredibly low.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;&lt;em&gt;best case&lt;/em&gt;&lt;/strong&gt; is 6.5tps. This is hardly more than Bitcoin.&lt;/p&gt;
+
+&lt;p&gt;The worst case is significantly lower.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://i.imgur.com/sIglkyi.jpeg&quot;&gt;https://i.imgur.com/sIglkyi.jpeg&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr/&gt;
+
+&lt;p&gt;This is not currently an issue, as Cardano&amp;#39;s blocks are not full. They&amp;#39;re currently sitting at about 30% full.&lt;/p&gt;
+
+&lt;p&gt;However, if any adoption/usage of smart-contracts arises (DeFi, NFTs, etc) then Cardano is very quickly going to start hitting 100% full blocks, every single block.&lt;/p&gt;
+
+&lt;p&gt;Cardano does not have a fee market, so when blocks are full, there&amp;#39;s no way to ensure your transaction goes through. Got an important transaction that you need to be processed quickly? Big institution that needs to send 2 billion ADA? Bad luck, you can&amp;#39;t pay more to ensure it goes through fast. &lt;/p&gt;
+
+&lt;p&gt;This is an absolute hellscape.&lt;/p&gt;
+
+&lt;hr/&gt;
+
+&lt;p&gt;Then there&amp;#39;s this; &lt;a href=&quot;https://github.com/input-output-hk/cardano-node/issues/3247&quot;&gt;https://github.com/input-output-hk/cardano-node/issues/3247&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Recently, some NFTs were causing spikes in Cardano&amp;#39;s usage, causing bottlenecks for several hours, causing many peoples transactions to be &amp;#39;dropped&amp;#39;, because they could not be inserted into the mempool.&lt;/p&gt;
+
+&lt;p&gt;In the comments, Duncan Coutts (one of Cardano&amp;#39;s top devs) replied.&lt;/p&gt;
+
+&lt;p&gt;His solution? They would decide which transactions are more important, and process them first... He has decided that NFTs are not important, and get low priority. Wow... wasn&amp;#39;t this meant to be decentralised? Why are they making decisions about which transactions are more important? They should all be treated equally. &lt;strong&gt;&lt;em&gt;THIS IS A HUGE CENTRALISATION RED FLAG.&lt;/em&gt;&lt;/strong&gt; &lt;/p&gt;
+
+&lt;p&gt;Then there&amp;#39;s the mempool being overfilled. His solution? When the mempool is full, wallets need to keep attempting to submit the transaction to the mempool, over and over and over, possibly for days, until they successfully get it inserted... &lt;/p&gt;
+
+&lt;p&gt;This means that when you send a transaction, you need to ensure your wallet stays connected to the internet - so it can keep trying to publish your transaction. If you send some ADA then turn off your computer/phone? Bad luck, your transaction wont go through. This is absolute insanity.&lt;/p&gt;
+
+&lt;p&gt;This is all incredibly troubling.&lt;/p&gt;
+
+&lt;p&gt;Again, this is not really an issue &lt;strong&gt;&lt;em&gt;YET&lt;/em&gt;&lt;/strong&gt;, because blocks/mempool are not consistently full yet. But they will be as soon as there&amp;#39;s any significant level of smart-contract usage.&lt;/p&gt;
+
+&lt;hr/&gt;
+
+&lt;p&gt;The solution to this is Cardanos Layer 2 scaling solution; Hydra. &lt;/p&gt;
+
+&lt;p&gt;Unfortunately, Hydra is likely many years away, and until then, Cardano is basically dead in the water, unable to deal with any significant level of adoption of smart-contract usage.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Pension fund for Texas firefighters allocates $25M to Bitcoin and Ether]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcuyg0/pension_fund_for_texas_firefighters_allocates_25m/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcuyg0/pension_fund_for_texas_firefighters_allocates_25m/</guid><pubDate>Fri, 22 Oct 2021 02:18:17 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[TikTok from April makes me laugh every time I see it.]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qd239i/tiktok_from_april_makes_me_laugh_every_time_i_see/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qd239i/tiktok_from_april_makes_me_laugh_every_time_i_see/</guid><pubDate>Fri, 22 Oct 2021 02:18:17 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[BTC从Trezor硬件钱包被盗。电脑上的恶意软件？]]></title><description><![CDATA[更新2：我是一个他妈的白痴。我把我的种子词输入了一个假的Trezor网站。
+
+https://www.reddit.com/r/TREZOR/comments/e1a9o1/fake_trezor_website_all_funds_lost/
+
+这正是发生在我身上的事情。
+
+更新：很可能是被钓鱼的种子词，请看线程与...]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcuz7s/btc_stolen_from_trezor_hardware_wallet_malware_on/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcuz7s/btc_stolen_from_trezor_hardware_wallet_malware_on/</guid><pubDate>Fri, 22 Oct 2021 01:14:04 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;UPDATE 2: I AM A FUCKING MORON.  I entered my seedphrase into a fake Trezor site.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/TREZOR/comments/e1a9o1/fake_trezor_website_all_funds_lost/&quot;&gt;https://www.reddit.com/r/TREZOR/comments/e1a9o1/fake_trezor_website_all_funds_lost/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;this^^^ is exactly what happened to me.  &lt;/p&gt;
+
+&lt;p&gt;UPDATE: Likely phished for seed phrase, see thread with u/&lt;a href=&quot;https://www.reddit.com/user/pink_raya/&quot;&gt;pink_raya&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I had a little over a full BTC stolen from my hardware wallet just under a week ago, and just discovered so this morning. I believe I left my hardware wallet plugged into my computer while I was out (like a fucking moron), as I was using the wallet earlier that day. I&amp;#39;ve filed an IC3 complaint, as well as filed a claim with Coinfirm&amp;#39;s Reclaim Crypto.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m not holding my breath waiting for my coins to be returned to me, but if there are any other avenues by which I might increase the likelihood of getting my coins back, I&amp;#39;d love to hear what they are.&lt;/p&gt;
+
+&lt;p&gt;And if by chance a benevolent cyber-sleuth is reading this, the TX ID for the transaction is&lt;/p&gt;
+
+&lt;p&gt;7f851490917a9384b3223ea13c8460cb880dfb62f0858b8e51aafa3a295b43e2&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[你在做什么？]]></title><description><![CDATA[你是否拿出了一些利润？
+
+获利总是好的。这就是为什么很多人（如果不是大多数）在
+的原因。为了赚钱!
+
+你是否在囤积并希望它能抽出更多？
+
+如果BTC将达到10万美元的EOY，你将赚取更多的利润，然后卖出
+现在，对吗？
+
+你是在卖...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcvuh3/what_are_you_doing/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcvuh3/what_are_you_doing/</guid><pubDate>Fri, 22 Oct 2021 01:14:04 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;Are you taking out some profits?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Taking profits is always good. That’s why a lot of people (if not most) are in crypto for. To make money!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Are you hodling and hoping for it to pump more?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If BTC is going to hit $100k EOY, you’ll make so much more profit then selling now, right?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Are you selling everything?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Maybe you wanted to buy a house and now finally you can afford it if you sell all your crypto. Good job! I’m proud of you for accomplishing your goals! Enjoy!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Are you hodling because you’re too lazy to sell and already planned to hodl for a few years&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is me. I’m too lazy to buy and sell everytime. I just enjoy the ride and we’ll see in a couple of years how good we’re doing. For now, just trying to DCAing and Staking.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Are you wanting to sell, but your crypto is locked?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You knew that your crypto was going to be locked for the given time. Why did you stake then?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Are you depressed because you were expecting a huge dip when BTC was $40k and it never happened, and you missed all these gains?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Always remember “bull markets make you rich, bear markets make you filthy rich”.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[KnowYourCrypto #38: Basic Attention Token (BAT)]]></title><description><![CDATA[如果你对这个系列的前几篇文章感兴趣，可以在这里查看。
 
  * 比特币(BTC)
    [https://www.reddit.com/r/CryptoCurrency/comments/pfxxyp/knowyourcrypto_1_september_1_2021_bitcoin_btc/]
@@ -429,56 +534,4 @@ Full of pre-teens being “edgy” by saying “RAWR” and pretending to be din
 &lt;p&gt;To all the veterans, send your kid’s to their grandparents, give the wife/hubby some money to go to the mall. Grab a cold one out of the fridge(Budweiser is my drink of choice), find a comfy peice of furniture, put on the charts on your monitor or tv, take a seat, lean back, crack open a beer, and enjoy the fruits of your labour, sacrifice, and perseverance. &lt;/p&gt;
 
 &lt;p&gt;We are all going to make it! I’ll See you guys on the other side, this ride should be a fun one 👋!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[这是恢复我们国歌的合适时机。]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcfy0a/a_fitting_time_to_bring_back_our_anthem/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcfy0a/a_fitting_time_to_bring_back_our_anthem/</guid><pubDate>Thu, 21 Oct 2021 04:45:30 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[古惑仔 餐厅不接受比特币的场景。]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qc9bpy/goodfellas_restaurant_doesnt_accept_bitcoin_scene/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qc9bpy/goodfellas_restaurant_doesnt_accept_bitcoin_scene/</guid><pubDate>Thu, 21 Oct 2021 04:45:30 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[这是最困难的部分]]></title><description><![CDATA[这更多的是针对较新的比特币玩家，但对我们所有人都是一个很好的提醒。
-
-这是最困难的部分。
-
-是的，当价格低迷和停滞不前时，它很难。不管你的信念如何。
-总是有一个小小的声音在质疑你是否搞错了。还有就是所有
-媒体在说坏话...]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcaral/this_is_the_hard_part/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qcaral/this_is_the_hard_part/</guid><pubDate>Thu, 21 Oct 2021 04:45:30 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;This is more aimed at the newer bitcoiners, but a good reminder to all of us:&lt;/p&gt;
-
-&lt;p&gt;THIS is the hardest part of hodling.&lt;/p&gt;
-
-&lt;p&gt;Yes, its difficult when prices are low and stagnate. No matter your belief, there&amp;#39;s always that little voice questioning if you are mistaken. There&amp;#39;s all the media talking bad of bitcoin&amp;#39;s outlook. There&amp;#39;s all those people in your life telling you how unwise the investment is, how unrealistic your views on the future are, and throwing out convenient numbers to &amp;quot;prove&amp;quot; XYZ stock/metal is a better investment.&lt;/p&gt;
-
-&lt;p&gt;That&amp;#39;s nothing compared to now. All those same people now telling you to take the massive Return On Investment. Loved ones imploring you to be smart and get out while the gettin is good. The &amp;quot;factual&amp;quot; reasoning they used before are now replaced with emotional appeals. All of a sudden media and people are experts about bitcoin cycles. They tell you it will crash... And they are right in a way since it &lt;em&gt;eventually&lt;/em&gt; it will dip after reaching some new peak before the next cycle.&lt;/p&gt;
-
-&lt;p&gt;For most, the profit would help their lives significantly. Pay down/off a house mortgage, getting a new car, paying off/down debts, etc. For others the current profit is life changing money.&lt;/p&gt;
-
-&lt;p&gt;We all know it WILL peak and &amp;quot;crash&amp;quot; to a low that&amp;#39;s still higher than previous cycle&amp;#39;s ATH. That knowledge spawns the brilliant plan to sell then buy lower to increase stacks.&lt;/p&gt;
-
-&lt;p&gt;Timing the market is a game of Russian Roullete, tho. You might get lucky a few times, but eventually you lose, and you lose big.&lt;/p&gt;
-
-&lt;p&gt;Now is the time to remember why you bought bitcoin in the first place. Be 100% brutally honest with yourself. Ponder the future if it now. Compare that to what you believed when first buying. If there is a difference, find the reason for your change in views. &lt;/p&gt;
-
-&lt;p&gt;Figure out which type of person you are. Which would you regret more:&lt;/p&gt;
-
-&lt;p&gt;not taking profit if it permanently nosedives&lt;/p&gt;
-
-&lt;p&gt;or &lt;/p&gt;
-
-&lt;p&gt;cashing out now at a much lower price and it continues skyrocketing in the next few months/next cycle.&lt;/p&gt;
-
-&lt;p&gt;Be realistic on thinking if you do cash out and it continues upward, are you going to buy back in (at the much higher price). &lt;/p&gt;
-
-&lt;p&gt;Everyone daydreams and has these thoughts. Especially considering we&amp;#39;re on the second leg of this cycle.. Just like all the previous ones.&lt;/p&gt;
-
-&lt;p&gt;Just so you know, it doesn&amp;#39;t get easier. Each cycle is more money and the temptation becomes greater. Each cycle brings more voices weighing in on your investment.&lt;/p&gt;
-
-&lt;p&gt;Just be honest with yourself. There&amp;#39;s nothing wrong with taking a profit to improve your life. Just be completely sure if you decide to cash out (now or in the future) it&amp;#39;s because of what YOU want and YOU believe.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[ETH刚刚突破4,200美元... 下一站是新的ATH，然后是5K美元]]></title><description><![CDATA[这是一个漫长而多事的几个月，但祝贺每一个坚持下来的人--和那些在5月以1900美元买入的人。
-以及那些在5月份以1900美元买入的人。
-
-你们都值得拥有这头牛和它带来的财富。
-
-我们极有可能在本月看到一个新的ATH，鉴于目前的市场
-观点，5K美元甚至更高的价格之前......]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcfa3m/eth_just_broke_4200_next_stop_a_new_ath_and_then/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qcfa3m/eth_just_broke_4200_next_stop_a_new_ath_and_then/</guid><pubDate>Thu, 21 Oct 2021 03:40:28 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It&amp;#39;s been a long and eventful few months, but congrats to everyone who HELD - and to those who bought in at $1,900 back in May. &lt;/p&gt;
-
-&lt;p&gt;You all deserve this bull and the fortunes it brings.&lt;/p&gt;
-
-&lt;p&gt;It&amp;#39;s highly likely we will see a new ATH this month and given the current market sentiment, $5K and beyond before the end of the year.&lt;/p&gt;
-
-&lt;p&gt;Let&amp;#39;s all hope this is just the start of not just a massive bull, but also the path to mainstream acceptance and beyond.&lt;/p&gt;
-
-&lt;p&gt;Take a breath, take profit and smile for being in the global 5% who know where we&amp;#39;re all going.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[玛丽亚-凯莉投资加密货币公司Gemini，"让更多女性参与进来"]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qca34m/mariah_carey_invests_in_cryptocurrency_company/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qca34m/mariah_carey_invests_in_cryptocurrency_company/</guid><pubDate>Thu, 21 Oct 2021 03:40:28 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
