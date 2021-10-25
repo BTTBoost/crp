@@ -1,4 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 24 Oct 2021 21:23:43 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[这里还有人只是不想买房子吗？]]></title><description><![CDATA[嗨 :) 还有人不想买房子吗。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 25 Oct 2021 00:03:31 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[Miami plans to pay city employees in Bitcoin. Should you accept crypto salaries?]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qes4oo/miami_plans_to_pay_city_employees_in_bitcoin/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qes4oo/miami_plans_to_pay_city_employees_in_bitcoin/</guid><pubDate>Sun, 24 Oct 2021 21:35:13 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[[Awareness/Proposal] The multitude of different "derivation paths" in BIP32 Bitcoin wallets causes incompatibility all around when it comes to wallet seed restore operation for non-tech-savy users.]]></title><description><![CDATA[NOTE: Purpose of this post is to draw attention to a possibility for improving
+Bitcoin and its wallet ecosystem constructively, so please do not blindly hate
+and downvote based on a false understanding that this is harmful criticisms. It
+is not. Negating a fruitful constructive dialogue would be…]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qeu3j7/awarenessproposal_the_multitude_of_different/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qeu3j7/awarenessproposal_the_multitude_of_different/</guid><pubDate>Sun, 24 Oct 2021 21:35:13 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;em&gt;NOTE: Purpose of this post is to draw attention to a possibility for improving Bitcoin and its wallet ecosystem constructively, so please do not blindly hate and downvote based on a false understanding that this is harmful criticisms. It is not. Negating a fruitful constructive dialogue would be harmful.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr/&gt;
+
+&lt;p&gt;Nowadays different BIP32 wallets use different derivation paths. This means that even with a properly backupped seed a non-tech-savy user may see zero balance when restoring this seed with another wallet even if that wallet advertises to use the same BIP32-based hierarchical deterministic wallet.&lt;/p&gt;
+
+&lt;p&gt;Reason for this &amp;quot;mess&amp;quot; is partly historical, partly programmer lazyness, partly proprietariness:&lt;br/&gt;
+BIP32 and hierarchical wallet methods have evolved over time, and depending when the wallet came out, different derivation paths were used. Some wallet programmers seem to prefer short derivation paths not following BIP32 recommendations apparently to save some lines of code in implementation efforts. Again other wallets find special reasons for using proprietary non-standard derivation paths for special purposes (e.g. Samourai).&lt;/p&gt;
+
+&lt;p&gt;See &lt;a href=&quot;https://walletsrecovery.org&quot;&gt;https://walletsrecovery.org&lt;/a&gt; for details.&lt;/p&gt;
+
+&lt;p&gt;Nowadays, derivation paths most common and recommended by BIP32 are&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;m/44&amp;#39;/0&amp;#39;/0&amp;#39;&lt;/li&gt;
+&lt;li&gt;m/49&amp;#39;/0&amp;#39;/0&amp;#39;&lt;/li&gt;
+&lt;li&gt;m/84&amp;#39;/0&amp;#39;/0&amp;#39;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;for the three bitcoin address formats, respectively.&lt;/p&gt;
+
+&lt;p&gt;But others still exist for legacy reasons, like     &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;m/0&amp;#39; (e.g. BRD wallet, Multibit HD wallet)&lt;/li&gt;
+&lt;li&gt;m/0&amp;#39;/0&amp;#39; (bitcoin core, historically)&lt;/li&gt;
+&lt;li&gt;m/44&amp;#39;/0&amp;#39;/n&amp;#39; (blockchain.com proprietary)&lt;/li&gt;
+&lt;li&gt;m/44&amp;#39;/n&amp;#39;/0&amp;#39; (n=0, 1, 133, 145)&lt;/li&gt;
+&lt;li&gt;m/84&amp;#39;/0&amp;#39;/n&amp;#39;&lt;/li&gt;
+&lt;li&gt;m/49/0/X (note the missing &amp;#39; everywhere!)&lt;/li&gt;
+&lt;li&gt;m/47&amp;#39;/0&amp;#39;/0&amp;#39;&lt;/li&gt;
+&lt;li&gt;m/45&amp;#39;/...&lt;/li&gt;
+&lt;li&gt;m/48&amp;#39;/...&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note that n and X above denote variables from 0 to 2147483647, whereas m is a fixed letter that stands for &amp;quot;master&amp;quot;. The &amp;#39; stands for &amp;quot;hardened&amp;quot; and is also written as h or H is some implementations.&lt;/p&gt;
+
+&lt;p&gt;Since the number on each derivation path level can go from 0 to 2147483647 and can be with or without the &amp;#39; , and since there can be an (almost?) arbitrary number of levels, the number of derivation paths is practically endless, and checking all of them would take an astronomical amount of times longer than the age of the universe even with all computer power on earth. Therefore it is not possible for any wallet to check all possible derivation paths when the user restores a wallet seed.&lt;/p&gt;
+
+&lt;p&gt;Therefore we can assume that wallets only check for &amp;quot;their own&amp;quot; derivation path(s) when a wallet seed is restored, and this means that they might be missing bitcoins if the seed was formerly used in another wallet SW/HW.&lt;/p&gt;
+
+&lt;p&gt;We do not know how BIP32 will evolve in the future. Maybe in 10 years from now today&amp;#39;s mainstream derivation paths will be obsolete and not checked any more by default by standard wallets.&lt;/p&gt;
+
+&lt;p&gt;Therefore, everybody making a wallet seed backup is also strongly advised to back up the derivation path and the algorithm. Or at least noting next to the seed which wallet SW and which wallet version this seed was used with.&lt;/p&gt;
+
+&lt;p&gt;From wallet SW and BIP standardisation point of view it is desirable that&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(a) A new &amp;quot;BIP nnn&amp;quot; is created that defines sets of derivation paths (like the ones listed above) that are used/checked for a given wallet seed, and&lt;/li&gt;
+&lt;li&gt;(b1) A wallet SW that calls itself &amp;quot;BIP nnn version R compliant for restore&amp;quot; must check for all these derivation paths upon wallet seed restore, such that no funds are lost or missed, and&lt;/li&gt;
+&lt;li&gt;(b2) A wallet SW that calls itself &amp;quot;BIP nnn version U compliant for own seed usage&amp;quot; must guarantee not to use other derivation paths than those listed in &amp;quot;BIP nnn ver. U when operating on a self generated seed.&lt;/li&gt;
+&lt;li&gt;(b3) A wallet SW should also display the BIP nnn version U for every wallet in use such that the user knows that for a later restore he needs a wallet SW whose BIP nnn version R for restore is at least &amp;gt;= U.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;W.r.t. (a), this BIP nnn should be updated (i.e. the list of derivation paths extended) whenever a wallet wants to use derivation paths not yet in this list. Then this wallet should apply for a new BIP nnn version.&lt;/p&gt;
+
+&lt;p&gt;Then the BIP nnn should be versioned every time the set of seeds is enhanced.&lt;/p&gt;
+
+&lt;p&gt;Then, w.r.t. (b), a wallet SW/HW can advertise to be &amp;quot;compliant to BIP nnn version R for seed restoration&amp;quot; (higher R = better for compatibility) and &amp;quot;compliant to BIP nnn version U&amp;quot; w.r.t. derivation path usage for self-generated seeds (lower U = better for compatibility).&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[德克萨斯州最大的加密货币采矿场之一，每天开采比特币的收入接近200万美元。]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qesmx3/one_of_the_largest_crypto_mining_farms_in_texas/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qesmx3/one_of_the_largest_crypto_mining_farms_in_texas/</guid><pubDate>Sun, 24 Oct 2021 20:35:43 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[提醒大家，Shib不会打出1分钱。]]></title><description><![CDATA[随着shib的发展，我们有许多新的人从他们最喜欢的YouTuber或Twitter上的人那里进入这个空间。
+他们最喜欢的YouTuber或Twitter上的人告诉他们要购买shib。而且它肯定是
+地狱是工作到这一点，祝贺你。
+
+但问题是，你们中的许多新手不明白，我刚刚被骂了。
+我刚刚因为指出了两个...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qetk4i/a_reminder_shib_will_not_hit_1_penny/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qetk4i/a_reminder_shib_will_not_hit_1_penny/</guid><pubDate>Sun, 24 Oct 2021 19:31:00 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As shib is pumping we have many new people entering the space from their favorite YouTuber or person on Twitter telling them to buy shib. And it sure as hell is working to this point congrats. &lt;/p&gt;
+
+&lt;p&gt;But the problem is many of you newbies don’t understand MC I just got flamed for pointing out to two people that shiba will not EVER hit a penny (.01). I was accused of it being just like BTC to 10k and doge to 50 cent. Okay no shib is like neither of those. &lt;/p&gt;
+
+&lt;p&gt;Let’s revisit market cap shall we? The market cap is a metric we use to compare coins to one another it’s THE thing to check when you want to know potential price action of a coin. MC= circulating supply x current market price. BTC is the #1 coin at 1.1T (1 decimal place) MC. You can calculate that with $60,300 (current Market price) x 17 million (circulating supply). No one with a brain should believe your coin will surpass this. &lt;/p&gt;
+
+&lt;p&gt;Let’s look at shib shall we. A current MC of 17 billion. It’s got some room to run sure. Will it get to a penny? No shot. Why? MC. To get to 1 cent shib will need to 238x from here. That would be a market cap of 17B x 238 = over 4T. All of crypto is currently 2.55T. It’s NOT HAPPENING THIS RUN. &lt;/p&gt;
+
+&lt;p&gt;If you are new I hope this helps cause I doubt your influencer who told you to buy explained this. If you made money great but no your $50 will not 300x you will not hit $1 the supply continues to go up daily making it even harder. I hope this helps.&lt;/p&gt;
+
+&lt;p&gt;Edit: to those who are commenting like it can happen beat of luck. If it does save this post hit me up and I’ll record me chewing my show strings of 3 year old shoes.&lt;/p&gt;
+
+&lt;p&gt;Edit2: bring on the downvotes shib gang. Sorry for trying to educate you. /s im not sorry for telling the hard truth.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我卖掉了我所有的ADA，换取ATOM...]]></title><description><![CDATA[ADA一直是一堆空洞的承诺。我对Cosmos一直持观望态度。
+但随着最近cosmos网络的所有更新。
+它在加密货币世界中的使用率似乎在增加。
+
+ADA有一堆的 "潜力"，似乎总是下一个大动作...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qestid/i_sold_all_my_ada_for_atom/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qestid/i_sold_all_my_ada_for_atom/</guid><pubDate>Sun, 24 Oct 2021 19:31:00 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;ADA has been a bunch of empty promises. I’ve been on the fence on Cosmos for quite some time, but following all of the recent updates to the cosmos network, it seems to be having an increase in usage in the crypto world. &lt;/p&gt;
+
+&lt;p&gt;ADA has a bunch of “potential” and seems to always be the next big move but nothing ever happens. &lt;/p&gt;
+
+&lt;p&gt;Did I overreact by selling all? Should I keep a small amount of ADA instead? I truly believe that this is the last time ATOM will be this low and with this potential bull run, cosmos will be in the low 100s very soon.&lt;/p&gt;
+
+&lt;p&gt;I’m not wrinkled, I do my own research in these subs and I put a lot of trust in y’all’s DD. Did I do right or am I victim to FOMO?&lt;/p&gt;
+
+&lt;p&gt;Edit: thank you all for taking the time to enlighten me and give me some insight. To clarify things, I bought 8 months ago and held the entire time. I don’t day trade and not looking for a quick buck. But after thinking about it, 8 months is not a proper time table and was selfish of me to say it’s not moving enough. I will DCA back into ADA next paycheck and start building it back up.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[官方预告片。比特币的极致》。即将在Netflix播出。]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qesj1k/official_trailer_the_bitcoin_maximalist_coming/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qesj1k/official_trailer_the_bitcoin_maximalist_coming/</guid><pubDate>Sun, 24 Oct 2021 19:31:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[告诉我你持有加密货币，而不告诉我你持有加密货币。]]></title><description><![CDATA[如果你要分享你持有加密货币的事实，你会用什么样的一句话来形容？
+你会对那些不从事加密货币领域的人说什么，又会对那些从事加密货币领域的人说什么？
+有时候，退一步海阔天空是很好的，所以这可能是一个很好的练习，以了解在多大程度上可以使用这些语言。
+这是一个很好的练习，看看这些人之间的差距有多大......]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qesy5f/tell_me_youre_holding_crypto_without_telling_me/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qesy5f/tell_me_youre_holding_crypto_without_telling_me/</guid><pubDate>Sun, 24 Oct 2021 19:31:00 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;If you were to share the fact you hold crypto, what&amp;#39;s a one liner you&amp;#39;d use on those not in the crypto space and what&amp;#39;s a one liner you&amp;#39;d use on those who are? Sometimes it&amp;#39;s good to take a step back to see the wider picture so this could be a good exercise to see how wide the gap is between those who are already investing/reading up about it and those who still don&amp;#39;t understand crypto.&lt;/p&gt;
+
+&lt;p&gt;Again, the idea is not to be obvious with your one liner. Though serious responses are appreciated, this is just a fun thought experiment, so go at it.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[这里还有人只是不想买房子吗？]]></title><description><![CDATA[嗨 :) 还有人不想买房子吗。
 
 我已经20多岁了，我喜欢旅行。我的梦想是能在国外生活
 永久居住。我不想住在我的祖国，所以我想买一个房子，然后把它租出去，这样我就可以去国外生活，而不至于被人发现。
@@ -736,92 +835,4 @@ $0.10. 坚守了近一年（XRP似乎是最后一个起飞的硬币
 &lt;p&gt;And I also think we should start monitoring everyone&amp;#39;s bank accounts so we can catch people who are funneling money into these illegal ocean activities. &lt;/p&gt;
 
 &lt;p&gt;So if someone tells you they like going in the ocean, remind them of all the illegal things that take place in it.    They should feel bad.     Educate them on the dangers.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[19岁的法国男子因拥有20万欧元的加密货币而被杀。不要告诉你的朋友你拥有的加密货币的另一个原因]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qe81mg/19_year_old_french_man_killed_for_owning_200k_in/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qe81mg/19_year_old_french_man_killed_for_owning_200k_in/</guid><pubDate>Sat, 23 Oct 2021 19:37:01 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[那些把钱浪费在毫无意义的事情上的人，没有权利评判你把同样的钱放在加密货币上。]]></title><description><![CDATA[自从加密货币诞生以来，它一直是一个有争议的话题。那些购买
-的人建议不要与其他人谈论加密货币，他们是对的。
-
-这带来了来自其他人的不必要的建议。他们会说我们把10美元放在
-是不好的，可能会使我们亏损，但他们会很高兴地...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qe4axl/people_who_waste_money_in_pointless_things_have/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qe4axl/people_who_waste_money_in_pointless_things_have/</guid><pubDate>Sat, 23 Oct 2021 19:37:01 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Crypto has been a controversial topic ever since it was created. Those who buy crypto advise not to talk about crypto with other people and they are right. &lt;/p&gt;
-
-&lt;p&gt;This bring unnecessary advices from other people. They&amp;#39;d say us putting $10 in crypto is bad and could make us lose money but would gladly spend it on some unnecessary things like cigarettes or booze or clothes or junk foods.&lt;/p&gt;
-
-&lt;p&gt;Don&amp;#39;t ever listen to those people. We are working towards our goal of financial freedom. We are investing a solid project that will rise in future, and not putting in something that will lose value the sec you buy it.&lt;/p&gt;
-
-&lt;p&gt;Just had to say this to newbies. They get excited very fast and talk to others and get judged and hurted (blamed upon if their friends lose money in crypto cause of their stupidity).&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[在看到所有这些刺激性支票的10倍之后，强烈考虑投入1千美元。]]></title><description><![CDATA[感觉到FOMO]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qe4709/strongly_considering_putting_1k_in_after_seeing/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qe4709/strongly_considering_putting_1k_in_after_seeing/</guid><pubDate>Sat, 23 Oct 2021 18:40:19 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Feeling the FOMO&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[获利从未使人破产。]]></title><description><![CDATA[与我们大多数人获取利润的难度相比，霍德林很容易。
-
-如果你想要那个新的手机或者想去。到巴厘岛度假2周。那就去做吧! 你
-你只能活一次，你必须享受你的生活。获利是困难的，但你猜
-什么更难？当你老了，你将拥有所有的钱...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qe89h2/taking_profits_never_made_someone_broke/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qe89h2/taking_profits_never_made_someone_broke/</guid><pubDate>Sat, 23 Oct 2021 18:40:19 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hodling is easy compared to how hard it’s taking profits for most of us. &lt;/p&gt;
-
-&lt;p&gt;If you want that new Phone or want to go to. 2 week vacation to Bali. Do it! You only live once and you have to enjoy your life. Taking profits is hard but guess what is harder? When you’ll be old and you’ll have all the money in the world but the only thing you want is to be 20 and to do the things you didn’t do because you were busy investing in crypto!&lt;/p&gt;
-
-&lt;p&gt;Investing is good, but investing while enjoying is better!&lt;/p&gt;
-
-&lt;p&gt;Enjoy your life while you still can because it’s a privilege to be alive! Some people don’t even make it as old as you did! Nothing is certain in the future, only in the present it is!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[加密货币庞氏骗局OneCoin的推广者在墨西哥被谋杀]]></title><description><![CDATA[https://www.coindesk.com/markets/2020/07/15/promoters-of-crypto-ponzi-scheme-onecoin-murdered-in-mexico/
-
-La Tercera上周五的一份报告称，这些尸体被确认为Oscar Brito
-伊巴拉和伊格纳西奥-伊巴拉（显然没有关系）。
-被当地警方于6月30日在行李箱中发现。
-
-报道中说]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qdydoh/promoters_of_crypto_ponzi_scheme_onecoin_murdered/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qdydoh/promoters_of_crypto_ponzi_scheme_onecoin_murdered/</guid><pubDate>Sat, 23 Oct 2021 17:42:34 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.coindesk.com/markets/2020/07/15/promoters-of-crypto-ponzi-scheme-onecoin-murdered-in-mexico/&quot;&gt;https://www.coindesk.com/markets/2020/07/15/promoters-of-crypto-ponzi-scheme-onecoin-murdered-in-mexico/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A report last Friday by La Tercera said the bodies, identified as Oscar Brito Ibarra and Ignacio Ibarra (apparently not related), had been found in suitcases by local police on June 30.&lt;/p&gt;
-
-&lt;p&gt;The suitcases were dumped on a vacant lot in Mazatlan in the region of Sinaloa, a seaside town located about 1,000 kilometers (621 miles) from the country&amp;#39;s capital, Mexico City.&lt;/p&gt;
-
-&lt;p&gt;The cause of death was suffocation, according to local police who are treating the case as a double homicide.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[洋葱报》。厌恶加密货币的男子更愿意投资于他也不了解的传统股票市场]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qe6lf7/the_onion_cryptoaverse_man_would_prefer_investing/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qe6lf7/the_onion_cryptoaverse_man_would_prefer_investing/</guid><pubDate>Sat, 23 Oct 2021 17:42:34 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[每日讨论 - 2021年10月23日 (GMT+0)]]></title><description><![CDATA[欢迎来到《每日讨论》。请在参与前阅读免责声明、指南和
-规则后再参与。
-
---------------------------------------------------------------------------------
-
-
-
-
-
-免责声明。
-
-考虑到这里发布的所有信息，并在其中加入一些自由的盐，并且
-总是交叉检查...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qdtj5f/daily_discussion_october_23_2021_gmt0/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qdtj5f/daily_discussion_october_23_2021_gmt0/</guid><pubDate>Sat, 23 Oct 2021 16:59:18 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to the Daily Discussion. Please read the disclaimer, guidelines, and rules before participating.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr/&gt;
-
-&lt;h2&gt;&lt;/h2&gt;
-
-&lt;h3&gt;Disclaimer:&lt;/h3&gt;
-
-&lt;p&gt;Consider all information posted here with several liberal heaps of salt, and always cross check any information you may read on this thread with known sources. Any trade information posted in this open thread may be highly misleading, and could be an attempt to manipulate new readers by known &amp;quot;pump and dump (PnD) groups&amp;quot; for their own profit. BEWARE of such practices and exercise utmost caution before acting on any trade tip mentioned here. &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Please be careful about what information you share and the actions you take.&lt;/strong&gt; Do not share the amounts of your portfolios (why not just share percentage?). Do not share your private keys or wallet seed. Use strong, non-SMS 2FA if possible. Beware of scammers and be smart. Do not invest more than you can afford to lose, and do not fall for pyramid schemes, promises of unrealistic returns (get-rich-quick schemes), and other common scams.&lt;/p&gt;
-
-&lt;hr/&gt;
-
-&lt;h2&gt;&lt;/h2&gt;
-
-&lt;h3&gt;Rules:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;All &lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/about/rules/&quot;&gt;sub rules&lt;/a&gt; apply in this thread. The prior exemption for karma and age requirements is no longer in effect. &lt;/li&gt;
-&lt;li&gt;Discussion topics must be related to cryptocurrency.&lt;/li&gt;
-&lt;li&gt;Behave with civility and politeness. Do not use offensive, racist or homophobic language.&lt;/li&gt;
-&lt;li&gt;Comments will be sorted by newest first.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr/&gt;
-
-&lt;h2&gt;&lt;/h2&gt;
-
-&lt;h3&gt;Useful Links:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/wiki/beginner_resources&quot;&gt;&lt;strong&gt;Beginner Resources&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/gj96lb/introducing_rcryptocurrency_moons/&quot;&gt;&lt;strong&gt;Intro to r/Cryptocurrency MOONs 🌔&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/wiki/moons_wiki/&quot;&gt;&lt;strong&gt;MOONs Wiki Page&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://old.reddit.com/r/CryptoCurrency/comments/kth255/join_the_crypto_currency_discord/&quot;&gt;&lt;strong&gt;r/CryptoCurrency Discord&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/cryptocurrencymemes&quot;&gt;&lt;strong&gt;r/CryptoCurrencyMemes&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://old.reddit.com/r/CryptoCurrency/search?q=title%3A%22Daily+Discussion+-+%22+&amp;amp;restrict_sr=on&amp;amp;sort=new&amp;amp;t=all&quot;&gt;&lt;strong&gt;Prior Daily Discussions&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrencyMeta/&quot;&gt;&lt;strong&gt;r/CryptoCurrencyMeta&lt;/strong&gt;&lt;/a&gt; - Join in on all meta discussions regarding &lt;a href=&quot;/r/CryptoCurrency&quot;&gt;r/CryptoCurrency&lt;/a&gt; whether it be moon distributions or governance.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
