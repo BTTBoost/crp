@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 08 Nov 2021 00:51:56 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[Loopring (LRC)。爲什麼它將爆炸]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qoswbc/loopring_lrc_why_it_will_explode/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qoswbc/loopring_lrc_why_it_will_explode/</guid><pubDate>Sun, 07 Nov 2021 20:35:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[今天我付清了近15年前的學生貸款，這完全要歸功於加密貨幣。]]></title><description><![CDATA[今天我正式成爲無貸款的人！我支付了最後幾筆貸款。我付清了最後幾筆錢，這些錢是
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 08 Nov 2021 04:41:57 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我來自薩爾瓦多...更新4]]></title><description><![CDATA[嗨，是時候更新一下我國的btc了。
+
+首先，從我上一篇文章開始，還沒有任何關於btc的抗議。
+
+一般來說，沒有任何關於btc的重大問題或突發事件。
+我已經說過很多次了，沒有什麼真正的變化，只是多了一種支付方式。
+
+然而...]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qouy39/im_from_el_salvadorupdate_4/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qouy39/im_from_el_salvadorupdate_4/</guid><pubDate>Sun, 07 Nov 2021 22:40:24 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi, it&amp;#39;s time for an update about btc in my country.&lt;/p&gt;
+
+&lt;p&gt;First of all, since my last post there haven&amp;#39;t been any protest about btc.&lt;/p&gt;
+
+&lt;p&gt;There haven&amp;#39;t been any major issue or breaking new about btc in general...as I said many times before, nothing has really changed, just another payment method.&lt;/p&gt;
+
+&lt;p&gt;However there have been many issues in the chivo app, the official wallet.&lt;/p&gt;
+
+&lt;p&gt;Transactions between chivo apps works fine, if you&amp;#39;re sending btc, by default you use a L1 qr code, however tx are instant with no issues so you can assume tx are not really done through the btc network.&lt;/p&gt;
+
+&lt;p&gt;Transactions (either L1 or LN) from an external wallet like muun or coinomi  to chivo app works fine.&lt;/p&gt;
+
+&lt;p&gt;Transactions (either L1 or LN) from chivo app to an external wallet have many problems, sometimes work, sometimes not...simply like that, although  I personally found that $2 transactions trough LN have no issues, problems appear from $5 onwards.&lt;/p&gt;
+
+&lt;p&gt;Also, failed transactions are still deducted from your balance, so you have to call chivo app customer support and make a report of the tx, you have to wait about a week four your money to be reimbursed. &lt;/p&gt;
+
+&lt;p&gt;Remember my $2 tx? which was originally $20 but due to a bug only $2 were send) I tough it was on the way to my other wallet however customer service told that failed chivo tx don&amp;#39;t even enter the btc network...still I got my money back.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ve done other tx to external wallets and lost (temporaly) my money, have to call many times to customer support and wait (about a week) for a reimbursement.&lt;/p&gt;
+
+&lt;p&gt;Similar problems have occurred sending money from chivo to a bank account.&lt;/p&gt;
+
+&lt;p&gt;The next big issue is quite funny and frightening at the same time, many people start getting extra money, hundreds, thousands and millions of dollars...here is an article with a pic&lt;a href=&quot;https://m.elsalvador.com/noticias/negocios/chivo-wallet-empresa-bukele-dinero-fraude/891236/2021/&quot;&gt;million&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This happened a couple weeks ago and is now fixed, but social media was stamped with people&amp;#39;s chivo wallet screenshots.&lt;/p&gt;
+
+&lt;p&gt;There were some people that send that money to their bank accounts and others retrieve it in chivo atms, later on they were called and ordered to give the money back, if not, prison and other legal things will be the outcome.&lt;/p&gt;
+
+&lt;p&gt;Lastly, in chivo app you can convert btc to USD and viceversa while having a one minute period to make tx at a certain price, many people start scalping and making a nice profit. This was quickly fixed and now you have to wait 3 minutes between tx.&lt;/p&gt;
+
+&lt;p&gt;So this were the most important things to notice, the gas discount still continues and its now $0.30 less for gallon, a vet will be built using the btc profit (although they won&amp;#39;t sell the btc and get the earnings through other means).&lt;/p&gt;
+
+&lt;p&gt;Aside chivo app problems everything is fine, some people   start getting interest in crypto and some other doesn&amp;#39;t care.&lt;/p&gt;
+
+&lt;p&gt;As always I&amp;#39;ll try to answer any questions you have.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[當比特幣再次崩潰的時候，我打算賣掉房子，全身心投入。比特幣社區對這一舉措有什麼看法？]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qoue72/when_bitcoin_crashes_again_im_planning_to_sale/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qoue72/when_bitcoin_crashes_again_im_planning_to_sale/</guid><pubDate>Sun, 07 Nov 2021 22:40:24 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Loopring (LRC)。爲什麼它將爆炸]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qoswbc/loopring_lrc_why_it_will_explode/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qoswbc/loopring_lrc_why_it_will_explode/</guid><pubDate>Sun, 07 Nov 2021 20:35:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[今天我付清了近15年前的學生貸款，這完全要歸功於加密貨幣。]]></title><description><![CDATA[今天我正式成爲無貸款的人！我支付了最後幾筆貸款。我付清了最後幾筆錢，這些錢是
 懸在我頭上15年之久的最後幾筆錢。
 
 作爲一個單身父親，我很難償還這筆錢，所以我不斷地定期還錢。
@@ -577,20 +619,4 @@ https://web.archive.org/web/20211028000950/https://github.com/Loopring/loopring-
 &lt;p&gt;As always, do your own due diligence. There’s lots of good discussion in the linked sub. &lt;/p&gt;
 
 &lt;p&gt;Disclaimer: not financial advice.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[據報道，Reddit將把業力積分代幣化，並錄入5億新用戶]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qo0gaz/reddit_to_reportedly_tokenize_karma_points_and/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qo0gaz/reddit_to_reportedly_tokenize_karma_points_and/</guid><pubDate>Sat, 06 Nov 2021 21:36:26 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我太習慣於加密貨幣的波動了，現在在股票中賺取2倍的利潤 "感覺沒什麼"。]]></title><description><![CDATA[我記得幾年前，對我來說，在股票中賺取2倍的利潤是非常困難的。
-困難。如果我在一年內達到2倍，我就會覺得自己是個天才，並會
-讓我非常自豪。如今，另一方面，我太習慣於加密貨幣的波動了
-以至於在股票中賺取2倍的收益都覺得沒什麼。
-
-儘管大多數人都是這樣。]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qo0h26/im_too_used_to_crypto_volatily_that_now_making_a/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qo0h26/im_too_used_to_crypto_volatily_that_now_making_a/</guid><pubDate>Sat, 06 Nov 2021 20:36:12 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I remember a few years ago that for me making 2x in stocks was utterly difficult. And if I reached a 2x in a year, I would feel like a genius and would make me so proud. Nowadays, in the other hand, I’m too used to crypto volatily that making a 2x in stocks feels like nothing.&lt;/p&gt;
-
-&lt;p&gt;Even though most of my portfolio is in crypto, I do have a considerate amount of money in stocks in order to diversify. However, I could make in 6 months in crypto what I would normally make in 5 years in stocks. I don’t want to sound arrogant for saying that “making a 2x feels like nothing”, but it is how I feel. Of course I like to make money, and a 2x is always appreciated, but since I started investing in crypto, my view about gains has changed a lot.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[爲什麼從來沒有人談起XLM？從加密貨幣到加密貨幣的轉賬費用低得離譜。]]></title><description><![CDATA[所以今天我在coinbase上買了XLM，然後發送到我的熱錢包，兌換成BNB。
-說完了，轉賬費用只花了我很小的一部分。但從
-我可以看到，將XLM兌換成許多不同的加密貨幣的費用仍然只是一個
-小小的幾分錢。
-
-所以我的問題是，爲什麼XLM如此...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qo3vsn/why_does_nobody_ever_talk_about_xlm_the_transfer/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qo3vsn/why_does_nobody_ever_talk_about_xlm_the_transfer/</guid><pubDate>Sat, 06 Nov 2021 19:31:02 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So today I bought XLM on coinbase and sent to my hot wallet to exchange for BNB. All said and done, the transfer fees cost me a tiny fraction of a cent. But from I can see, the cost to exchange XLM for many different cryptos is still just a small fraction of a cent. &lt;/p&gt;
-
-&lt;p&gt;So my question is why is XLM so stagnant and never talked about? It&amp;#39;s use case is very unique in that it makes transaction fees negligible. I would think that a crypto like this would be pretty popular. If I needed to go, for example, from bitcoin to etherium, it would probably be cheaper if I went from BTC ---&amp;gt; XLM and then XLM ----&amp;gt; ETH instead of just directly BTC to ETH.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[據報道，Reddit將把業力積分代幣化，並錄入5億新用戶]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qo0gaz/reddit_to_reportedly_tokenize_karma_points_and/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qo0gaz/reddit_to_reportedly_tokenize_karma_points_and/</guid><pubDate>Sat, 06 Nov 2021 21:36:26 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
