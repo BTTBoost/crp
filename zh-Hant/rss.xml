@@ -1,4 +1,198 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 10 Nov 2021 19:17:50 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[仍然有人聲稱，加密貨幣主要用於犯罪活動。同時，聯合國估計每年有約1.6萬億美元的現金被洗掉。]]></title><description><![CDATA[這是我在這裏的第一篇帖子，所以對我來說很容易。作爲一個新手投資者，試圖
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 10 Nov 2021 23:34:53 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[Polygon is growing rapidly. After doing my own research it's honestly easy to see why. They've been making it very easy to develop on the chain and get into DeFi.]]></title><description><![CDATA[Polygon is making it way too easy to get into DeFi right now. Dharma integrating
+with Polygon means someone who wants to get into crypto can setup DeFi on
+Polygon without much effort at all. With zero network fees too. I don't think
+this is talked about enough. No gas and the simplification of DeFi…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqu0iw/polygon_is_growing_rapidly_after_doing_my_own/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqu0iw/polygon_is_growing_rapidly_after_doing_my_own/</guid><pubDate>Wed, 10 Nov 2021 19:33:18 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Polygon  is making it way too easy to get into DeFi right now. Dharma  integrating with Polygon means someone who wants to get into crypto can  setup DeFi on Polygon without much effort at all. With zero network fees  too. I don&amp;#39;t think this is talked about enough. No gas and the  simplification of DeFi will make the barrier of entry much shorter.  Meaning more people will adopt the blockchain and Polygon specifically.  For anyone wondering, Dharma is an Ethereum wallet that connects to your  bank account and the fact that they&amp;#39;re supporting Polygon is quite  bullish IMO.&lt;/p&gt;
+
+&lt;p&gt;I think this is big.  Especially when it comes to crypto gaining mass adoptability. The  average Joe doesn&amp;#39;t want to spend hours researching and setting  something up. Imagine just being able to transition from a bank account  to DeFi in seconds. It&amp;#39;s massive!&lt;/p&gt;
+
+&lt;p&gt;Further  research also shows me that a ton of new play to earn are coming to  Polygon in bulk. Skyweaver being one of note. I think It&amp;#39;s the cheapest  chain for NFT and play to earn right now. The fact that it has 5-6 times  more NFT and play2earn than other chain aside from Ethereum proves  this.&lt;/p&gt;
+
+&lt;p&gt;Everything I&amp;#39;ve stated above  and the fact that they&amp;#39;ve been working with the best in DeFi just  proves to me that Polygon cannot be ignored.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Recently, I've seen a lot of people saying things like "Ethereum's future depends on LRC" or "Ethereum is useless without LRC", etc. Now, I think LRC's tech fundamentals are rock-solid, but here are some facts to help you better contextualize LRC among the other Ethereum scaling solutions.]]></title><description><![CDATA[There are plenty of L2s and sidechains already that scale Ethereum L1. They all
+have strengths and weaknesses. Let's start by looking at other zk rollup L2s
+like LRC.
+
+
+OTHER ZK ROLLUP L2S
+
+There exist several zk (zero-knowledge) rollup L2s besides LRC (both STARK and
+SNARK variety; look this up if…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqz7ih/recently_ive_seen_a_lot_of_people_saying_things/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqz7ih/recently_ive_seen_a_lot_of_people_saying_things/</guid><pubDate>Wed, 10 Nov 2021 19:33:18 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;There are plenty of L2s and sidechains already that scale Ethereum L1. They all have strengths and weaknesses. Let&amp;#39;s start by looking at other zk rollup L2s like LRC.&lt;/p&gt;
+
+&lt;h1&gt;Other zk Rollup L2s&lt;/h1&gt;
+
+&lt;p&gt;There exist several zk (zero-knowledge) rollup L2s besides LRC (both STARK and SNARK variety; look this up if you really want to dive down the rabbit hole) like zkSync, Polygon Hermez, dYdX, zkSwap, and StarkX. Unlike LRC, zkSync and (soon) Hermez are actually full scaling systems for Ethereum, because they support fully generic smart contracts due to having built ZKEVMs (Zero-Knowledge Ethereum Virtual Machine). LRC doesn&amp;#39;t even have plans to build a ZKEVM (which is considered very hard to do), because &lt;strong&gt;their value proposition is not to be able to generically scale Ethereum&lt;/strong&gt;. They specifically are only intending to scale DEX usage (which makes sense, because that is what their core innovation, &lt;strong&gt;order rings&lt;/strong&gt;, are good for).  &lt;/p&gt;
+
+&lt;p&gt;As for usage, of all the zk rollup L2s combined, LRC has around 30% of the TVL. &lt;/p&gt;
+
+&lt;h1&gt;Optimistic Rollup L2s&lt;/h1&gt;
+
+&lt;p&gt;Then there are optimistic rollup L2s, which are fully EVM compatible (so much easier to make an optimistic rollup EVM compatible than to make a zk rollup EVM compatible), and are currently being used for DeFi way, way more than any zk rollup platforms (though I do believe that one day zk will emerge as the superior tech over optimistic). Arbitrum TVL is more than all zk rollup platforms combined &lt;strong&gt;plus&lt;/strong&gt; all other optimistic rollup platforms combined &lt;strong&gt;plus&lt;/strong&gt; all the validium and plasma L2s combined.   &lt;/p&gt;
+
+&lt;p&gt;Once you add in optimistic rollup platforms and other L2s, Loopring has a little under 9% of all the TVL of L2s on Ethereum. &lt;/p&gt;
+
+&lt;h1&gt;Side chains&lt;/h1&gt;
+
+&lt;p&gt;Then we get into the scaling solutions that aren&amp;#39;t L2s, but are instead sidechains. I&amp;#39;ll just talk about the elephant in the room here: Polygon. Polygon has about the same TVL as &lt;strong&gt;all L2s combined, including Arbitrum&lt;/strong&gt;. They also get lower fees than any L2. The downside is that they have worse security than L2s do. &lt;/p&gt;
+
+&lt;h1&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;So, in terms of TVL of all scaling solutions on Ethereum, &lt;strong&gt;LRC has probably 3 - 4% of the TVL at most&lt;/strong&gt;. &lt;/p&gt;
+
+&lt;p&gt;Unlike Polygon, Arbitrum, Optimism, zkSync, and others, &lt;strong&gt;LRC is not EVM compatible&lt;/strong&gt;, so it can&amp;#39;t handle generic smart contracts, and is thus not a full scaling solution for Ethereum. You can&amp;#39;t build any part of DeFi on Loopring except DEXes. And finally, while the fees are great, they aren&amp;#39;t the lowest of all the scaling solutions. &lt;/p&gt;
+
+&lt;p&gt;LRC is great, but there are many other scaling options, of which LRC holds a fairly insignificant portion of the TVL. Many of these other solutions are also full scaling solutions that are fully EVM compatible, which LRC has no intention of being. And don&amp;#39;t think that the facts that LRC has a low TVL compared to other scaling solutions and no ZKEVM are explained by LRC being younger than their competition. In fact, LRC launched before almost every other platform that I have mentioned. &lt;/p&gt;
+
+&lt;p&gt;All this being said, I imagine LRC will continue to increase their TVL share of the L2s, and the LRC token will probably continue to appreciate. It&amp;#39;s probably a great investment. I also think that, in general, zk rollups will eventually emerge as superior to optimistic rollups, and L2s are unambiguously emerging as the superior choice over side chain scaling solutions. So, I think it&amp;#39;s a good guess that zk rollup platforms like LRC will slowly grow to dominate the L2 pie. In general, I am bullish on LRC long-term. This post is not meant to be FUD at all. &lt;/p&gt;
+
+&lt;p&gt;But no, Ethereum does not in any way, shape, or form rely upon or need LRC. LRC is just one of many excellent tools playing a small part in solving the most central blockchain tech challenge of the last 4 years: how to scale Ethereum.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[US consumer inflation just hit 6.2%, the highest in 30 years. Long Bitcoin...]]></title><description><![CDATA[Have you guys seen the news? Things are insane! Get ready for massive pumps
+hopefully.]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qqvslf/us_consumer_inflation_just_hit_62_the_highest_in/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qqvslf/us_consumer_inflation_just_hit_62_the_highest_in/</guid><pubDate>Wed, 10 Nov 2021 19:33:18 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Have you guys seen the news? Things are insane! Get ready for massive pumps hopefully.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Why is no one talking about how healthy and stable this new bull run is?]]></title><description><![CDATA[It's insane how stable and healthy this new bull run has been. It's even more
+crazy that no one is talking about it. Just look at the past few months, these
+are not the metrics we are used to. I've never seen a bull run this healthy
+before.
+
+
+
+
+
+Only one major correction to the ATH. Compare this to…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqxyg8/why_is_no_one_talking_about_how_healthy_and/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqxyg8/why_is_no_one_talking_about_how_healthy_and/</guid><pubDate>Wed, 10 Nov 2021 19:33:18 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It&amp;#39;s insane how stable and healthy this new bull run has been. It&amp;#39;s even more crazy that no one is talking about it. Just look at the past few months, these are not the metrics we are used to. I&amp;#39;ve never seen a bull run this healthy before. &lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/hqt20a51msy71.png?width=417&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=84ad81df5a80342470859f82741962e3f0eafd73&quot;&gt;Only one major correction to the ATH. Compare this to the last bull run.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/pvxqklxmlsy71.png?width=428&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=85822ec32ae94b245e5ac036829ddaa90a6b14e5&quot;&gt;Ethereum has literally been a diagonal line going up&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Just zooming back to the last bull run. There have been several significant corrections that wiped out as much as 20-50% of the market in a day leading up to the ceiling. This time we haven&amp;#39;t even had a double digit correction for a long time. &lt;/p&gt;
+
+&lt;p&gt;Hell, even seeing a red day is rare! If anything, any corrections are actually prolonged and healthy leading up to even bigger gains. IMO the bigger market cap is driving the market towards more stability. It&amp;#39;s absolutely incredible how healthy this bull run is!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[以太坊聯合創始人、MetaMask母公司ConsenSys負責人Joseph Lubin表示，請繼續關注MetaMask代幣（MASK）。]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqszo8/ethereum_cofounder_and_head_of_metamask_parent/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqszo8/ethereum_cofounder_and_head_of_metamask_parent/</guid><pubDate>Wed, 10 Nov 2021 18:32:33 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我越來越不好意思談論加密貨幣了。還有人有這種感覺嗎，還是我是這裏唯一的成年人？]]></title><description><![CDATA[隨着採用率的增加，我們把更多的白癡、兒童和失敗的
+帶來了更多的白癡、兒童和失敗的喜劇演員。
+
+以前我可以在這裏找到信息、討論、智力和建設性的
+批評的地方，我現在看到的是大量的 "你能相信69這個數字在BTC的價格裏嗎？
+BTC的價格？下一站是69,420！"或 "69,420.69這個..."。]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqy5sw/im_becoming_more_and_more_embarrassed_to_talk/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqy5sw/im_becoming_more_and_more_embarrassed_to_talk/</guid><pubDate>Wed, 10 Nov 2021 18:32:33 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As adoption increases, we’re bringing more idiots, children, and failed comedians into the space. &lt;/p&gt;
+
+&lt;p&gt;Where I used to find information, discussion, intellectual and constructive criticism, I now see a flood of “Can you believe the number 69 is in the price of BTC?! Next stop 69,420!” or “69,420.69 the magic number!” &lt;/p&gt;
+
+&lt;p&gt;Yes, marijuana is good. Yes, sex is good. We all know it. You’re not contributing anything by referencing them. &lt;/p&gt;
+
+&lt;p&gt;The intelligence and maturity in this sub, and nearly every other crypto sub I’m subscribed to, has become completely diluted. &lt;/p&gt;
+
+&lt;p&gt;All this, during a time where we’re pushing for adoption. We’re trying to be taken seriously. We’re wanting to bring new investors into the space. We’re wanting to see real use of crypto/blockchain technology. &lt;/p&gt;
+
+&lt;p&gt;And here you all are acting like a bunch of children, laughing at the mention of “genitalia” in biology class. &lt;/p&gt;
+
+&lt;p&gt;It’s fucking embarrassing.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我的女朋友厭倦了我談論BTC]]></title><description><![CDATA[但我並不爲收益所累 !]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qqwygb/my_girlfriend_is_tired_of_me_talking_about_btc/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qqwygb/my_girlfriend_is_tired_of_me_talking_about_btc/</guid><pubDate>Wed, 10 Nov 2021 18:32:33 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;But I’m not tired of the gains !&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[錄製。與u/CryptoTaxLawyer談加密貨幣的稅收問題]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqs293/recording_talk_with_ucryptotaxlawyer_on_taxation/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqs293/recording_talk_with_ucryptotaxlawyer_on_taxation/</guid><pubDate>Wed, 10 Nov 2021 18:32:33 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[當你達到你的加密貨幣目標時，你會做什麼？]]></title><description><![CDATA[而且請不要說蘭博。
+
+例如，如果我有錢了，我可能會再去上大學，但這次是學習
+一些對我來說有趣的東西，比如哲學。
+
+我的觀點是，我不是在談論購買房地產或汽車或僱用女傭。
+我也不是在談論幫助你的親人。
+
+我說的是...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqwtpn/what_will_you_do_when_you_reach_your_crypto_goal/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqwtpn/what_will_you_do_when_you_reach_your_crypto_goal/</guid><pubDate>Wed, 10 Nov 2021 18:32:33 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;sup&gt;&lt;sup&gt;&lt;sup&gt;And&lt;/sup&gt;&lt;/sup&gt;&lt;/sup&gt; &lt;sup&gt;&lt;sup&gt;&lt;sup&gt;please&lt;/sup&gt;&lt;/sup&gt;&lt;/sup&gt; &lt;sup&gt;&lt;sup&gt;&lt;sup&gt;don&amp;#39;t&lt;/sup&gt;&lt;/sup&gt;&lt;/sup&gt; &lt;sup&gt;&lt;sup&gt;&lt;sup&gt;say&lt;/sup&gt;&lt;/sup&gt;&lt;/sup&gt; &lt;sup&gt;&lt;sup&gt;&lt;sup&gt;Lambo.&lt;/sup&gt;&lt;/sup&gt;&lt;/sup&gt; &lt;/p&gt;
+
+&lt;p&gt;For example, if I&amp;#39;m rich, I might go to university again but this time study something fun for me, like philosophy. &lt;/p&gt;
+
+&lt;p&gt;My point is, I&amp;#39;m not talking about buying real estate or cars or hiring a maid. I&amp;#39;m also not talking about helping your loved ones.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m talking about doing fun stuff and hobbies you&amp;#39;ve always dreamed of.&lt;/p&gt;
+
+&lt;p&gt;Because even if you&amp;#39;re filthy rich it&amp;#39;s still important to engage your mind.&lt;/p&gt;
+
+&lt;p&gt;What are some hobbies or goals that you will be able to accomplish thanks to crypto?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[一覺醒來，看到比特幣今早達到了6.9萬美元!]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qqwutb/woke_up_to_see_that_bitcoin_reached_69k_this/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qqwutb/woke_up_to_see_that_bitcoin_reached_69k_this/</guid><pubDate>Wed, 10 Nov 2021 18:32:33 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[剛果難民利用比特幣建立草根經濟...]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qqvw6q/congolese_refugees_using_bitcoin_to_build_a/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qqvw6q/congolese_refugees_using_bitcoin_to_build_a/</guid><pubDate>Wed, 10 Nov 2021 17:38:09 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[牛市中最喜歡的部分是看到人們意識到忍受熊市是100%值得的幸福！"。恭喜你！！！。]]></title><description><![CDATA[正如標題所說--我最喜歡的牛市部分之一是看到人們意識到忍受熊市是100%值得的幸福感!
+看到人們意識到忍受熊市是100%值得的，這就是幸福。
+
+祝賀每一個保持信心和耐心的人 這是一個艱難的
+這是一個艱難但極富成效的時期，它應該讓我們更加珍惜......]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqqezg/favorite_part_of_the_bull_market_is_seeing_the/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqqezg/favorite_part_of_the_bull_market_is_seeing_the/</guid><pubDate>Wed, 10 Nov 2021 17:38:09 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As the title says- one of my most favorite part of the bull market is seeing the happiness of ppl realizing enduring the bear market was 100% worth it ! &lt;/p&gt;
+
+&lt;p&gt;Congratulations to everyone who kept their faith and patience ! It was a tough but extremely fruitful period which should make us appreciate even more the rewards! &lt;/p&gt;
+
+&lt;p&gt;We are all blessed, so please let’s stay together as a community! Once again well done! And let’s keep going!&lt;/p&gt;
+
+&lt;p&gt;Wish nothing but a lot of success, wealth and freedom to all of you! This is just the beginning!!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[SATOSHI 69K 🚀 To the moon! 🌕]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qqwtx1/satoshi_69k_to_the_moon/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qqwtx1/satoshi_69k_to_the_moon/</guid><pubDate>Wed, 10 Nov 2021 17:38:09 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我只有#比特幣!
+請不要回復/評論其他幣/代幣的信息；我認爲那是噪音。我將屏蔽這樣做的人。請不要要求我做其他幣的S2F，因爲沒有什麼狗屎幣的S2F-價格關係。也不要在贈品和空投中@我，這是在浪費我的時間。https://t.co/mFHybq7sxI]]></title><link>https://crypto.buzzing.cc/tweet/1458455326773202946</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1458455326773202946</guid><pubDate>Wed, 10 Nov 2021 15:47:10 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[法國現在透露了這個計劃。Vax Pass將在第二次接種後6個月零5周自動失效（從&gt;65s開始）。他們希望公民每年接種兩次政府選擇的疫苗，以便被允許參與社會https://t.co/8poNkbcoDI。]]></title><link>https://crypto.buzzing.cc/tweet/1458443647561633795</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1458443647561633795</guid><pubDate>Wed, 10 Nov 2021 15:47:10 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我希望在我學習交易加密貨幣時有人告訴我10件事]]></title><description><![CDATA[雖然我認爲自己是一個業餘的交易員和小規模的投資者，但在2年多的加密貨幣交易中，我學到了一些東西，想和大家分享。
+2年多的加密貨幣交易中，我學到了一些東西，我想與你們分享
+我想和大家分享一些東西，但主要是和那些正在向未知領域邁出第一步的人分享。
+的人。
+
+ 1.  就像生活中的其他事情一樣，交易...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqtfwy/10_things_i_wish_someone_had_told_me_when_i_was/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqtfwy/10_things_i_wish_someone_had_told_me_when_i_was/</guid><pubDate>Wed, 10 Nov 2021 15:47:04 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;While I consider myself an amateur trader and a small-scale investor, over the 2+ years of trading crypto I&amp;#39;ve learned some things I&amp;#39;d like to share with you all, but mostly with those who are making their first steps into the uncharted cryptoland. &lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Just as with anything else in life, &lt;strong&gt;trading cryptocurrencies is context dependent&lt;/strong&gt;. That means you should remain a healthy sceptic about general truths, universal rules and things that &amp;quot;everyone knows&amp;quot;. Consider the famous &amp;quot;buy low sell high&amp;quot; dictum. The definition of high and low is subjective in most cases since it depends on your timescale, goals and trading strategy. If you’re a hodler, as are many of the fellow redditors here, your high and low will differ dramatically compared to the day trader&amp;#39;s.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;It is for the same reason that &lt;strong&gt;bulls and bears don&amp;#39;t really matter&lt;/strong&gt;. Whether you&amp;#39;re &amp;#39;bullish&amp;#39; or &amp;#39;bearish&amp;#39; depends on your strategy and timescale. Consider this: to someone hodling BTC since 2013 a dip here or there (even a prolonged one) makes little difference because the price of BTC over the time continues to grow monstrously – you can call it one long-term bull market.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;At some point, you&amp;#39;ll bump (or you already have) into something that is called &amp;#39;technical analysis&amp;#39;. Let me save you some time (and money, probably) by telling you this: &lt;strong&gt;technical analysis is neither technical, nor is it very analytical&lt;/strong&gt;. While many traders regard TA to be a scientific way (supposedly based on mathematics) to read and predict the market moves, TA has little to do with any formal science. Differently from the surrounding physical world, we are not aware of any physical laws that govern our human behavior, including markets. If it was possible to mathematically calculate and with certainty predict market moves, the big buck guys in Wall Street would have already done it. Think about the major financial crises for a moment – just like the Spanish Inquisition, nobody (well, almost nobody) ever expected one. Does it mean TA –  trends, chart patterns, MACD, RSI, Elliot wave count, etc. – is a complete rubbish? I wouldn&amp;#39;t go as far as to claim that. It is somewhat helpful – if only a little, TA still gives you a feel of the current market mood. TA also does one other thing pretty accurately: it graphically represents historic data of human behavior in the financial markets. Surely you can benefit from that? Or do you? This brings me to another point...&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Beware of historical analogies and &amp;#39;I knew it all along&amp;#39; thing&lt;/strong&gt;. As humans, we are prone to hindsight bias, a tendency, after an event has occurred, to see it as having been easily predictable. We are all blinded by hindsight bias because our brain looks for simplistic linear link between cause and effect. This way when an unexpected event happens, the brain uses the knew-it-all-along mode to cope with cognitive dissonance and make sense of the surrounding world. While trading hindsight bias harms you in two ways: a) it drains you psychologically for not making &amp;#39;the right&amp;#39; decisions in the past, and by luring you into oversimplified historic analogies, b) it creates a false sense of investment security at the present time. Just look at everyone complaining they&amp;#39;ve sold their BTC at the worst possible time (as a matter of fact, I am no different – I still autodestructively loathe my decision to liquidate a large portion of my BTC portfolio after the BTC price hiked to 8k). It is also very tempting to think you wouldn&amp;#39;t miss &amp;#39;the next bitcoin&amp;#39;. The problem is, though, that it is incredibly difficult if at all possible to spot such an opportunity. You have to be either lucky or extremely well informed (and lucky) to capitalize early on such opportunity. In reality, it&amp;#39;s very difficult to differentiate between useless information (noise) and something that truly matters (signal). Which brings me yet to another point...&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Stop being a news junkie and start filtering what you read/hear/see&lt;/strong&gt;. If you don&amp;#39;t, at some point in time the quantity of consumed news will start to impact your decisions and it will begin to negatively correlate with the net gain of your investment portfolio. Instead of reading news nonstop, better educate yourself – dive deep into the market fundamentals and the technology you&amp;#39;re dealing with. This way it will be easier for you to spot new lucrative investment opportunities when the time comes.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Accept the fact that idiots also happen to make lots of money and move on&lt;/strong&gt;. Multiple times too, if they&amp;#39;re lucky ones. However, the net worth of (lucky) idiot doesn&amp;#39;t mean you should imitate him and become one. Some two months ago a Dutch father of two young children sold his family&amp;#39;s house, bought BTC and other cryptocurrencies, and relocated his family to a rented property. After the recent spike in BTC price the guy&amp;#39;s net worth must have increased substantially. So, is he an idiot? Absolutely! It is only a question of time before he ruins his own and his family&amp;#39;s life with some incredibly reckless financial decision.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Try to understand the motives governing your decisions and act (or don&amp;#39;t act) accordingly&lt;/strong&gt;. If your actions are about to be driven by extreme emotions such as fear, panic or excitement – stop immediately and reevaluate the situation. Otherwise you&amp;#39;ll end up belonging to the FOMO buyer/panic seller club aka the money losers. If you want to stay on the earning side long term, you must keep your head cool and think clearly.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Day trading is probably not for you&lt;/strong&gt;. Consider this: evidence in neuroscience research shows that we are a loss-averse species. For this we should thank our stone age ancestors who had barely enough food, shelter and belongings to survive in a very adverse world. Losing even a little of what they had meant their existence was in jeopardy. This explains why contemporary humans prefer avoiding financial loss to making financial gain. Neuroscientists claim that losing money activates the same area of the brain that responds to mortal danger. This is why in order to do day trading you must have A LOT of self-control and balls of steel – there are many ups and downs during a single day. It drains you emotionally, you end up being addicted to adrenaline, your fiancée hates it, and the hodlers will probably outperform you in the long run anyway.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Volatility is your friend&lt;/strong&gt;. Over time BTC volatility makes the coin stronger, not weaker. While wild swings in price makes BTC almost impossible to use as a currency, volatility is good from the financial asset point of view. Traders and investors dealing with BTC get used to huge and sudden price hikes and dips. Unlike for any &amp;#39;stable&amp;#39; stock of any prominent multinational corporation, even substantial and unexpected shocks will not undermine the confidence in BTC. BTW, best of luck to everyone planning to short BTC. :)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Make small mistakes, learn from them, get wiser, err less&lt;/strong&gt;. In your childhood days, you needed the experience of burning your hand with fire so that for the rest of your life you wouldn&amp;#39;t need to think about the painful experience. That information is now hardwired in your brain and helps you to avoid getting harmed. If you&amp;#39;ve just started trading crypto, expect to make mistakes and prepare to learn from them. It&amp;#39;s only after you get into FOMO, get panicked big time, take too big a risk, get out too early only to jump in at the worst possible time, ONLY and ONLY then you&amp;#39;ll start to improve. &lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;The Road to Wisdom&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The road to wisdom? —Well, it&amp;#39;s plain and simple to express: Err and err and err again, but less and less and less. — Piet Hein&lt;/p&gt;
+
+&lt;p&gt;Hope that was helpful.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[比特幣新的ATH，我們能達到69,420美元嗎？]]></title><description><![CDATA[Hodl Hodl，又是激動人心的一天 :) 這個月安排得非常好，正在等待Taproot和14號的現貨ETF的潛在消息。
+等待Taproot和14日的現貨ETF的潛在消息。]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qqvfts/bitcoin_new_ath_can_we_reach_69420/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qqvfts/bitcoin_new_ath_can_we_reach_69420/</guid><pubDate>Wed, 10 Nov 2021 15:47:04 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hodl Hodl, another exciting day :)
+This month is lining up real well, waiting for Taproot and potential news on spot ETF on the 14th.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[比特幣在歷史上首次達到69000美元。祝賀所有持有的人!]]></title><description><![CDATA[BTC在歷史上首次達到69000美元。從這個角度來說。
+今年或自比特幣誕生以來的任何一年，每一個購買過比特幣的人都在獲利。
+比特幣成立以來的任何一年，現在都在盈利。祝賀大家持有! 而且我們還有
+今年還有一些時間，然後我們還有明年，因爲...。]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqvjzb/bitcoin_hit_69k_for_the_first_time_in_history/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqvjzb/bitcoin_hit_69k_for_the_first_time_in_history/</guid><pubDate>Wed, 10 Nov 2021 15:47:04 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;BTC has hit $69k for the first time in history. To put this into perspective, every single person that has bought Bitcoin this year or any year since Bitcoin&amp;#39;s inception is now in profit. Congrats on holding everyone! And we still have some time left in this year and then we have next year to go as well. Lets hope for a bright future for Bitcoin and keep spreading crypto adoption friends&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://imgur.com/CAbp1RC&quot;&gt;https://imgur.com/CAbp1RC&lt;/a&gt; - Proof that Bitcoin has hit $69k for the first time in history and we&amp;#39;re on our way to $70k in the near future probably, especially since inflation is still high and Bitcoin is a great hedge against inflation&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[以太坊經典和比特幣現金正在抽水......這意味着最新一批無知的散戶投資者終於來了!]]></title><description><![CDATA[我想你們中的許多人會認爲Ethereum Classic是一項糟糕的投資。
+考慮到（1）它是黑客攻擊的結果，以及（2）黑客仍然擁有他們的
+袋子裏的ETC，他們定期向毫無戒心的投資者傾銷。
+比特幣現金沒有這樣的問題起源，但可能...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqtjjn/ethereum_classic_and_bitcoin_cash_are/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqtjjn/ethereum_classic_and_bitcoin_cash_are/</guid><pubDate>Wed, 10 Nov 2021 15:47:04 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I think many of you would consider Ethereum Classic a terrible investment, considering (1) it was the result of a hack, and (2) the hacker still has their bags of ETC available, which they periodically dump on unsuspecting investors. Bitcoin Cash doesn&amp;#39;t have such a problematic origin, but might also be considered an unwise purchase given the lack of usage and development compared to BTC and other good projects.&lt;/p&gt;
+
+&lt;p&gt;So, when I open the charts and see that specifically BCH and ETC have been pumping hard for the last couple of days, my only conclusion is that new retail investment money has arrived and these noobs are dropping cash on &amp;#39;cheaper&amp;#39; projects with the name Bitcoin and Ethereum in it. I should know, I did this exact thing myself earlier this year!&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#39;s hoping this signals the start of a another massive pump too.&lt;/p&gt;
+
+&lt;p&gt;Edit: spelling&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[萬一你發生了什麼事，你身邊的人不應該知道你的種子語嗎？]]></title><description><![CDATA[由於我們都將成爲百萬富翁，包括我在內，我想出了一個想法
+有一個封閉的人--也許是父母--知道我的種子短語，以防
+我發生了什麼事。
+
+我知道我們中的絕大多數人甚至還沒有分享他們已經投資於
+加密貨幣，等待成爲百萬富翁......]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqumgb/in_case_something_happens_to_you_shouldnt_someone/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqumgb/in_case_something_happens_to_you_shouldnt_someone/</guid><pubDate>Wed, 10 Nov 2021 15:47:04 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Since we are all gonna be millionaires, including me, i came up with the thought of having a closed one - perhaps a parent - knowing my seed phrase in case something happened to me. &lt;/p&gt;
+
+&lt;p&gt;I know the vast majority of us haven&amp;#39;t even shared that they have invested in crypto, waiting to become a millionaire and surprise everyone like a savage. But we have to think responsibly because you never know what can happen. &lt;/p&gt;
+
+&lt;p&gt;This is the only - and i repeat - the only case we should break the number one rule of crypto &amp;quot;Don&amp;#39;t talk about Crypto&amp;quot;. I just thought i should share this with you guys because it made me re-evaluate some of my beliefs for the greater good of me and my people.&lt;/p&gt;
+
+&lt;p&gt;PS : I am having second thoughts about it. Don&amp;#39;t tell your wife.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[彼得-泰爾提名中本聰 | 通貨膨脹和比特幣打破FED | "我的大錯是沒有買更多的比特幣" | 2021年11月8日]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qqug4o/peter_thiel_nominates_satoshi_nakamato_inflation/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qqug4o/peter_thiel_nominates_satoshi_nakamato_inflation/</guid><pubDate>Wed, 10 Nov 2021 15:47:04 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[這是我們的祖先向我們承諾的日子，預言已經成真，比特幣已經達到69K美元。]]></title><description><![CDATA[這是每個比特幣持有者一生中曾經夢想過的時刻，即有一天
+比特幣會像你鄰居的妻子一樣漂亮。
+
+6.9萬美元，這是我們的祖先向我們承諾的數字，我無法相信在多年的等待之後
+我們終於看到了它。
+
+希望你今天能拿出你最好的酒來，在...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqvj8z/this_is_the_day_our_ancestors_promised_us_and_the/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqvj8z/this_is_the_day_our_ancestors_promised_us_and_the/</guid><pubDate>Wed, 10 Nov 2021 15:47:04 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;This is the moment every Bitcoiner has dreamed once in their life that one day Bitcoin will look as beautiful as your neighbors wife.&lt;/p&gt;
+
+&lt;p&gt;$69K this is the numbers our ancestors promised us I can’t believe after years of waiting we have finally seen it.&lt;/p&gt;
+
+&lt;p&gt;Hope you have bring out your finest wine today on the top of $2 h*oker to celebrate this beautiful day.&lt;/p&gt;
+
+&lt;p&gt;On today’s occasion I just want to say one thing which I have been keeping it to myself for so long but I think it’s finally time to open up to you guys and say it.&lt;/p&gt;
+
+&lt;h1&gt;“Nice”&lt;/h1&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[仍然有人聲稱，加密貨幣主要用於犯罪活動。同時，聯合國估計每年有約1.6萬億美元的現金被洗掉。]]></title><description><![CDATA[這是我在這裏的第一篇帖子，所以對我來說很容易。作爲一個新手投資者，試圖
 試圖瞭解市場，我一直在尋找關於加密貨幣的文章，以確保我
 深入瞭解基本的基本原理。我找到了**這篇文章，來自
 Coinbase說了一些非常有趣和重要的事情。]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqsfic/there_are_still_people_claiming_that/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqsfic/there_are_still_people_claiming_that/</guid><pubDate>Wed, 10 Nov 2021 14:35:04 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;This is my first post here so take it easy on me. As a newbie investor trying to learn about the market, i was searching for articles about crypto to ensure i get to know basic fundamentals in depth. I came up to **this article from Coinbase which said some very interesting and important things to understand the propaganda against crypto by the goverments!&lt;/p&gt;
@@ -468,219 +662,4 @@ ln(實際/模型)
 
 實際價格：67,541.76美元
 模型價格：$98,543.87
-S2F倍數: -0.38 https://t.co/HUbRBsVn7K]]></title><link>https://crypto.buzzing.cc/tweet/1457947382079950848</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1457947382079950848</guid><pubDate>Tue, 09 Nov 2021 22:39:50 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA["人們購買比特幣並不是爲了購買他們的雜貨，購買他們的房子或加滿他們的油箱"。加拿大銀行行長說。看來這個潮人可能還不知道LN。🤣🤣🤣]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qq6740/people_are_not_buying_bitcoin_to_buy_their/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qq6740/people_are_not_buying_bitcoin_to_buy_their/</guid><pubDate>Tue, 09 Nov 2021 22:39:44 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Netflix節目宣傳加密貨幣，但總是作爲一個騙局或與毒品或洗錢有關。無論是否早期，這最終會改變]]></title><description><![CDATA[所以這周我正在看著名的電視節目 "你 "和一個新的韓國電視節目 "課外活動"。
-節目，誰會想到Crypto會出現在這裏。
-
-它確實出現了，而且又一次帶有不好的 "內涵"。
-
-對於 "你 "來說，它只是簡單的主角想從一個孩子那裏購買一些毒品
-一個孩子和...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq3wgk/netflix_shows_promoting_crypto_but_always_as_a/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq3wgk/netflix_shows_promoting_crypto_but_always_as_a/</guid><pubDate>Tue, 09 Nov 2021 22:39:44 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So this week I was watching the so famous tv show &amp;quot;You&amp;quot; and also a new Korean tv show called &amp;quot;Extracurricular&amp;quot; and who&amp;#39;d think Crypto would come up.  &lt;/p&gt;
-
-&lt;p&gt;Well it did and once again with a bad &amp;quot;connotation&amp;quot; to it.   &lt;/p&gt;
-
-&lt;p&gt;For &amp;quot;You&amp;quot; it was as simple as the main character wanting to buy some drugs from a kid and the kid saying &amp;quot;I only accept Bitcoin&amp;quot;. Which on one side it promotes BTC as being associated with the black market and the drug selling world but on the other side it also makes you think that the main character was indeed investing in the coin because he ended up buying the drugs. So let&amp;#39;s say no promotion is bad promotion.  &lt;/p&gt;
-
-&lt;p&gt;For &amp;quot;Extracurricular&amp;quot; one of the characters from the show has a gambling problem and ends up putting all his money into a meme coin pretty much like squid game but in the show it is called &amp;quot;doolycoin&amp;quot; and he claims to have done so because he got some inside info that it would pump. Well, 5 minutes later and it dumped hard.  &lt;/p&gt;
-
-&lt;p&gt;Even though in both tv shows crypto is associated with bad things it is always a good sign that it is becoming famous no matter in what way. However, I think this will eventually change and people will get educated, start to trust it and avoid some of the most obvious scams.  &lt;/p&gt;
-
-&lt;p&gt;I believe blockchain will run the future and Bitcoin can take a very important role on it. So hang on tight, do your own research and try to avoid scams. Because in the near future Bitcoin will most definitely appear in tv shows as the normal way of exchanging money and buying products and not as the most wanted criminal for digital money.  &lt;/p&gt;
-
-&lt;p&gt;To all of you that believe in this project and got in early, I am confident that it will most definitely be rewarding in the long run!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[2021年牛市的退出戰略]]></title><description><![CDATA[免責聲明：這個退出策略依賴於一堆假設。這篇文章的重點是
-這篇文章不是爲了辯論這些。如果你認爲這輪牛市將持續到
-2022年，甚至更久，這很好，你就是你。我所要描述的
-是我自己的退出策略。我不是想說服你...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqcmpi/the_2021_bullrun_exit_strategy/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqcmpi/the_2021_bullrun_exit_strategy/</guid><pubDate>Tue, 09 Nov 2021 22:39:44 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; This exit strategy relies on a bunch of assumptions. The point of this post is not to debate those. If you think this bullrun will last well into 2022 or perhaps even longer, that&amp;#39;s cool, you do you. What I&amp;#39;m about to describe is my own exit strategy. I&amp;#39;m not trying to convince you that it&amp;#39;s better than your plan, my only hope is that there might be handful of people to whom this makes sense who can take something valuable from this post. As for the rest of you, best of luck, and I sincerely mean that.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Thesis Statement:&lt;/strong&gt; I believe we are at the tail end of the bullrun that started after the March Covid crash of 2020. We have seen mindblowing gains on alts like Solana, Luna, Ada, Avax, Harmony, and many others. I believe that there&amp;#39;s not much juice left in that lemon. The main reasons for this belief are:&lt;/p&gt;
-
-&lt;p&gt;- &lt;strong&gt;This isn&amp;#39;t the &amp;quot;cycle of mass adoption&amp;quot;.&lt;/strong&gt; This is actually a good thing, because literally none of the L1s in the top 100 are ready for mass adoption: Solana had to shut down for 17 hours because it buckled under the weight of transactions. Eth&amp;#39;s answer to increasing traffic is to charge you $250 in gas for a uniswap transaction. Matic can barely handle the traffic it gets currently and transactions frequently remain &amp;#39;pending&amp;#39; for hours or days. Cardano still doesn&amp;#39;t have working smart contracts and Hoskinson himself essentially admitted that it can&amp;#39;t scale without L2s. I could go on here, but you get the point.&lt;/p&gt;
-
-&lt;p&gt;- &lt;strong&gt;Governments all around the world have been printing money like it&amp;#39;s a sport, and that didn&amp;#39;t begin in 2020 with the onset of the pandemic, it began more than 10 years ago after the financial crisis.&lt;/strong&gt; A by-product of this has been record-low interest rates. This has fueled investment all over the planet, as is easily evidenced by a completely out of control housing market in most major markets and a stock market that has been basically &amp;#39;up only&amp;#39; for ten years straight. Governments are now admitting that the current 4%-5% inflation rate is not sustainable. In order to get this back in line, the federal banks will have to raise interest rates. That means less money for all of us, because things like mortgages, car payments, credit card debt, etc. will all go up. And obviously, it will no longer make sense to take a loan to invest (and yes, people have definitely been taking loans to invest, simply because it made sense: you can take a loan from the bank for less 5% and put that money into index funds and you&amp;#39;ll come out on top....at least for now).&lt;/p&gt;
-
-&lt;p&gt;- &lt;strong&gt;This whole space is dramatically overvalued.&lt;/strong&gt; Yes I know, market caps do not reflect the actual value of a company, but they do reflect the current level of speculation: we are in the kind of market where Tesla is worth more than the entire German automotive industry. Cardano is worth $77 billion dollars and it currently doesn&amp;#39;t even function as an L1 smart contract chain. Dot is worth $50 billion dollars and barely has a working product. The point is that the current valuations reflect what these projects may become in the next 5 years. In other words, their valuations are based on speculation, not current capabilities.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&amp;quot;Ok dude, get to the point already&amp;quot;&lt;/strong&gt; I believe that this December will see the crypto market go absolutely ballistic, fueled by holiday spending, euphoria, and an over confidence in a market that has already seen 10X gains in the last 3 months. It will crash in early 2022, most likely kicked off by a stock market crash as governments all over the word raise interest rates and announce efforts to contain their out of control spending that&amp;#39;s resulted in debt levels our grand children will still be paying off.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&amp;quot;Cool story bro, so what are you gonna do about it?&amp;quot;&lt;/strong&gt; At some point in late December (obviously depending on market dynamics at the time), I&amp;#39;m going to sell most of my crypto assets for stable coins and earn yield on stable coins. The US dollar is extremely unlikely to collapse. And if it does, the whole planet goes into a massive economic recession and crypto will not be spared. USD will be the safest asset to be in, save for perhaps gold. Here&amp;#39;s what I will do step by step:&lt;/p&gt;
-
-&lt;p&gt;- Deposit stable coin as collateral on a protocol such as anchor, earning interest&lt;/p&gt;
-
-&lt;p&gt;- take stable coin loan against collateral, again earning to borrow (and even if you&amp;#39;re no longer getting paid to borrow, the interest earned from lending will most likely outweigh the interest owed from borrowing, meaning on a net level, you&amp;#39;re still making money)&lt;/p&gt;
-
-&lt;p&gt;- Provide stable coin liquidity, e.g. USDC &amp;lt;&amp;gt; DAI pair, earning yield and compounding that yield into liquidity.&lt;/p&gt;
-
-&lt;p&gt;The rates currently available for doing this vary from platform to platform, but at the moment, you can easily get 20% APR doing this. If you&amp;#39;re willing to risk doing this with smaller, less established platforms like Tranquil and Openswap on Harmony, you can get almost 100% APR). There are variations of the above, but that&amp;#39;s the general gist.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&amp;quot;And then what?&amp;quot;&lt;/strong&gt; I wait as my USD reserves grow. I use the time to research in an effort to identify alts that have a good chance of becoming winners in the next bull market. My focus will be on L1s that can actually scale to global demand without having to rely on imperfect L2 solutions. Once it becomes relatively clear that the market has reached the bottom (where it will probably stay for quite some time like it has in every other true bear market), I start to DCA, positioning myself for the next bull market, whether that comes in late 2022 or in 2024, I plan on being a part of it.&lt;/p&gt;
-
-&lt;p&gt;Thanks to those who read this entire wall of text, and to those who didn&amp;#39;t, well, you&amp;#39;re not reading this anyway ;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;EDIT:&lt;/strong&gt; A few responses are misinterpreting the above as trying to &amp;#39;time the market&amp;#39;. I wouldn&amp;#39;t really call it that. If I was trying to time the market, I&amp;#39;d be trying to sell more or less the exact top. I know I won&amp;#39;t be able to do that, and I&amp;#39;m not at all ruling out that after I sell, the market keeps pumping throughout January and maybe even longer. But I&amp;#39;m absolutely willing to forego gains at the very tail end of the market if it means not having to see my portfolio bleed like a slasher movie over the course of a few short days like it did in 2018. &lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[聯邦調查局持有最大的BTC錢包之一（總共約60萬個），而他們卻無法訪問它]]></title><description><![CDATA[當聯邦調查局在2013年關閉互聯網黑市 "絲綢之路 "時，它也
-它也查封了被指控的所有者的資產，並在無意中成爲世界上最富有的
-的比特幣運營商之一。
-
-雖然聯邦調查局可能掌握了絲綢之路創始人的比特幣錢包。
-這並不意味着它已經...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqdr66/the_fbi_holds_one_of_the_largest_btc_wallets/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqdr66/the_fbi_holds_one_of_the_largest_btc_wallets/</guid><pubDate>Tue, 09 Nov 2021 22:39:44 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;When the FBI shut down the Silk Road in 2013, an internet black market, it also seized the accused owner’s assets and inadvertently became one of the wealthiest bitcoin operators in the world. &lt;/p&gt;
-
-&lt;p&gt;While the FBI may have its hands on the founder of Silk Road’s bitcoin wallet, that doesn’t mean it has access to what&amp;#39;s inside. Ross Ulbricht, despite his own self-incriminations as the mastermind behind the online black marketplace, was able to do one thing right: secure his bitcoins. &lt;/p&gt;
-
-&lt;p&gt;A reported 600,000 BTC belonging to Ulbricht is in the FBI’s hands. But they can’t access the bitcoin wallet because it is encrypted. This supposedly is separate from the 26,000 BTC that was left in an escrow account, which was being used to exchange money between the marketplace’s users and dealers. &lt;/p&gt;
-
-&lt;p&gt;It may make some BTC investors wary that a government entity is in possession of so many bitcoins. After all, it is fear of the Feds trying to shut down decentralized virtual currencies that may be the biggest risk of all right now for considering bitcoin as an asset class.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[誰還記得9年前Reddit開展的用Karma兌換比特幣的促銷活動？]]></title><description><![CDATA[9年前，Reddit提供了將業力轉換爲比特幣的服務! 我不知道這個
-促銷仍然有效，哈哈。有誰試過這個嗎! 我知道我提交了一個
-請求轉換，但可能做得不對。不管怎麼說，看一下很爽
-回想一下Reddit將因果關係代幣化的想法 - 它不是...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqa60l/who_remembers_when_reddit_ran_a_promotion_to/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qqa60l/who_remembers_when_reddit_ran_a_promotion_to/</guid><pubDate>Tue, 09 Nov 2021 22:39:44 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;9 years ago, Reddit offered a conversion of karma to bitcoin! I wonder if the promotion is still in effect haha. Did anyone try this?! I know I submitted a request to convert, but probably did so incorrectly. Anywho pretty cool to look back on with the thought of reddit tokenizing karma - its not the first time they have done this!&lt;/p&gt;
-
-&lt;p&gt;Would be curious if this still works, or if any redditors managed to pull it off! Reddit was a much different place 9 years ago, and karma was harder to accrue. Front page postings had like 300 karma rather than the hundreds of thousands we see today!&lt;/p&gt;
-
-&lt;p&gt;So really... this is the second or third effort to tokenize karma!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我很生氣，因爲我對比特幣太盲目了，相信媒體說的比特幣是狗屎......我2周前投資了，現在已經漲了7-8%。]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qq7m02/im_so_angry_about_how_blind_i_was_to_bitcoin_and/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qq7m02/im_so_angry_about_how_blind_i_was_to_bitcoin_and/</guid><pubDate>Tue, 09 Nov 2021 22:39:44 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[突發新聞（REUTERS）。"薩爾瓦多正在用比特幣的利潤來建造邊境牆，以阻止大量貧窮的美國人移民。加拿大也將採取類似措施"。]]></title><description><![CDATA[> 聖薩爾瓦多 -- 大批美國公民正在穿越墨西哥，前往南方
-> 爲他們的家人尋求更好的生活，因爲美元已經
-> 美元加速崩潰並進入惡性通貨膨脹，僅僅6個月後，美國財政部和美聯儲的
-> 在美國財政部和美聯儲決定開始鑄造美元的6個月後，大批美國公民正在穿越墨西哥，前往南方尋求更好的生活。]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qpwcii/breaking_news_reuters_el_salvador_is_using/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qpwcii/breaking_news_reuters_el_salvador_is_using/</guid><pubDate>Tue, 09 Nov 2021 21:34:04 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;blockquote&gt;
-&lt;p&gt;SAN SALVADOR-- Large caravans of US citizens are crossing Mexico to go south seeking for a better life for their families after the US Dollar has been collapsing at an accelerated rate and entered into hyperinflation, just 6 months after the US Treasury and the Fed decided to start minting their &amp;#39;Trillion Dollar&amp;#39; coins in high-quality watter-resistant polymer.&lt;/p&gt;
-
-&lt;p&gt;President Bukele urged Mexico to deport them north and strengthen their borders, even offering partial funding for their own wall on their northern border.&lt;/p&gt;
-
-&lt;p&gt;&amp;quot;...this damned &amp;#39;gringos&amp;#39; are coming here and stealing jobs from our people... out of compassion I just hired Donald Trump Jr. to clean our pool, but he&amp;#39;s doing a terrible job and just keeps peeing on it...&amp;quot; Said one wealthy resident in San Salvador.&lt;/p&gt;
-
-&lt;p&gt;&amp;quot;I was selling &amp;#39;pupusas&amp;#39; on the streets since 2020 and kept my BTC instead of converting it to dollars... now I have a work force of 250 Americans selling them for me, they are unreliable but what can you expect for such a cheap labor, since they are illegal here we don&amp;#39;t pay them the mínimum wage and they accept whatever we want to pay them...&amp;quot; Said another local millionaire.&lt;/p&gt;
-
-&lt;p&gt;We don&amp;#39;t know how this will end, but the countries that adopted Bitcoin early are the new 1st World Superpowers. China also is now one of the poorest countries after banning the decentralized world reserve digital currency multiple times.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;PS: I&amp;#39;m a time traveler, this article was published on March 5th, 2026.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[慰問討厭比特幣的人--在Twitter上信用Bitadel]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qq7nvm/condolences_to_the_bitcoin_haters_credit_bitadel/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qq7nvm/condolences_to_the_bitcoin_haters_credit_bitadel/</guid><pubDate>Tue, 09 Nov 2021 21:34:04 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我即將贏得我所做過的最愚蠢的賭注]]></title><description><![CDATA[這個賭注
-[https://www.reddit.com/r/Bitcoin/comments/lfniw7/if_bitcoin_doesnt_hit_69420_in_2021_i_will_eat_a/?utm_medium=android_app&utm_source=share]
-
-我們還差不到1千美元。我們都知道會發生這種情況。
-
-這樣一個悲傷的日子，太糟糕了，你們都不會看到我喫那個熱屁股的辣椒。猜測
-我們都會...]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qpve5m/im_about_to_win_the_dumbest_bet_ive_ever_made/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qpve5m/im_about_to_win_the_dumbest_bet_ive_ever_made/</guid><pubDate>Tue, 09 Nov 2021 21:34:04 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/Bitcoin/comments/lfniw7/if_bitcoin_doesnt_hit_69420_in_2021_i_will_eat_a/?utm_medium=android_app&amp;amp;utm_source=share&quot;&gt;this bet&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We are less than $1k away. We all knew it would happen.&lt;/p&gt;
-
-&lt;p&gt;Such a sad day, too bad yall won&amp;#39;t be seeing me eat that hot ass pepper. Guess we&amp;#39;ll all have to settle for gains instead.&lt;/p&gt;
-
-&lt;p&gt;Keep on hodling, cheers yall!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Metamask即將推出 "MASK "代幣。發展可能會使事情發生動盪。]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq4yuz/metamask_to_launch_mask_token_soon_development/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq4yuz/metamask_to_launch_mask_token_soon_development/</guid><pubDate>Tue, 09 Nov 2021 21:34:04 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[專注於佛羅里達州塞米諾爾縣的加密貨幣欺詐的系列報道中的第一篇。隨着他的判決被第二次推遲，喬爾-格林伯格的計劃似乎從奧蘭多到塔拉哈西到華盛頓特區。本週，格林伯格和羅傑-斯通的盟友雅各布-恩格斯之間的聯繫。]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq5woi/the_first_in_a_series_focused_on_cryptocurrency/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq5woi/the_first_in_a_series_focused_on_cryptocurrency/</guid><pubDate>Tue, 09 Nov 2021 20:30:17 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[蘋果CEO蒂姆-庫克擁有 "加密貨幣"
-
-"我已經研究了一段時間了"
-
-#比特幣兄弟 😎
-
- https://t.co/8bQyWs7yqc]]></title><link>https://crypto.buzzing.cc/tweet/1458148945683701762</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1458148945683701762</guid><pubDate>Tue, 09 Nov 2021 19:37:43 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[中國所犯錯誤的嚴重性將被載入史冊，成爲他們有史以來最大的失誤之一。  #比特幣挖礦遷移。https://t.co/GsL5tPYVqe]]></title><link>https://crypto.buzzing.cc/tweet/1458146287946276870</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1458146287946276870</guid><pubDate>Tue, 09 Nov 2021 19:37:43 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[LRC是否有很大的長期潛力？]]></title><description><![CDATA[這個子網站上的人一直在談論Loopring，我決定在幾天前購買。
-幾天前決定購買。此後，它的價值增長了兩倍多 我在想
-我想知道LRC是否也是一種具有更多長期潛力的硬幣，可以漲得更高。
-更高。我通常是長期持有，但由於LRC的突然炒作，我...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq6umc/does_lrc_have_a_lot_of_long_term_potential/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq6umc/does_lrc_have_a_lot_of_long_term_potential/</guid><pubDate>Tue, 09 Nov 2021 19:37:36 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;People on this sub have been talking about Loopring quite a lot and I decided to buy a couple of days ago. It has since more than tripled in value! I was wondering if LRC is a coin that also has more longterm potentiol to go even higher. I usually hold longterm, but woth the sudden hype for LRC I doubt whether this coin is good for that as well.&lt;/p&gt;
-
-&lt;p&gt;What are your plans regarding loopring? Will you hold this coin long term? Or are you more likely to sell anytime soon if this trend continues?Or will you DCA into this coin long term? I&amp;#39;d love to hear you guys&amp;#39; strategies on this!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我已經厭倦了試圖改變人們的想法]]></title><description><![CDATA[我第一次接觸加密貨幣是在2017年中期左右。在幾個星期內，我就
-確信這項技術將改變世界。在看到這一點時，我
-我意識到，如果我不想讓朋友和家人錯過這個一生中只有一次的機會，我需要儘可能地說服他們。
-機會，我需要儘可能多地說服...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qpo7m1/im_getting_tired_of_trying_to_convert_people/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qpo7m1/im_getting_tired_of_trying_to_convert_people/</guid><pubDate>Tue, 09 Nov 2021 19:37:36 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I first got into crypto back around mid 2017. Within a few weeks I became convinced that the technology would transform the world. In seeing that, I realized that if I didn&amp;#39;t want friends and family to miss out on this once in a lifetime opportunity, I needed to do as much as I could to convince them to get in. &lt;/p&gt;
-
-&lt;p&gt;At that time the big orange coin was about $2k.&lt;/p&gt;
-
-&lt;p&gt;I began my crusade to help my loved ones make money.&lt;/p&gt;
-
-&lt;p&gt;It didn&amp;#39;t take long before I understood the phrase &amp;quot;you can lead a horse to water, but you cannot make him drink&amp;quot;.&lt;/p&gt;
-
-&lt;p&gt;It went to $3k and no one was interested. Then $4k. Same deal. Then $5k, 6, 7, and 8k.&lt;/p&gt;
-
-&lt;p&gt;Now the instead of not being interested, I was getting more &amp;quot;it is too expensive&amp;quot;.&lt;/p&gt;
-
-&lt;p&gt;Those chants got louder.&lt;/p&gt;
-
-&lt;p&gt;Of course, it went all the way up to almost $20k so if it was too expensive at $8k, it was far too expensive at $20k.&lt;/p&gt;
-
-&lt;p&gt;Then it crashed.&lt;/p&gt;
-
-&lt;p&gt;Surely if people were interested at $20k, but thought it was too costly then at $4k I could convince them that now was the time to get in because at $4,000 it was &amp;quot;cheap&amp;quot;.&lt;/p&gt;
-
-&lt;p&gt;Except that when it went back down to that, the friends and family who were interested at 20k but thought it was too expensive were now not interested at all.&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;ve spent the last 5 years trying to spread the word about crypto and make people aware of this amazing and transformative tech, but I&amp;#39;ve barely made a dent in converting anyone.&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;m just tired. It seems like a waste of time trying to convert those who are competely content with the current financial system.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[不，加密貨幣當然不是一種安全的投資。有一天它會成爲安全的，但當那個時候到來時，你肯定會錯過時機。]]></title><description><![CDATA[我們仍然看到有很多帖子在問 "加密貨幣是一項安全的投資 "或
-"我把我的遺產投資於加密貨幣是否安全"，答案是--不。
-你這個瘋子!
-
-我們怎麼能讓這個問題更清楚呢--加密貨幣當然不是一項安全的投資。
-這是一個令人費解的愚蠢投資，如果你是...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq1j75/no_of_course_crypto_is_not_a_safe_investment_one/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq1j75/no_of_course_crypto_is_not_a_safe_investment_one/</guid><pubDate>Tue, 09 Nov 2021 19:37:36 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;We still see so many posts asking things like &amp;quot;is crypto a safe investment&amp;quot; or &amp;quot;is it safe for me to invest my inheritance in crypto&amp;quot; and the answer is - NO, YOU MANIAC!&lt;/p&gt;
-
-&lt;p&gt;How can we make this any clearer - &lt;strong&gt;of course crypto isn&amp;#39;t a safe investment. It&amp;#39;s a mindbogglingly stupid investment if you&amp;#39;re purely concerned with risk. I can think of no investment that would be more risky than crypto.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;But that&amp;#39;s why we love it!&lt;/p&gt;
-
-&lt;p&gt;Honestly, if anyone in authority ever tells you that crypto is a good and safe investment, you have missed your chance. These are the last words you want to hear at the moment - it&amp;#39;s the equivalent of a game over screen!&lt;/p&gt;
-
-&lt;p&gt;To make real money in this world requires risk. Where there is no risk there is no money.&lt;/p&gt;
-
-&lt;p&gt;This isn&amp;#39;t to encourage people to FOMO into crypto when they can&amp;#39;t afford to - but to understand that to be successful with crypto you have to accept the danger and embrace it. It&amp;#39;s not safe, it&amp;#39;s bloody dangerous  - even with a good plan in place.&lt;/p&gt;
-
-&lt;p&gt;But that&amp;#39;s the attraction!&lt;/p&gt;
-
-&lt;p&gt;So stop trying to rationalise it or give yourself a false sense of security. Investing in crypto is terrifying, and you need to accept that.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我終於做到了，我得到了一個完整的ETH!]]></title><description><![CDATA[https://preview.redd.it/7dbas8g7kky71.jpg?width=1600&format=pjpg&auto=webp&s=f30ad3205585334b81f4a1454d4fb453483ad9d0
-
-我真的希望你們關於ETH漲到1萬美元的說法是正確的，因爲我在eBay上只花了5美元就撿到了這個壞傢伙。
-這個壞小子在eBay上只花了5美元，很划算! 我很驚訝沒有更多的人
-談論這個。
-
-我的...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq3dlx/i_finally_did_it_i_got_one_whole_eth/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq3dlx/i_finally_did_it_i_got_one_whole_eth/</guid><pubDate>Tue, 09 Nov 2021 18:35:50 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/7dbas8g7kky71.jpg?width=1600&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=f30ad3205585334b81f4a1454d4fb453483ad9d0&quot;&gt;https://preview.redd.it/7dbas8g7kky71.jpg?width=1600&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=f30ad3205585334b81f4a1454d4fb453483ad9d0&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I really hope you guys are right about ETH going to $10k, because I picked up this bad boy for only $5 on eBay, bargain! I&amp;#39;m surprised more people aren&amp;#39;t talking about this.  &lt;/p&gt;
-
-&lt;p&gt;My friend said I should get a hard wear wallet or a soft wear wallet to keep it in, which one would be the better? These are the two I&amp;#39;ve been looking at: &lt;a href=&quot;https://www.hard-wear.com/en/100-hardcore-portemonnee-the-brand-zwart.html&quot;&gt;https://www.hard-wear.com/en/100-hardcore-portemonnee-the-brand-zwart.html&lt;/a&gt; and &lt;a href=&quot;https://upbey.com/men-leather-rectangle-wallet-soft-wear-resistance-retro-handbag-christmas-gift-black-p5480.html&quot;&gt;https://upbey.com/men-leather-rectangle-wallet-soft-wear-resistance-retro-handbag-christmas-gift-black-p5480.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Oh and one last thing, how do I get this onto an exchange? Do I have to mail it to them? Thanks!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[蒂姆-庫克說他擁有加密貨幣，他 "對它感興趣已經有一段時間了]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qq61lw/tim_cook_says_he_owns_cryptocurrency_and_hes_been/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qq61lw/tim_cook_says_he_owns_cryptocurrency_and_hes_been/</guid><pubDate>Tue, 09 Nov 2021 18:35:50 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[到目前爲止，你最不幸的加密貨幣投資是什麼？]]></title><description><![CDATA[我在2017年7月開始投資加密貨幣，到目前爲止，我已經有了我的公平份額
-好的和壞的投資。
-
-以下是我腦海中能記住的4個例子...
-
- 1. Storiqa（STQ）。失敗的項目。不得不削減巨大的損失並繼續前進。我聽說
-    他們與另一個項目合併了，但我不...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq0dwj/whats_been_your_most_unfortunate_crypto/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq0dwj/whats_been_your_most_unfortunate_crypto/</guid><pubDate>Tue, 09 Nov 2021 18:35:50 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I started investing in crypto in July 2017, and so far, I&amp;#39;ve had my fair share of good and bad investments.&lt;/p&gt;
-
-&lt;p&gt;Below are the 4 I can remember of the top of my head...&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Storiqa (STQ). Failed project. Had to cut huge loss and move on. I heard they merged with another project, but I&amp;#39;m not interested.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;MoneyToken (IMT). Still existing and I&amp;#39;m still holding my tokens on their platform since 2017. Every time I have checked, they&amp;#39;re still in coma. &lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Rocket Token (RCKT). Abandoned project. I got lucky with this one as they unwittingly sent me back my original investment amount and I left unhurt. I invested the money in CAKE and FUEL back in late 2020 and early 2021 and made over 20x. It felt good.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;KEBAB. I actually believed this clowns. Though at some points a lot of things weren&amp;#39;t adding up, but I ignored my guts and lost $2500 off the gain I made from them. Had to cut my losses and move on.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Now, over to you. What&amp;#39;s been your most unfortunate crypto investment so far?&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[爲什麼69,420美元是比特幣的一個標誌性價格。]]></title><description><![CDATA[中本聰從第一天起就知道，比特幣有一天會達到69,420美元。這就是爲什麼他
-設定了2100萬個比特幣的市值。
-
-6 + 9 + 4 + 2 + 0 = 21
-
-中本聰是個天才。]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qpvw3a/why_69420usd_is_an_iconic_price_for_bitcoin/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qpvw3a/why_69420usd_is_an_iconic_price_for_bitcoin/</guid><pubDate>Tue, 09 Nov 2021 18:35:50 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Satoshi knew from day one that Bitcoin one day would hit $69,420. That’s why he set the market cap of 21 million Bitcoin. &lt;/p&gt;
-
-&lt;p&gt;6 + 9 + 4 + 2 + 0 = 21&lt;/p&gt;
-
-&lt;p&gt;Satoshi is a genius.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[這家子公司能不能有一次做對了？我愛你們所有人。]]></title><description><![CDATA[你們都說，泵還沒有結束。你們說它甚至還沒有真正開始。
-看起來你們可能是對的。你們都說過，資金會先流入BTC和
-ETH第一。看起來你可能是對的。你們都說過，在藍籌股抽水之後，資金會流向
-在藍籌股抽水之後流入代理人。我真誠地希望你們是...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq352m/could_this_sub_have_gotten_it_right_for_once_i/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq352m/could_this_sub_have_gotten_it_right_for_once_i/</guid><pubDate>Tue, 09 Nov 2021 17:36:38 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;You all said that the pump wasn’t over. You said it hadn’t even truly started. It looks like you may be right. You all said that the money flows into BTC and ETH first. It looks like you might be right. You all said that the money flows into alts after the blue chip pump. I sincerely hope you are right. &lt;/p&gt;
-
-&lt;p&gt;It is SO hard to know what to believe here. The sentiment can swing from euphoria to doom in the span of 24 hours. I wanted SO badly to hedge my bets and convert some of my positions into stables because when everyone is saying bull, it’s likely a bear is right around the corner. I didn’t. I believed in you all. I let my positions ride and I’m up. &lt;/p&gt;
-
-&lt;p&gt;You all say that this was just the beginning of the pump. I SO badly want you all to be right. I haven’t swapped my coins for pumping memecoins like SHIB, FLOKI or any other INU coin. I have kept my positions and held the line while they crabbed like stablecoins. I haven’t FOMOed into LRC, SOL (but boy I wish I did months ago), CRO or any other coins that get all the love here. I held the line. &lt;/p&gt;
-
-&lt;p&gt;It feels SO good. I mean even LTC is gaining which is both hilarious and wholesome. I have renewed hope that you might be right again. I believe that alts could pump next. But the good alts. The girl next door alts. The alts who you fell in love with in the first place and never left you alts. &lt;/p&gt;
-
-&lt;p&gt;I love you all for being so stubborn and refusing to be shaken out of your positions. I love you all for holding the line. I’m getting drunk tonight and lighting a green candle. Enjoy the pumps hodlers. You’re all legends.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[以太坊現在是世界上第19大貨幣 🔥]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq2gek/ethereum_is_now_the_19th_largest_currency_in_the/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qq2gek/ethereum_is_now_the_19th_largest_currency_in_the/</guid><pubDate>Tue, 09 Nov 2021 17:36:38 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+S2F倍數: -0.38 https://t.co/HUbRBsVn7K]]></title><link>https://crypto.buzzing.cc/tweet/1457947382079950848</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1457947382079950848</guid><pubDate>Tue, 09 Nov 2021 22:39:50 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
