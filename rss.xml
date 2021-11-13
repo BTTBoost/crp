@@ -1,4 +1,149 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 12 Nov 2021 19:54:06 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[每日讨论 - 2021年11月12日 (GMT+0)]]></title><description><![CDATA[欢迎来到《每日讨论》。请在参与前阅读免责声明、指南和
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 13 Nov 2021 00:05:42 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[指南。如何将谷歌认证器备份到第二台设备上--（这样你就可以在两台设备上同时拥有相同的代码和账户）。]]></title><description><![CDATA[最近有几个帖子，试图鼓励人们备份
+2fa。所以我想我应该包括如何做的说明。因为我终于
+在经历了一次小的惊吓之后，昨天终于开始做了。
+
+这将使你能够为你的账户拥有相同的不断变化的代码
+在两个...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs90bb/guide_how_to_backup_google_authenticator_to_a/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs90bb/guide_how_to_backup_google_authenticator_to_a/</guid><pubDate>Fri, 12 Nov 2021 19:32:16 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;There have been a couple of posts recently trying to encourage people to backup 2fa. So I thought I would include instructions on how to do it. Since I finally got around to doing it yesterday after a wee scare.&lt;/p&gt;
+
+&lt;p&gt;This will allow you to have the same constantly changing codes for your accounts on two phones simultaneously....so if one packs it in or gets lost in a boating accident, you can still do everything you need to without having to contact exchanges etc. to reset everything.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Download Google Authenticator app on a second device and open it&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Select &amp;#39;get started&amp;#39; then either &amp;#39;Scan a QR code&amp;#39; or &amp;#39;import existing accounts&amp;#39;....both do the same thing. The camera should pop up for scanning...put this device down.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Open authenticator on your original device&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Click on the 3 dots and select &amp;#39;transfer accounts&amp;#39;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Click &amp;#39;Export Accounts &lt;em&gt;create a QR code to export accounts&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Your accounts (exchanges etc.) Will show up and you have the option to select which ones you want to transfer over.  Then click &amp;#39;Next&amp;#39; and the QR code will appear.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Scan this QR code with the camera of your backup device.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Voila! All your codes and accounts will appear, exactly the same on both devices ✊&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It looks a lot written down but it takes about 30 seconds.  If you prefer a video to watch it being done this is the one I used. It&amp;#39;s good. &lt;a href=&quot;https://youtu.be/7LlyDOVTQPM&quot;&gt;https://youtu.be/7LlyDOVTQPM&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have been meaning to do this....&lt;strong&gt;DO IT TODAY OR REGRET IT TOMORROW&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You should also have a series of backup one-time access codes connected to your account seperately from this...I&amp;#39;m looking into backing those up next.&lt;/p&gt;
+
+&lt;p&gt;Ps. I did this on Android and there may be some differences on iPhone.&lt;/p&gt;
+
+&lt;p&gt;Edit: You need to redo this every time you add a new account to your authenticator. The backup will not sync automatically. This just transfers a snapshot in time.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[B计划仍然坚持他的11月9万的预测和12月13万的预测，甚至说12月后周期会继续。]]></title><description><![CDATA[在B计划最近的一条推文中，他确认他仍然坚持他的
+他的预测。
+
+此外，他还将S2F模型下调至12月的10万，最初是在周期中期的10万。
+他认为这个周期将超过12月。
+
+所有这些都不是他的实际模型。他的实际模型是...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qse7f6/plan_b_is_still_holding_on_to_his_98k_nov/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qse7f6/plan_b_is_still_holding_on_to_his_98k_nov/</guid><pubDate>Fri, 12 Nov 2021 19:32:16 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;In a quite recent tweet from Plan B he confirmed that he is still holding onto his Predictions.&lt;/p&gt;
+
+&lt;p&gt;Also he pulled down the S2F model to 100k by December, originally it was 100k by mid cycle and he thinks that this cycle will go over December. &lt;/p&gt;
+
+&lt;p&gt;All this is not his actual model. His actual model that predicted completly right for like 3 months in a row is still going with 98k Nov and 135 Dec. (In further predictions he even was looking at a 200k-300k BTC price next year.)&lt;/p&gt;
+
+&lt;p&gt;Also Benjamin Cowen another popular analyser is agreeing with him.&lt;/p&gt;
+
+&lt;p&gt;I personally think those are pretty high predictions and would like to keep my expectations a bit lower so that I wont be completely devasted of it does not happen.&lt;/p&gt;
+
+&lt;p&gt;But what do you think?&lt;/p&gt;
+
+&lt;p&gt;(source: Plan B Twitter)&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[这场大流行对比特币来说是最好的事情了。]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qse2q0/the_pandemic_was_the_best_thing_to_ever_happen_to/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qse2q0/the_pandemic_was_the_best_thing_to_ever_happen_to/</guid><pubDate>Fri, 12 Nov 2021 19:32:16 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[鲸鱼从冬眠中苏醒--比特币鲸鱼苏醒，自2013年沉睡后移动148,000,000美元的BTC]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs8gc4/whales_wake_up_from_hibernation_bitcoin_whale/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs8gc4/whales_wake_up_from_hibernation_bitcoin_whale/</guid><pubDate>Fri, 12 Nov 2021 19:32:16 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[是的，我们存在。我们中有些人是为了财富，也因为我们认为技术是坏蛋。]]></title><description><![CDATA[这么多自以为是的帖子，说OP对我们其他人是多么的失望
+因为他们专注于盈利。好吧，我可能只做了一年的加密货币
+但我喜欢学习/体验的每一分钟
+区块链，流动性配对，DEX，软件钱包，狗屎币YOLO，...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsd51m/yes_we_exist_there_are_those_of_us_that_are_in_it/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsd51m/yes_we_exist_there_are_those_of_us_that_are_in_it/</guid><pubDate>Fri, 12 Nov 2021 19:32:16 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So many self-righteous posts about how disappointed the OP is in the rest of us for being focused on making profits.
+Well, I may have only been in crypto for about a year now but I have loved every minute of learning/experiencing blockchain, liquidity pairing, DEX, software wallets, shitcoin YOLOs, etc. I also look forward to continuing to watch all the new things that will get invented in years to come.
+That said, the profits have also been fucking awesome! Do the try-hards really  not understand how great it is that we can make so much money in a sector that we all enjoy so much?!? With exception of the lucky few who truly found a career path &amp;amp; job combo that brings them enjoyment &amp;amp; total fulfillment everyday…most things we do for income are, on average, healthily mundane. 
+Time to get off the high horses, uncork those sphincters, and start focusing on enjoying this shit a little bit. &lt;/p&gt;
+
+&lt;p&gt;TLDR; take out the pacifier &amp;amp; have fun with the rest of us because there is plenty to be had.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA["盗贼从巴塞罗那的加密商店撕毁了比特币自动取款机" - 他们以为里面装的是比特币吗？]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qseu1h/thieves_rip_bitcoin_atm_from_cryptostore_in/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qseu1h/thieves_rip_bitcoin_atm_from_cryptostore_in/</guid><pubDate>Fri, 12 Nov 2021 18:30:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[印度尼西亚穆斯林法院裁定，加密货币交易违反了穆斯林的宗教信仰，是被禁止的。敦促所有2.3亿印尼穆斯林避免使用加密货币。这到底是怎么一回事？其他穆斯林国家也会开始这样做吗？]]></title><description><![CDATA[https://www.rt.com/news/540048-indonesia-muslims-crypto-forbidden/]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qs54d7/indonesian_muslim_court_has_ruled_that_crypto/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qs54d7/indonesian_muslim_court_has_ruled_that_crypto/</guid><pubDate>Fri, 12 Nov 2021 18:30:49 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.rt.com/news/540048-indonesia-muslims-crypto-forbidden/&quot;&gt;https://www.rt.com/news/540048-indonesia-muslims-crypto-forbidden/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我应该在开始之前就问这个问题]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsayc8/should_have_asked_this_question_before_i_started/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsayc8/should_have_asked_this_question_before_i_started/</guid><pubDate>Fri, 12 Nov 2021 18:30:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[你认为你迟到了吗？地球上每个人只有243k satoshis（0.00243btc）!]]></title><description><![CDATA[http://bitcoinsperperson.com/
+
+鉴于目前一个比特币的价格为64,179美元，因此只有足够的比特币来满足
+每个人都能拥有156.10美元的价值。如果比特币按照目前的全球财富分配方式进行分配
+财富的分配，99.9%的人将拥有价值29.69美元的
+价值29.69美元的比特币(46k sats)，而人们...]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qs7ziz/think_youre_late_there_are_only_243k_satoshis/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qs7ziz/think_youre_late_there_are_only_243k_satoshis/</guid><pubDate>Fri, 12 Nov 2021 17:33:42 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://bitcoinsperperson.com/&quot;&gt;http://bitcoinsperperson.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Given that a bitcoin currently cost $64,179, there are only enough bitcoins for every person to have $156.10 worth. If bitcoins were distributed using the current global distribution of wealth, 99.9% of people would have $29.69 worth of bitcoins (46k sats), and people in the top .001% would have 0.73 bitcoins each. &lt;/p&gt;
+
+&lt;p&gt;Keep this in mind when you feel like you&amp;#39;re late. Get more than your share now and guarantee an abundant future&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我父亲告诉我，有一支股票的业绩是100%。]]></title><description><![CDATA[我父亲告诉我，他错过了一只股票的投资。他说，他
+观察了一段时间，最终它的价值上升了100%。两年后。
+他非常震惊，印象深刻，并为自己没有在有机会时投资它而感到羞愧。
+有机会的时候没有投资。
+
+我看着他，说：....，两年了？我已经...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsbxx8/my_father_told_me_about_a_stock_that_did_100/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsbxx8/my_father_told_me_about_a_stock_that_did_100/</guid><pubDate>Fri, 12 Nov 2021 16:38:02 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;My father told me about a stock he missed out on investing in. He said that he watched it over that time and eventually it rose 100% in value. TWO YEARS LATER. He was so shocked and impressed and ashamed that he didn&amp;#39;t invest in it when he had the chance.&lt;/p&gt;
+
+&lt;p&gt;I looked at him and went....two years? I&amp;#39;ve seen plenty of coins that did quadruple that in a matter of days. He looked at me like I was from another planet.&lt;/p&gt;
+
+&lt;p&gt;I think crypto has ruined my concept of value.&lt;/p&gt;
+
+&lt;p&gt;It won&amp;#39;t always be like this... it&amp;#39;s really insane when you think about it&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[用比特币运行。400天，40个国家。没有FIAT。]]></title><description><![CDATA[Namaste Bitcoin家族。
+
+我的名字叫Paco，我很疯狂，想在400天内去40个国家旅行，只用比特币。
+400天内到40个国家旅行，只用比特币。请容忍我，这就是原因。
+
+我是一个自我激励的旅行者，在过去的6年里，我一直在沙发上冲浪。
+6年了。
+
+2007年，当我来到印度求学时，...]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qsb71b/run_with_bitcoin_400_days_40_countries_no_fiat/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qsb71b/run_with_bitcoin_400_days_40_countries_no_fiat/</guid><pubDate>Fri, 12 Nov 2021 16:38:02 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Namaste Bitcoin Family,&lt;/p&gt;
+
+&lt;p&gt;My name is Paco, and I am crazy enough to want to travel to 40 countries in 400 days, only with Bitcoin. Bear with me please, here’s why.&lt;/p&gt;
+
+&lt;p&gt;I am a self-motivated traveler and I have been couch-surfing for the last 6 years.&lt;/p&gt;
+
+&lt;p&gt;In 2007 when I came to India for education, $1=38rs,&lt;/p&gt;
+
+&lt;p&gt;and now it’s 2021, $1=76rs.&lt;/p&gt;
+
+&lt;p&gt;In 2000 Argentina was $1 = 1Peso,&lt;/p&gt;
+
+&lt;p&gt;In 2018 during my travel, it was $1 = 25 Pesos,&lt;/p&gt;
+
+&lt;p&gt;2021 the same $1 = 100 Pesos.&lt;/p&gt;
+
+&lt;p&gt;You know how the story goes. You guys know it way better than me.&lt;/p&gt;
+
+&lt;p&gt;Throughout my journey, over the years I have seen plights of citizens in these hyperinflating regions. Folks, running like crazy every day to make their ends meet.&lt;/p&gt;
+
+&lt;p&gt;Recently a friend of mine gave me the book “The Bitcoin Standard” and I have been going down the rabbit hole ever since. Over my study in the last few weeks, it went like a blaze, and I could see how many experiences I had from my past travels were correlated with the plights of the fiat currency world.&lt;/p&gt;
+
+&lt;p&gt;I came to believe that “sound money”, that people can take their own custody of, is necessary for a working society, and Bitcoin is a possible way to achieve that. Although I don’t know much about how it works under the hood, I feel at home looking at the ethos and dreams of the Bitcoin community, striving for a bitcoinized world. And I wanna be part of that story.&lt;/p&gt;
+
+&lt;p&gt;My past travels and experiences provided me a direct path to achieve that. I have been running around the world since I was 24. I will run again, and this time I will do it with Bitcoin while vlogging my entire journey. I will spend in Bitcoin, I will earn in Bitcoin, I will receive your love in Bitcoin, and I will talk about Bitcoin and try to convince whoever I can to accept Bitcoin from me as a payment.&lt;/p&gt;
+
+&lt;p&gt;And most importantly I will come and meet with all you Bitcoiners out there in the world and share the love. No matter where you are, I am gonna find you, and I am gonna hug you.&lt;/p&gt;
+
+&lt;p&gt;So come along on this wild ride with me. Support me with donations, arrangements, hosting, or just prayers and kind words.&lt;/p&gt;
+
+&lt;p&gt;One day we will meet each other at the dawn of HyperBitcoinization, at the end of our current Fiat Tyranny. Till then keep fighting the good fight.&lt;/p&gt;
+
+&lt;p&gt;Why am I doing this?&lt;/p&gt;
+
+&lt;p&gt;Mass Awareness &amp;amp; Show the kindness of Humans of Bitcoin around the world through the vlogs that will be shared on my youtube channel. The world is a kind place.&lt;/p&gt;
+
+&lt;p&gt;Over and out.&lt;/p&gt;
+
+&lt;p&gt;Paco De La, India.&lt;/p&gt;
+
+&lt;p&gt;Website - &lt;a href=&quot;https://support.runwithbitcoin.com/&quot;&gt;https://support.runwithbitcoin.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Twitter - &lt;a href=&quot;https://twitter.com/RunwithBitcoin&quot;&gt;https://twitter.com/RunwithBitcoin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;YouTube - &lt;a href=&quot;https://www.youtube.com/c/PacoDeLaIndia/&quot;&gt;https://www.youtube.com/c/PacoDeLaIndia/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[你进入加密货币的真正原因是什么？]]></title><description><![CDATA[我们都在开玩笑，说在我们新建的后院里有兰博基尼和主题公园。
+我们都开玩笑说，在我们新建的加密货币赞助的豪宅的后院里，有小羊羔和主题公园，但你为什么真的在这里？
+
+我问的原因是，人们寻求财富的原因往往是一个很好的
+预示着他们有多大可能获得财富。考虑到这一点，人们更有可能
+扮演的角色......]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs6sp4/whats_the_real_reason_you_got_into_crypto_for/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs6sp4/whats_the_real_reason_you_got_into_crypto_for/</guid><pubDate>Fri, 12 Nov 2021 16:38:02 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;We all joke about lambos and theme parks in the backyard of our newly built crypto sponsored mansion, but why are you really here? &lt;/p&gt;
+
+&lt;p&gt;The reason I ask is because the reason people seek wealth is often a great predictor of how likely they are to attain it. Consider this, people more likely to play the lottery are mainly from lower income backgrounds, this is not a dig at anyone, just an observable phenomenon. &lt;/p&gt;
+
+&lt;p&gt;Do you have debt or a family crises of some kind and are already making rational calculations? Or are you the gambling kind that just wants to see where this thing goes if you toss in some money.&lt;/p&gt;
+
+&lt;p&gt;You don&amp;#39;t need to explain in great detail, but what is the biggest need beyond &amp;#39; I need more money &amp;#39; for you? For me it is student debt and family welfare, as well the freedom to be able to live life for once instead of surviving it.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[每日讨论 - 2021年11月12日 (GMT+0)]]></title><description><![CDATA[欢迎来到《每日讨论》。请在参与前阅读免责声明、指南和
 规则后再参与。
 
 --------------------------------------------------------------------------------
@@ -343,82 +488,4 @@ Here is why Bitcoin is needed. So that some enormous corporation can&amp;#39;t a
 &lt;p&gt;There is a huge chip shortage going on right now so no fuckin way he got these cards by the retailer prices, but let&amp;#39;s say Manish is a close friend of Nvidia&amp;#39;s CEO, which I must say, you probably need to be to give that much money to your kids. He still would need to spend, AT LEAST $150.000 on GPUs with $1500 per card!&lt;/p&gt;
 
 &lt;p&gt;And you know what&amp;#39;s funny? RTX 3090 isn&amp;#39;t even a good GPU for mining. of course, its hash rate is an incredible 108 which is a lot, But, it&amp;#39;s not very efficient in Hash/$ perspective, as it needs 291 days to pay its price, while GTX 1060 only needs 159.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[中国通胀率达到13.5]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qrpk0j/china_inflation_hits_135/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qrpk0j/china_inflation_hits_135/</guid><pubDate>Thu, 11 Nov 2021 21:34:26 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Discord取消了实施Crypto的计划，因为受到Nocoiners的反击。然而，另一家公司在采用加密货币方面做了180度的调整。如果我们必须看到加密货币被广泛采用，我们必须更好地进行协调。]]></title><description><![CDATA[Discord早些时候宣布，他们将实施加密货币功能，甚至还
-甚至还预告了他们产品中看起来像加密货币和NFT功能的截图。
-看上去他们已经为实现加密货币工作了一段时间。
-
-但自从他们这样做后，Nocoiners一直在不断...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qrn9ey/discord_cancelled_its_plan_to_implement_crypto/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qrn9ey/discord_cancelled_its_plan_to_implement_crypto/</guid><pubDate>Thu, 11 Nov 2021 21:34:26 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Discord earlier announced that they will implement crypto features, and even teased screenshots of what looked like crypto and NFT features in their product. It looked like they had been working on crypto implementation for a while. &lt;/p&gt;
-
-&lt;p&gt;But since they did that, nocoiners have been constantly threatening them, claiming they will cancel their subscription if Discord implements crypto.&lt;/p&gt;
-
-&lt;p&gt;As a result, their CEO just announced that they are infact not going to be implementing crypto at this point. &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/x388fq4zczy71.jpg?width=1248&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=36943bdbae7be6e26a2de9524e651aed18e39776&quot;&gt;Discord CEO: We have no plans to ship this internal concept&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;After Discord announced their plan, the nocoiner gang were very visibly organised in trying to cancel Discord. Over 100k posts were made on the Discord forums, threatening Discord to either stop their adoption of crypto, or these nocoiners will cancel their Discord subscription. Several popular accounts posted threads on Twitter asking people to &amp;quot;vote with their money&amp;quot; and cancel their Discord subscriptions.&lt;/p&gt;
-
-&lt;p&gt;As a result, Discord pulled the plug. &lt;/p&gt;
-
-&lt;p&gt;Absolutely no one from crypto side told Discord that their move was welcome. No one tried to tell Discord how wrong these nocoiner arguments were.  &lt;/p&gt;
-
-&lt;p&gt;Majority of those in crypto were happy to be shilling their coins here, watching numbers go up while yet another big company did a 180 on adopting crypto due to the pressure from nocoiners. They are so far winning these battles. &lt;/p&gt;
-
-&lt;p&gt;As a community, we need to do better.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我使用了一个挖矿计算器，我看到如果我买了10台Bitmain Antminer S19 Pro机器，我一年可以赚92,571美元。]]></title><description><![CDATA[这符合实际吗？我把我所在地区的电费和所有机器的瓦特数都算进去了。
-所有机器的功率。]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qrkhvd/i_used_a_mining_calculator_and_i_saw_that_if_i/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qrkhvd/i_used_a_mining_calculator_and_i_saw_that_if_i/</guid><pubDate>Thu, 11 Nov 2021 21:34:26 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Is that realistic? I put in the cost of electricity in my area and the wattage of all the machines.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[市场上的价格发现有时会让我想起囚徒的两难处境。如果今天每个人都决定不在10万美元以下出售#比特币，那么今天的价格就会上涨超过10万美元。然而，有些人胆怯了 ... https://t.co/LyoU35b61k]]></title><link>https://crypto.buzzing.cc/tweet/1458890358155268097</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1458890358155268097</guid><pubDate>Thu, 11 Nov 2021 20:44:43 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[如你所知，S2F模型预测这个减半周期平均约为10万美元（白线）。我将其简化为 "2021年12月收盘价为10万美元"，因为要使10万美元的平均数，周期中期我们应该高于这个平均数。我的底层模型（非S2F）预测12月收盘价为13.5万美元：与S2F模型大致一致。https://t.co/Oel7HmsmPr]]></title><link>https://crypto.buzzing.cc/tweet/1458896708189007878</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1458896708189007878</guid><pubDate>Thu, 11 Nov 2021 20:44:43 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[https://t.co/DJr2Mg8tN7]]></title><link>https://crypto.buzzing.cc/tweet/1458892940332441601</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1458892940332441601</guid><pubDate>Thu, 11 Nov 2021 20:44:43 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[真正的不受欢迎的意见。我不希望人们从Reddit的因果关系中赚取加密货币]]></title><description><![CDATA[如果你还没有听说，Reddit正计划扩大金库系统，以
-提供加密货币，以换取加注，类似于本子中的月球工作方式。
-
-我非常反对这样做，因为月球已经不可挽回地破坏了这个子网站
-因为月球已经不可挽回地破坏了这个子，因为它使这个子变成了不断的转贴，并减少了反面的意见，由于
-人...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qrrt7f/true_unpopular_opinion_i_dont_want_people_to_earn/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qrrt7f/true_unpopular_opinion_i_dont_want_people_to_earn/</guid><pubDate>Thu, 11 Nov 2021 20:31:00 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;In case you haven&amp;#39;t heard, Reddit is planning to expand the vault system to provide crypto for upvotes similar to how moons work in this sub.&lt;/p&gt;
-
-&lt;p&gt;I am very opposed to this, as moons have irrevocably damaged this sub by reducing it to constant reposts and diminishing contrarian opinions due to people wanting to earn free money.&lt;/p&gt;
-
-&lt;p&gt;I do not want the rest of reddit to fall victim to the same thing (at least to an even greater extent as people still do reposts just for meaningless karma).&lt;/p&gt;
-
-&lt;p&gt;But I realize that if crypto was integrated into Reddit that it would be a very bullish for the space.&lt;/p&gt;
-
-&lt;p&gt;What do you all think about this?&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[利用加密货币快速致富比你想象的更难]]></title><description><![CDATA[因此，假设你发现了一个小市值的创业板，而且这个项目不可能赚到x100。
-不可能赚到x100。所以你投入1万美元，在一两年内你就会有100万美元。
-很简单。
-
-除非你是有钱人，否则1万美元是个大数目，把它放在一个高风险的
-高风险的资产会让你感到不安。
-
-你基本上有...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qrfj94/getting_rich_quick_with_crypto_is_harder_than_you/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qrfj94/getting_rich_quick_with_crypto_is_harder_than_you/</guid><pubDate>Thu, 11 Nov 2021 19:37:33 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So let&amp;#39;s say you found a small market cap gem and there is no way this project won&amp;#39;t make x100 . So you put $10k and you will end up with $1M in a year or two. Easy.&lt;/p&gt;
-
-&lt;p&gt;Unless you&amp;#39;re coming from money, $10k is a large sum, and putting it on a high risk asset will make you uneasy. &lt;/p&gt;
-
-&lt;p&gt;You have basically overinvested in a project and a lot of things could go wrong along the way. You&amp;#39;re sure it will x100 but you don&amp;#39;t have a crystal ball either.&lt;/p&gt;
-
-&lt;p&gt;The fact that you have put a sum of money you&amp;#39;re not comfortable to lose will most likely make you panic sell during market fluctuations. It&amp;#39;s easy to say don&amp;#39;t panic sell, but not so easy to do when something you can&amp;#39;t lose is on the line. Since small cap projects have less liquidity they will fluctuate even harder than the market. You will have mini heart attacks each time, you&amp;#39;ll start checking your phone in the middle of the night or first thing in the morning and there is a good chance you will panic sell in one of those moments. Plus you don&amp;#39;t need much reason for volatility here, crypto exchanges doesn&amp;#39;t have most of the market regulations and whales will fluctuate the market even harder to shake those paper hands.&lt;/p&gt;
-
-&lt;p&gt;One solution is not to overinvest, but then you need to find x1000 coin to make a $1M. It will make things harder and when things are going well greed will kick in and most likely you will put that extra money.&lt;/p&gt;
-
-&lt;p&gt;Or you should cash out your initial investment once you reach x2 and play with the house money. But again, when things are great, there is a good chance greed will kick in and you will end up reinvesting this sum and we&amp;#39;re back to step 1.&lt;/p&gt;
-
-&lt;p&gt;Crypto is a great investment tool and will make you much better profits than other assets in the long term, but if you are here to chase pumps, you may end up overstressed and burn out quickly.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[因此，显然，78美元的BTC将在2030年对冲100万。]]></title><description><![CDATA[因此，关于通货膨胀和BTC ATH的消息，我已经收到了
-知道我在研究加密货币的（通常）无硬币的朋友和家人的问题。
-这很好，心理障碍开始下降了。更多
-机构和散户投资者正带着他们的袋子在地平线上...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qrllww/so_apparently_78_in_btc_will_hedge_1m_in_2030/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qrllww/so_apparently_78_in_btc_will_hedge_1m_in_2030/</guid><pubDate>Thu, 11 Nov 2021 19:37:33 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So the with the news about inflation and the BTC ATH I’m already getting questions from (usually)no-coiner friends and family that know I’m into crypto. This is good, the psychological barriers are starting to come down. More institutional and retail investors are on the horizon with their bags ready to be saved from eroding into nothing. &lt;/p&gt;
-
-&lt;p&gt;With that being said even I was shocked by the latest Invest Answers video breaking it down. No wonder the banks are terrified. Usually explaining things like this to my mum would get an eye roll but her response was “oooo that’s less than me and your father spend on wine a month, we were going to do dry January anyway. How do you go about it then?” … my jaw dropped, 5 mins later she had a wallet set up (and her seed phrase explained to her very VERY Carefully) another 5 and she had £100 BTC. &lt;/p&gt;
-
-&lt;p&gt;It’s happening. Older generation are starting to realise they’re going to need to protect their wealth against inflation… they’ll turn to the younger generation for help. Better go pick up some more sunglasses the futures looking super bright right now.&lt;/p&gt;
-
-&lt;p&gt;Edit: paragraph spacing.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[🤡🌎死于严重枪伤的男子被算作COVID-19死亡https://t.co/ukLZzQGvPR]]></title><link>https://crypto.buzzing.cc/tweet/1458861225824108550</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1458861225824108550</guid><pubDate>Thu, 11 Nov 2021 18:35:28 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我在ATH买的，所以你不必这样做。]]></title><description><![CDATA[所以，你可以感谢我的浸泡，堆积sats比特币的同胞们。]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qrk32r/i_bought_at_ath_so_you_didnt_have_to/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qrk32r/i_bought_at_ath_so_you_didnt_have_to/</guid><pubDate>Thu, 11 Nov 2021 18:35:25 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So you can thank me for the dip, stack sats fellow bitcoiners.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[那些从股票转向加密货币的人，加密货币比股票市场有哪些优点和说服力？]]></title><description><![CDATA[加密货币已经吸引了很多人，从机械师和水管工到
-商人和投资者。难怪，它也吸引了大量的
-投资者和股市老手，因为说实话，持有一支股票可以产生几年的收益，而加密货币可以在几天内完成。
-能产生多少年的收益，加密货币能在几天内完成。
-
-所以，我的问题是...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qri2j8/those_who_came_to_crypto_from_stocks_what_are/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qri2j8/those_who_came_to_crypto_from_stocks_what_are/</guid><pubDate>Thu, 11 Nov 2021 18:35:25 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Crypto has attracted a lot of people, ranging from mechanics and plumbers to businessmen and investors. No wonder, it also attracted a large number of investors and stock market veterans cause let&amp;#39;s be honest what holding a stock can generate in years, crypto can do it within days. &lt;/p&gt;
-
-&lt;p&gt;So, my question is to the stock market traders/investors what is it about crypto that makes it better than stock market and what are some of its flaws besides the high volatility and non regulations. &lt;/p&gt;
-
-&lt;p&gt;Looking forward to some valuable insights and not just troll comments xD&lt;/p&gt;
 &lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
