@@ -1,4 +1,173 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 13 Nov 2021 11:29:00 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Biden insists infrastructure spending bill will help ease inflation crisis]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qspwyo/biden_insists_infrastructure_spending_bill_will/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qspwyo/biden_insists_infrastructure_spending_bill_will/</guid><pubDate>Sat, 13 Nov 2021 07:30:58 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Bitcoin is inevitable. No force on earth can stop an idea whose time has come.]]></title><description><![CDATA[Bitcoin is inevitable. As Victor Hugo said, you cannot stop an idea whose time
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 13 Nov 2021 15:44:56 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Everybody here should read this: UNDERSTANDING TAPROOT IN A SIMPLE WAY. The highly-anticipated upgrade is set to roll out over the weekend, changing Bitcoin for the better.]]></title><description><![CDATA[> Understanding exactly what about the Bitcoin network implementing Taproot
+> changes is necessary for understanding why the changes were needed. Taproot is
+> the combination of many Bitcoin Improvement Proposals (BIPs) resulting in a
+> soft fork of Bitcoin’s blockchain. A soft fork is a proposed…]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qss4rq/everybody_here_should_read_this_understanding/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qss4rq/everybody_here_should_read_this_understanding/</guid><pubDate>Sat, 13 Nov 2021 11:32:30 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;blockquote&gt;
+&lt;p&gt;Understanding exactly what about the Bitcoin network implementing Taproot changes is necessary for understanding why the changes were needed. Taproot is the combination of many Bitcoin Improvement Proposals (BIPs) resulting in a soft fork of Bitcoin’s blockchain. A soft fork is a proposed upgrade that over time is adopted as the only blockchain, meaning the old one will cease to operate once the new one (in this case, Taproot) is fully adopted.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHAT DOES TAPROOT DO&lt;/strong&gt;?&lt;/p&gt;
+
+&lt;p&gt;The improvements can be broken down into three categories, each affecting the other, and each necessary to the final construct. Taproot successfully increases security, and also allows flexibility and scalability with the introduction of a new language that is ever expanding. The three categories of changes to summarize are as follows:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1) Schnorr Signatures (BIP 340)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This new form of signature allows for superior security, lower fees, and flexible multi-signature transactions. How?&lt;/p&gt;
+
+&lt;p&gt;· SigHash (Signature Hash) is applied to the transactions, meaning that once a SigHash is applied, the information becomes immutable (unchangeable). If the information is changed, the transaction loses validity. Nothing can be changed without destroying the SigHash. Previously, a small amount of information could be changed through “malleability” that would not result in the transaction losing its validity. Speaking of signatures …&lt;/p&gt;
+
+&lt;p&gt;· Key and Signature Aggregation allows for the aggregation of public keys and signatures. This means if you have a transaction with 10 people, previously you would need 10 public keys, 10 signatures, and a verifier would have to verify each key and signature. With key and signature aggregation, we can make all 10 public keys into one key, and all 10 signatures, into one signature. The verifier now only has to do this once, instead of 10 times. This is where a lot of computational processing occurs.&lt;/p&gt;
+
+&lt;p&gt;· Superior Security is achieved in the aggregation process because on-chain heuristics (data tracked) will not be able to discern the difference between a multisignature and single-signature transaction, allowing for more privacy.&lt;/p&gt;
+
+&lt;p&gt;· Batch Verification is added on from the aggregation mentioned above, as now we can “batch” together multiple transactions, to verify them together, as opposed to one at a time. Basically, this is just “bulk verification,” and also leads to fewer resources being spent.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2) Taproot (BIP 341)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The entire update is named after this portion because this is how the new system integrates with the old one.&lt;/p&gt;
+
+&lt;p&gt;· Bitcoin Script Update allows the scripting language to use Schnorr signatures and integrates the Merkelized Alternative Script Trees (MAST).&lt;/p&gt;
+
+&lt;p&gt;· Pay-To-Taproot (P2TR) gives the freedom of choice. You can use either Schnorr signatures or the Merkle root provided in MAST. Satisfy the requirements of your choosing, which allows for cleaner transaction processing when the Merkle tree may not be needed.&lt;/p&gt;
+
+&lt;p&gt;(MAST) summarizes the possible scripts that are needed to unlock a bitcoin, instead of requiring all the possible scripts for the transaction. The single-script hash provided by MAST actually represents several scripts. To spend a bitcoin, you need only provide your script, and provide proof that your script is held in the Merkle root. Previously, it would have taken far more scripts and extended verification.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3) Tapscript&lt;/strong&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Transcript&lt;/em&gt; is a collection of “opcodes,” which are essentially just lines of codes that execute commands on the Bitcoin protocol that have been updated to make way for the new changes installed by Taproot. It can be referred to as a language, but it is more like an update to Bitcoin Script.&lt;/p&gt;
+
+&lt;p&gt;· Bitcoin Script has a 10,000-byte script size limit which will be removed, allowing for vastly larger scripts, or Taproot contracts. It also removes the cap for “opcodes,” which allows for more flexibility for increased features and coding in the future.&lt;/p&gt;
+
+&lt;p&gt;· This removal of script size and unfettered growth available in scripting allows a clear path to smart contracts.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHY IS IT IMPORTANT?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Security is the lifeblood of every Bitcoiner. Unwilling to shake their core beliefs of hard, sound money, the Bitcoin community paced themselves to make sure the Layer 1 (Bitcoin protocol) was immutable, efficient, and proven to be 100% secure before “upgrading.” Other platforms rushed to Layer 2 (open applications built on the original protocol) while Bitcoin held off on further developments until base-layer security was an undeniable certainty. Because of this, some argue that Bitcoin had lost the race to developing smart contract capability, and products like Ethereum emerged as first to market, changing the way we look at decentralized applications.&lt;/p&gt;
+
+&lt;p&gt;Taproot has evened the playing field. Bitcoin now has a clear path to deployment of smart contracts, decentralized autonomous organizations, and more. Products like the Lightning Network have already shown that fast and reliable transactions can still be backed with an immutable ledger, even without the access that Taproot will give developers of the future.&lt;/p&gt;
+
+&lt;p&gt;Bitcoin is stepping into a broader world with applications that we cannot imagine in a way that it simply could not before. This newfound developer freedom and systemic efficiency for the miners will drive more great minds to the protocol, fostering new ideas which will help the network continue to flourish.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bitcoinmagazine.com/technical/understanding-taproot-in-a-simple-way&quot;&gt;https://bitcoinmagazine.com/technical/understanding-taproot-in-a-simple-way&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Goldman Sachs Head of Energy Research says Cryptocurrency will inevitably substitute traditional stores of wealth, admitting they need to adopt for the future]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsq0q1/goldman_sachs_head_of_energy_research_says/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsq0q1/goldman_sachs_head_of_energy_research_says/</guid><pubDate>Sat, 13 Nov 2021 10:32:36 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Why are white papers so unprofessional?]]></title><description><![CDATA[I work in the academia so I spend a significant part of my days reading peer
+reviewed research papers. One of the first things I learned about crypto is that
+each project (usually) has a so called "white paper" where the team behind the
+project publishes their vision for the future, main ideas, some…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qssljv/why_are_white_papers_so_unprofessional/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qssljv/why_are_white_papers_so_unprofessional/</guid><pubDate>Sat, 13 Nov 2021 10:32:36 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I work in the academia so I spend a significant part of my days reading peer reviewed research papers. One of the first things I learned about crypto is that each project (usually) has a so called &amp;quot;white paper&amp;quot; where the team behind the project publishes their vision for the future, main ideas, some mathematical analysis, and how they are going to achieve their promises.&lt;/p&gt;
+
+&lt;p&gt;While I wasn&amp;#39;t expecting the standard to be high, I was expecting these papers to be at least decent considering that in most cases the team has multiple people working there and the projects are asking for millions of dollars.&lt;/p&gt;
+
+&lt;p&gt;To my surprise, I was absolutely shocked when I started reading these papers. The vast majority of them look like utter trash, and if they were submitted as an assignment in any university they would have been a fail without question. Even projects that interest me seem to have basic formatting problems which immediately makes me less interested in putting money there.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[3rd largest Bitcoin whale just bought the dip - buying a total of 1,123 BTC (72 Million USD) at a price of $64k]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qssl76/3rd_largest_bitcoin_whale_just_bought_the_dip/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qssl76/3rd_largest_bitcoin_whale_just_bought_the_dip/</guid><pubDate>Sat, 13 Nov 2021 09:38:19 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Realistically, what are you going to buy when you get enough profits from your Crypto portfolio?]]></title><description><![CDATA[Well, we all joke about getting a lambo when our Crypto portfolio skyrockets.
+But realistically, what are you going to buy, or would you keep hodling this
+money?
+
+For me, I am into filmmaking. 5 years ago, through an initial investment in this
+business, I was able to buy a good camera and editing…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsrzdv/realistically_what_are_you_going_to_buy_when_you/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsrzdv/realistically_what_are_you_going_to_buy_when_you/</guid><pubDate>Sat, 13 Nov 2021 09:38:19 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Well, we all joke about getting a lambo when our Crypto portfolio skyrockets. 
+But realistically, what are you going to buy, or would you keep hodling this money?&lt;/p&gt;
+
+&lt;p&gt;For me,
+I am into filmmaking. 5 years ago, through an initial investment in this business, I was able to buy a good camera and editing setup at the time.&lt;/p&gt;
+
+&lt;p&gt;But to upgrade from this one, I will need a huge sum of money. &lt;/p&gt;
+
+&lt;p&gt;What do I have?
+Currently I have 2015 Macbook Pro, Panasonic Camera 4k, a small Office/editing setup.
+(Usually I rent out the equipments I require for specific shoots)&lt;/p&gt;
+
+&lt;p&gt;What do I need?
+MacBook M1 Max, Sony A7Siii with all the lenses, Mavic pro Cine Drone, a bigger editing setup and a good size studio (on rent)&lt;/p&gt;
+
+&lt;p&gt;Total investment required - $15K +&lt;/p&gt;
+
+&lt;p&gt;So whenever my crypto portfolio moons, I will probably DCA into all my requirements. &lt;/p&gt;
+
+&lt;p&gt;I can definitely buy everything right now with what I have invested in Crypto. But I am being patient and I will hodl my portfolio until its sufficient.&lt;/p&gt;
+
+&lt;p&gt;Tell me what would you buy or do with your profits?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[AMC already has 14% of online purchases made with cryptocurrencies]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsslyj/amc_already_has_14_of_online_purchases_made_with/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsslyj/amc_already_has_14_of_online_purchases_made_with/</guid><pubDate>Sat, 13 Nov 2021 08:43:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Had my Coinbase card recognized for the first time!]]></title><description><![CDATA[I was picking up dinner for the family and I paid with my Coinbase card. I was
+shocked and delighted when the cashier asked how I was liking my Coinbase card.
+I have been using it for 5 or so months and no one had ever mentioned it before.
+
+We only talked for a minute or so, but it turns out he had…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsnart/had_my_coinbase_card_recognized_for_the_first_time/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsnart/had_my_coinbase_card_recognized_for_the_first_time/</guid><pubDate>Sat, 13 Nov 2021 08:43:49 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I was picking up dinner for the family and I paid with my Coinbase card. I was shocked and delighted when the cashier asked how I was liking my Coinbase card. I have been using it for 5 or so months and no one had ever mentioned it before. &lt;/p&gt;
+
+&lt;p&gt;We only talked for a minute or so, but it turns out he had just gotten his own Coinbase card the previous day and hadn&amp;#39;t used it yet. I was very pleased to be able to tell him how it worked and setting up his account to get the 4% back on XLM (which he could then convert to his crypto of choice).&lt;/p&gt;
+
+&lt;p&gt;Just having this unexpected interaction made me feel like we a tiny step closer to mainstream adoption by the masses. Hope you all have friendly encounters with like minded crypto people!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[The strong anti-crypto sentiment of the gaming subreddits is just one example of how early we are.]]></title><description><![CDATA[r/gaming [/r/gaming], r/gamedev [/r/gamedev] and other gaming subreddits have
+recently been sharing and echoing anti-crypto sentiment based around Steam's
+banning of NFT games and a recent Kotaku article (if you want to call it that)
+about game developers not wanting to work on NFT games.
+
+
+
+Being a…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsbe98/the_strong_anticrypto_sentiment_of_the_gaming/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsbe98/the_strong_anticrypto_sentiment_of_the_gaming/</guid><pubDate>Sat, 13 Nov 2021 08:43:49 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;/r/gaming&quot;&gt;r/gaming&lt;/a&gt;, &lt;a href=&quot;/r/gamedev&quot;&gt;r/gamedev&lt;/a&gt; and other gaming subreddits have recently been sharing and echoing anti-crypto sentiment based around Steam&amp;#39;s banning of NFT games and a recent Kotaku article (if you want to call it that) about game developers not wanting to work on NFT games.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Being a gamer I frequent those subreddits and it pains me to see all the comments just parroting common misconceptions or base level criticisms of blockchain tech, NFTs, and crypto. Any attempt to clear up misconceptions or pro-crypto comments are downvoted to oblivion making it impossible to have a real conversation or debate.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;If people who play videogames are anti-crypto because it is wasteful from an energy perspective we have a long way to go in terms of acceptance and mass adoption.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Despite the downvoting brigade we should get out there and make good, coherent points to try and clear up misconceptions and provide the bull case for crypto. Even if they don&amp;#39;t want to hear it. Crypto is going to be an important part of future virtual technology, even in videogames.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Yes there are scummy NFT games out there, yes there is room for improvement to the energy efficiency of crypto, but no that doesn&amp;#39;t mean all blockchain applications are bad or wasteful.  We should accept criticism, point out how technology will adapt in those areas, and put forth valid use cases for why crypto is valuable to society.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[WE ALL GONNA MAKE IT !!!!]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qstzow/we_all_gonna_make_it/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qstzow/we_all_gonna_make_it/</guid><pubDate>Sat, 13 Nov 2021 08:43:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Yes we exist. I'm here to buy high and sell low.]]></title><description><![CDATA[Yes we exist.
+
+I'm here to lose money, hand over fist.
+
+Sell the dip, buy the ath.
+
+Buy high and panic sell low.
+
+Do no research. Only buy on 20%+ runs then sell when it retraces.
+
+Buy shitcoins with dog names. Buy BTC at 69k, sell at 60.
+
+Yes we exist. We're looking to claim losses on our…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsucq9/yes_we_exist_im_here_to_buy_high_and_sell_low/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qsucq9/yes_we_exist_im_here_to_buy_high_and_sell_low/</guid><pubDate>Sat, 13 Nov 2021 08:43:49 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Yes we exist. &lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m here to lose money, hand over fist. &lt;/p&gt;
+
+&lt;p&gt;Sell the dip, buy the ath. &lt;/p&gt;
+
+&lt;p&gt;Buy high and panic sell low. &lt;/p&gt;
+
+&lt;p&gt;Do no research. Only buy on 20%+ runs then sell when it retraces. &lt;/p&gt;
+
+&lt;p&gt;Buy shitcoins with dog names. Buy BTC at 69k, sell at 60. &lt;/p&gt;
+
+&lt;p&gt;Yes we exist. We&amp;#39;re looking to claim losses on our taxes. &lt;/p&gt;
+
+&lt;p&gt;We trade daily with steep leverage. Only long ath. Only short after a big dip. &lt;/p&gt;
+
+&lt;p&gt;We&amp;#39;re here to lose money not to make it. &lt;/p&gt;
+
+&lt;p&gt;Yes we exist. Gains? I don&amp;#39;t know the meaning of the word. &lt;/p&gt;
+
+&lt;p&gt;I only buy alt coins from Justin Sun and Craig Wright. &lt;/p&gt;
+
+&lt;p&gt;Danny Devito is Satoshi. Vitalik Buterin is a cyborg from the future and a relative of Zuck. &lt;/p&gt;
+
+&lt;p&gt;I sell when Elon Musk tweets, and buy into dog themed coins that already ran 1000%. &lt;/p&gt;
+
+&lt;p&gt;I exclusively fomo. Yes we exist. &lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m not in it for the tech, I&amp;#39;m not here to make money, I&amp;#39;m here to disappoint my dog and myself. &lt;/p&gt;
+
+&lt;p&gt;I sell my crypto at a loss to buy UberEATS I don&amp;#39;t need. &lt;/p&gt;
+
+&lt;p&gt;I invest way more than I am willing to lose. &lt;/p&gt;
+
+&lt;p&gt;I took out a second mortgage to buy doge at 74 cents. &lt;/p&gt;
+
+&lt;p&gt;Yes we exist.&lt;/p&gt;
+
+&lt;p&gt;Edit: to the homies that think I&amp;#39;m moon farming, I&amp;#39;m the ranked third in moons tipped... Lol.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Biden insists infrastructure spending bill will help ease inflation crisis]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qspwyo/biden_insists_infrastructure_spending_bill_will/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qspwyo/biden_insists_infrastructure_spending_bill_will/</guid><pubDate>Sat, 13 Nov 2021 07:30:58 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Bitcoin is inevitable. No force on earth can stop an idea whose time has come.]]></title><description><![CDATA[Bitcoin is inevitable. As Victor Hugo said, you cannot stop an idea whose time
 has come. And the time for the ideas behind Bitcoin has come.
 
 The people will now prefer hard money to weak money like the American dollar.
@@ -514,99 +683,4 @@ I don't ever want to take my holdings out and…]]></description><link>https://c
 papers that we use today and for which there is gold, so it is the best barter
 system used by mankind, when I asked him about his opinion on cryptocurrencies,
 he said, “Cryptocurrencies may disappear within one day and may…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs8dvn/crypto_currency_could_vanish_in_one_day_not_like/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs8dvn/crypto_currency_could_vanish_in_one_day_not_like/</guid><pubDate>Fri, 12 Nov 2021 14:35:01 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;He was talking about money in the world and how it evolved from salt to the papers that we use today and for which there is gold, so it is the best barter system used by mankind, when I asked him about his opinion on cryptocurrencies, he said, “Cryptocurrencies may disappear within one day and may disappear in a moment if internet go down but not like the money that exists today, as the banks have branches all over the country where you can not only disappear and you cannot lose your money that simple&amp;quot;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Central banks printed 25 trillion USD since 2008, Nakamoto was right.]]></title><description><![CDATA[Look I was a sceptic at first. However seeing figures like this make it clear.
-Nakamoto was right, people who are in control of the stock market and banks are
-also in charge of the financial policy. These guys have been pumping out money
-non-stop at the slightest hint that the market would go…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs7pel/central_banks_printed_25_trillion_usd_since_2008/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs7pel/central_banks_printed_25_trillion_usd_since_2008/</guid><pubDate>Fri, 12 Nov 2021 14:35:01 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Look I was a sceptic at first. However seeing figures like this make it clear. Nakamoto was right, people who are in control of the stock market and banks are also in charge of the financial policy. These guys have been pumping out money non-stop at the slightest hint that the market would go down.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.atlanticcouncil.org/global-qe-tracker/&quot;&gt;https://www.atlanticcouncil.org/global-qe-tracker/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Here you can see the total amount of money just 4 central banks created since 2008. We are about to see some crazy inflation. Like 20% per year inflation next year. They thought they could just keep printing money forever and getting rich off it.&lt;/p&gt;
-
-&lt;p&gt;This is why everyone should own some bitcoin at least.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Live Recording: Kevin O’Leary Talks About Cryptocurrencies and Regulations]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qrwuge/live_recording_kevin_oleary_talks_about/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qrwuge/live_recording_kevin_oleary_talks_about/</guid><pubDate>Fri, 12 Nov 2021 14:35:01 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Today Lloyds bank threatened to lock my account (pricks)]]></title><description><![CDATA[Today Lloyds bank threatened to lock my online account if i didnt phone them
-immediately [https://ibb.co/j5wg6Xj] because i tried to deposit money to my
-coinbase account. Why does these kind of shit still happen. I thought banks,
-visa/mastercard are finally starting to adopt crypto.. i guess not,…]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qry4e6/today_lloyds_bank_threatened_to_lock_my_account/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qry4e6/today_lloyds_bank_threatened_to_lock_my_account/</guid><pubDate>Fri, 12 Nov 2021 14:35:01 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://ibb.co/j5wg6Xj&quot;&gt;Today Lloyds bank threatened to lock my online account if i didnt phone them immediately&lt;/a&gt; because i tried to deposit money to my coinbase account. Why does these kind of shit still happen. I thought banks, visa/mastercard are finally starting to adopt crypto.. i guess not, especially not UK banks.&lt;/p&gt;
-
-&lt;p&gt;I had to call them, confirm my details to these automated bot then i was put on hold for 30mins waiting for a real person to talk to. Then i had to confirm my details with this person again. She proceeded to “interrogate” me about what was i trying to do, at first i told her im allowed to do whatever i want with my own money and its none of their business but she kept on persisting so i finally told her i was transferring it to my coinbase. Im pretty sure she already knew it was for coinbase anyway but she just wanted to hear it from myself.&lt;/p&gt;
-
-&lt;p&gt;As soon as i mentioned coinbase she immediately transferred me to this other person who proceeded to give me a 15 minute lesson about bitcoin and how “unsafe” it is…&lt;/p&gt;
-
-&lt;p&gt;After all that they didnt even bother to complete my money transfer so I basically wasted all that time just so they wont lock my account. I dont even know if theyll do this again if i try to transfer again to coinbase.&lt;/p&gt;
-
-&lt;p&gt;So im about to close my Lloyds debit and credit accounts but does any UK residents here recommend and crypto friendly banks?&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[When someone tells you they made a fortune on a shitcoin — you've absolutely missed that train for now]]></title><description><![CDATA[It amazes me how people mindlessly give out to FOMO.
-
-I mainly notice it with shitcoins, perhaps due to the narrow window of
-opportunity and zero purpose other than finding a grater fool.
-
-So shitcoin shills advertise and lure new buyers with slogans like "Already 100x
-up!" or "Turned $100 into 1M…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs98kk/when_someone_tells_you_they_made_a_fortune_on_a/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs98kk/when_someone_tells_you_they_made_a_fortune_on_a/</guid><pubDate>Fri, 12 Nov 2021 14:35:01 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It amazes me how people mindlessly give out to FOMO.&lt;/p&gt;
-
-&lt;p&gt;I mainly notice it with shitcoins, perhaps due to the narrow window of opportunity and zero purpose other than finding a grater fool.&lt;/p&gt;
-
-&lt;p&gt;So shitcoin shills advertise and lure new buyers with slogans like &amp;quot;Already 100x up!&amp;quot; or &amp;quot;Turned $100 into 1M or something&amp;quot; And then there&amp;#39;s videos of &amp;quot;investors&amp;quot; flexing chunks of cash.&lt;/p&gt;
-
-&lt;p&gt;What surprises me the most is how on earth does that even work??? &lt;/p&gt;
-
-&lt;p&gt;With a little bit of logic — you&amp;#39;re already too late when it just did a 100x or 10,000x and early investors are taking profits (and flexing them too). &lt;strong&gt;They literally tell you to please be the chump to dump their bags on.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Someone says they made 1,000x or more on a shitcoin here — and they immediately get questions like &amp;quot;which coin, where buy, pm please&amp;quot;.&lt;/p&gt;
-
-&lt;p&gt;If you want it that bad — keep your tabs on it, add it to your bucket list. When we crash again — buy it cheap and hope it revives. But by that time, when it tanks, you probably won&amp;#39;t want that much...&lt;/p&gt;
-
-&lt;p&gt;A legit crypto can go ATH after ATH, year after year, and still needs corrections. Shitcoins are all about pump and dump. So beware of FOMO.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Bitcoin Catastrophe! Please Help!]]></title><description><![CDATA[PLEASE HELP! Trezor Catastrophe
-
-I’ve used Trezor for years, they’re great. I was helping my in-laws move their
-crypto (sadly they divorced and wanted me to separate their crypto) and fear I
-have made a TERRIBLE mistake.. I set up my father in laws new Trezor and sent
-his half of crypto from my…]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qs1y6r/bitcoin_catastrophe_please_help/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qs1y6r/bitcoin_catastrophe_please_help/</guid><pubDate>Fri, 12 Nov 2021 13:31:49 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;PLEASE HELP!  &lt;em&gt;Trezor Catastrophe&lt;/em&gt; &lt;/p&gt;
-
-&lt;p&gt;I’ve used Trezor for years, they’re great. I was helping my in-laws move their crypto (sadly they divorced and wanted me to separate their crypto) and fear I have made a TERRIBLE mistake.. I set up my father in laws new Trezor and sent his half of crypto from my mother in laws wallet. Success..&lt;/p&gt;
-
-&lt;p&gt;I realized I did not get the seed words from the Trezor, (I think it got disconnected from the lap top during initial setup) and I had to secure the USB connection and continue setup. What I didn’t realize at the time was I ‘believe’ that was my one and only shot to collect my seed words. Not knowing that I continued the setup with a PIN and sent the funds. They showed up but I realized I did not have ANY of his seed words and if he lost this thing or it got stolen he would be screwed.. &lt;/p&gt;
-
-&lt;p&gt;So I sent the funds back to mother in laws Trezor, successfully.&lt;/p&gt;
-
-&lt;p&gt;I saved the address to the wallets and WIPED my empty father in laws Trezor and successfully set it up, (this time collecting all seed words). &lt;/p&gt;
-
-&lt;p&gt;I SENT THE CRYPTO to his old address that was wiped and I don’t have the seed words to!! I was hesitant to even get involved, they are older and not technology savvy, but I got them into the crypto space years and wanted to help them with this separation. This was NOT a small amount of Crypto and has become a strain on the family. I had the best intentions..&lt;/p&gt;
-
-&lt;p&gt;I reached out to Trezor support but they have not gotten back to me. &lt;/p&gt;
-
-&lt;p&gt;Does anyone have any advice please?!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Yes we exist. Some of us ARE in it for the tech. Blockchain, NFTs, Smart Contracts, etc. are AMAZING technologies.]]></title><description><![CDATA[Plenty of people have different motivations for being interested in different
-products.
-
-I see the same comments on half of these posts where people legitimately claim
-nobody cares about the tech and are combative toward anyone that says they are,
-or flat out say they're lying.
-
-I'm going to paint a…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs7sk8/yes_we_exist_some_of_us_are_in_it_for_the_tech/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs7sk8/yes_we_exist_some_of_us_are_in_it_for_the_tech/</guid><pubDate>Fri, 12 Nov 2021 12:38:47 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Plenty of people have different motivations for being interested in different products.&lt;/p&gt;
-
-&lt;p&gt;I see the same comments on half of these posts where people legitimately claim nobody cares about the tech and are combative toward anyone that says they are, or flat out say they&amp;#39;re lying.&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;m going to paint a picture here.&lt;/p&gt;
-
-&lt;p&gt;Right now every time you purchase a house. Get a degree. Try to receive a copy of your transcripts. Etc. The information and data for those things are stored in a centralized fashion that is neither immune to security threats, nor immune to managerial and clerical error.&lt;/p&gt;
-
-&lt;p&gt;It&amp;#39;s also expensive in many cases just to PROVE you have those things. Just to sell them. Register the sale.&lt;/p&gt;
-
-&lt;p&gt;NFTS, smart contracts, and Blockchain provide a domain in which these archaic systems can be modernized in a way that is both more efficient for access of information, transparent and provable, and more secure.&lt;/p&gt;
-
-&lt;p&gt;Imagine this... You buy a house, right now that involves getting a loan, faxing or mailing it over, if you&amp;#39;re lucky you e-sign but still have to pass it along to multiple people, have multiple people sign, etc. Then you deposit your down payment, prove bank records, etc. As someone who recently went through this, holy fuck it&amp;#39;s archaic.&lt;/p&gt;
-
-&lt;p&gt;Instead, let&amp;#39;s look how Blockchain could modernize this. A house is represented in ownership via a deed/title. Let&amp;#39;s make that an NFT. In order to purchase the house the lender must verify your holdings, incomes, debt to earnings ratio, you give them your wallet public keys, sign a message to them and prove you own the wallets that easily. Now that you&amp;#39;re approved, a smart contract is generated, you deposit your downpayment, your lender deposits the loan amount to the smart contract and the seller deposits the title/deed nft. Boom. Execute code. The seller receives the money in the escrow wallet of the smart contract, you receive the deed. It&amp;#39;s done.&lt;/p&gt;
-
-&lt;p&gt;This can also be done with college degrees. Certifications. Any non fungible (hence the name) thing.&lt;/p&gt;
-
-&lt;p&gt;So yeah. Money is great. Don&amp;#39;t get me wrong, I love some gains. But there are some of us here who really are in it for the tech. If you&amp;#39;re in it for the money, that&amp;#39;s not a problem, I&amp;#39;m not judgmental. But this whole telling people they&amp;#39;re lying when they say they&amp;#39;re in it for the tech? Stop that shit.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[“Bank of England Governor Warns Crypto Is Providing Means of Payment for Criminals” No shit, and you think fiat doesn’t? Even a shiny rock can be used as a form of payment, this kind of thinking is what literally hinders progress]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs7j8f/bank_of_england_governor_warns_crypto_is/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs7j8f/bank_of_england_governor_warns_crypto_is/</guid><pubDate>Fri, 12 Nov 2021 12:38:47 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Which project are you losing hope day by day?]]></title><description><![CDATA[2021 was a great year for majority of the market, most of the cryptocurrencies
-pumped alot. Some even did 100x and still pumping to this day. There were some
-disappointing coins as well which had many expectations but failed. Then there
-were some coins/tokens which literally didn't pump on it's own…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs4yr8/which_project_are_you_losing_hope_day_by_day/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qs4yr8/which_project_are_you_losing_hope_day_by_day/</guid><pubDate>Fri, 12 Nov 2021 11:34:43 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;2021 was a great year for majority of the market, most of the cryptocurrencies pumped alot. Some even did 100x and still pumping to this day. There were some disappointing coins as well which had many expectations but failed. Then there were some coins/tokens which literally didn&amp;#39;t pump on it&amp;#39;s own but got dragged upward by BTC pump. So which coin you are or were holding that you have no hope for it&amp;#39;s future. Mention the reasons so it helps others to make their own decision. Also I would like to know what made you invest in that project.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I’m OLD (87) and realize I am irrelevant but I grieve for the wonderful grandchildren I leave! The country I knew, served and loved is slowly slipping away.]]></title><link>https://crypto.buzzing.cc/tweet/1459102098688253961</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1459102098688253961</guid><pubDate>Fri, 12 Nov 2021 10:36:05 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[New York reported 4x (5,986) more COVID cases than Florida (1,446) yesterday. 
-
-Vax Pass working so well! So safe. So effective. A public health necessity. The skyrocketing numbers just means it's working! Imagine if they didn't have the system in place, right?!]]></title><link>https://crypto.buzzing.cc/tweet/1459101855955492875</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1459101855955492875</guid><pubDate>Fri, 12 Nov 2021 10:36:05 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
