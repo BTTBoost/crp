@@ -1,4 +1,186 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 18 Nov 2021 03:29:56 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Bitcoin in El Salvador update]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qvrdam/bitcoin_in_el_salvador_update/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qvrdam/bitcoin_in_el_salvador_update/</guid><pubDate>Wed, 17 Nov 2021 22:35:42 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[FIDELITY APPROVED TO BECOME CANADA’S FIRST INSTITUTIONAL BITCOIN CUSTODIAN]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qw6r6d/fidelity_approved_to_become_canadas_first/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qw6r6d/fidelity_approved_to_become_canadas_first/</guid><pubDate>Wed, 17 Nov 2021 22:35:42 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Is Harmony ONE in your portfolio?]]></title><description><![CDATA[Harmony (ONE) is a decentralized blockchain-based platform, built to solve the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 18 Nov 2021 07:33:19 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Eth is good, and I'm tired of pretending it's not]]></title><description><![CDATA[Unlike the current popular post bashing Ethereum, this post will actually be
+based on fact and reality.
+
+The main thesis of this post being that Ethereum is amazing and will change the
+world (If I can't be idealistic on Reddit where can I be?)
+
+
+ETHEREUM IS HIGHLY DECENTRALIZED
+
+The initial token…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qwd407/eth_is_good_and_im_tired_of_pretending_its_not/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qwd407/eth_is_good_and_im_tired_of_pretending_its_not/</guid><pubDate>Thu, 18 Nov 2021 03:42:11 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Unlike the current popular post bashing Ethereum, this post will actually be based on fact and reality.&lt;/p&gt;
+
+&lt;p&gt;The main thesis of this post being that Ethereum is amazing and will change the world (If I can&amp;#39;t be idealistic on Reddit where can I be?)&lt;/p&gt;
+
+&lt;h1&gt;Ethereum Is Highly Decentralized&lt;/h1&gt;
+
+&lt;p&gt;The initial token distributions for many popular chains can be found &lt;a href=&quot;https://medium.com/open-source-x/what-does-increased-insider-ownership-in-public-blockchains-mean-97f8e9e50368&quot;&gt;here&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;What you&amp;#39;ll see when you click the link is that, unlike the other post claims, Ethereum&amp;#39;s token distribution is not only not centralized, it is among the most fair distributions in the history of crypto.  &lt;/p&gt;
+
+&lt;p&gt;Shoutout to Cardano, Cosmos, and Tezos here as well.  &lt;/p&gt;
+
+&lt;p&gt;Getting past token distribution there is the number of nodes that run the Ethereum blockchain.  &lt;/p&gt;
+
+&lt;p&gt;Currently there are about 2700 nodes helping to secure the Ethereum blockchain as well as about 200,000 validators ready to secure it when PoS goes live in 2022.  Many of these validators will be run by exchanges or other companies, of course. The point is that anyone with 32 Eth can run a validator because the hardware requirements are low enough.&lt;/p&gt;
+
+&lt;p&gt;Compare this to 120 for Algorand, 450 for Tezos(there are other nodes, but the bottleneck seems to be the nodes that write blocks), 1100 for Solana(even though other factors make Solana extremely centralized), and 21 for Binanace.  &lt;/p&gt;
+
+&lt;p&gt;Another valid critique to Ethereum&amp;#39;s Decentralization could be its client diversity. Currently about 50% of nodes are running the same client. This could cause issues when it comes to bugs found in that client, but it is fairly trivial to switch clients should something go wrong.  &lt;/p&gt;
+
+&lt;p&gt;With all these factors(and more) taken into account, it is not up for debate that Ethereum is in the top tier of chains when it comes to Decentralization.  &lt;/p&gt;
+
+&lt;p&gt;&amp;quot;&lt;em&gt;Okay but the person said Proof Of Stake will centralize it!&amp;quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Unsurprisingly they are incorrect yet again. While it&amp;#39;s valid to speculate that Proof of Stake could lead to token concentration (ie Coinbase running a ton of validators and offering staking services to users), it is incorrect to assume there are zero solutions in place to solve this.  &lt;/p&gt;
+
+&lt;p&gt;Literally this week &lt;a href=&quot;https://www.ethernodes.org/&quot;&gt;Rocketpool&lt;/a&gt; launched. Rocketpool is a Decentralized Eth staking platform that allows people with 16 Eth to run validator nodes with the help of others that want to stake less than 16 Eth.  &lt;/p&gt;
+
+&lt;p&gt;There&amp;#39;s a reason very few new projects are launching as Proof of Work chains.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;h1&gt;Ethereum Governance - Who&amp;#39;s Really In Control?&lt;/h1&gt;
+
+&lt;p&gt;The original post implied that Ethereum was captured by a central authority that hands decisions and orders down as easily as they fart in the wind.  &lt;/p&gt;
+
+&lt;p&gt;Obviously this isn&amp;#39;t true. Yes, the Ethereum Foundation exists and operates in pursuit of furthing the Ethereum ecosystem. No, it does not &amp;quot;head&amp;quot; the chain nor does it make any decisions.  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ethereum.org/en/governance/&quot;&gt;Ethereum&amp;#39;s governance happens off-chain in the social layer.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The community(devs, thought-leaders, regular users, validators, node-runners) is what makes the decisions. The valid criticism here is that Devs have too heavy a role in what changes are accepted, because they know the most about how Ethereum works under the hood. To date this has not been an issue.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;h1&gt;Ethereum&amp;#39;s Design - EIP 1559 is good&lt;/h1&gt;
+
+&lt;p&gt;EIP-1559 does indeed make fees more stable. It was &lt;strong&gt;&lt;em&gt;never meant to change how high fees were&lt;/em&gt;&lt;/strong&gt;.   &lt;/p&gt;
+
+&lt;p&gt;The increase in fees is due to the market heating up and NFTs taking off again right as it was implemented. It really is that simple. Amazing right?  &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;quot;Okay, whatever, the guy was wrong. What about the damn gas fees? Surely that means Ethereum is broken.&amp;quot;&lt;/em&gt;  &lt;/p&gt;
+
+&lt;p&gt;Ethereum&amp;#39;s gas fees are extremely high right now. They will remain high forever, on Layer 1.  &lt;/p&gt;
+
+&lt;p&gt;Ethereum(and Tezos) have chosen to scale via &lt;strong&gt;&lt;em&gt;Layer 2.&lt;/em&gt;&lt;/strong&gt;  &lt;/p&gt;
+
+&lt;p&gt;This means that very soon the average Ethereum user will never have to interact with layer 1 and will never have to pay extremely high gas fees. These projects are already live and dApps are being ported to them as we speak. I think they even hit a new ATH in total value locked this week!  &lt;/p&gt;
+
+&lt;p&gt;These layer 2s are much more scalable than any layer 1 solution out there (like Solana, BSC) and I believe they will eventually consume the other layer-1-only chains.  &lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;To address the DAO hack:  &lt;/p&gt;
+
+&lt;p&gt;In June 2016, someone found a bug in a smart contract that allowed them to drain millions of dollars worth of Ethereum. The Eth community at the time got together and made the difficult decision to roll the chain back and rescue those stolen funds. The community was split on this decision and it resulted in a hard fork, thus the creation of Ethereum Classic.  &lt;/p&gt;
+
+&lt;p&gt;There is nobody serious in the Ethereum community that does not recognize the gravity of what took place there. Ethereum has since not had an incident anywhere close to that, and given how battle-tested it now is and how diverse the community is, I&amp;#39;m comfortable saying nothing like that can ever happen again. Building smart contract platforms is hard and they get more and more secure as time goes on, not less.  &lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;TLDR:  &lt;/p&gt;
+
+&lt;p&gt;Original poster is severely underinformed due to too much exposure to maximalism. Ethereum is highly decentralized, highly secure, and highly scalable.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[For those that have been involved for ~ 10 years, what has surprised you most about the development of bitcoin?]]></title><description><![CDATA[Hi all. I've been involved with bitcoin since 2013. While I was not involved for
+extended periods of time, it is something I have always been deeply passionate
+about. In 2014-2015, I was convinced bitcoin was going to be the future of
+currency. I had no interest in getting rich off of it and simply…]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qw2pkt/for_those_that_have_been_involved_for_10_years/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qw2pkt/for_those_that_have_been_involved_for_10_years/</guid><pubDate>Thu, 18 Nov 2021 03:42:11 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi all. I&amp;#39;ve been involved with bitcoin since 2013. While I was not involved for extended periods of time, it is something I have always been deeply passionate about. In 2014-2015, I was convinced bitcoin was going to be the future of currency. I had no interest in getting rich off of it and simply wanted to be a part of something that intrigued me. I have not posted on this subreddit since approx. 2015. At the time I believed bitcoin/blockchain tech was going to be as revolutionary as the internet. Through the years a few things have surprised me. &lt;/p&gt;
+
+&lt;p&gt;- In my eyes, bitcoin would not have made it past 2015 without a hard fork, I still cannot comprehend that bitcoin is able to function (although not without flaws) in todays world with the volume we are seeing.&lt;/p&gt;
+
+&lt;p&gt;- The publics perception of bitcoin as an inflationary hedge and genuine store of value&lt;/p&gt;
+
+&lt;p&gt;- The continued praise of Satoshi and his vision, I believe bitcoin has mostly stayed true to its core values &lt;/p&gt;
+
+&lt;p&gt;- I am astounded by the continued denial of cryptocurrencies as an asset class by institutions. Through reports I have read, institutions are only getting involved due to client demand, I firmly believe this is a failure on their end. &lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Overall, I cannot put into words how bitcoin has reshaped my vision of the world, and the revolution it has introduced to finance is nothing short of incredible. I&amp;#39;d love to hear others experiences over the years.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Why CRO is just getting started and will likely explode in the next two years]]></title><description><![CDATA[As everyone knows, the native token of Crypto.com, CRO, pumped hard today after
+news of a partnership with AEG giving them the rights to rename the famous
+Staples Center of Los Angeles. This is a very good news for mainstream adoption
+: Crypto.com offers a slick UX, and it's a welcoming environement…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qw8by5/why_cro_is_just_getting_started_and_will_likely/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qw8by5/why_cro_is_just_getting_started_and_will_likely/</guid><pubDate>Thu, 18 Nov 2021 03:42:11 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As everyone knows, the native token of Crypto.com, CRO, pumped hard today after news of a partnership with AEG giving them the rights to rename the famous Staples Center of Los Angeles. This is a very good news for mainstream adoption : Crypto.com offers a slick UX, and it&amp;#39;s a welcoming environement for every newcomer.&lt;/p&gt;
+
+&lt;p&gt;But in my opinion, CRO is just getting started. Why? &lt;strong&gt;Because they are positionning themselves to be at the forefront of the investment revolution underway&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Let me explain. You know that whales, not retails, move the markets. It&amp;#39;s true in the stock market, and it&amp;#39;s true in the crypto markets. Institutionnal investors (things like retirement funds, state-sponsored sovereign funds, etc.), in particular, are able to move markets with their actions. And more and more of these institutionnal investors are adhering to the &lt;a href=&quot;https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp&quot;&gt;Environmental, social and governance (ESG)&lt;/a&gt; concept. It truly is a revolution in investing : it means those big whales only buy assets that are clean, ethical, and have a positive impact on their communities.&lt;/p&gt;
+
+&lt;p&gt;Now, this is where it gets interesting : Crypto.com has announced that they will be carbon-negative before the end of 2022. This is huge. If they do this, then &lt;strong&gt;institutionnal investors could buy CRO tokens and still respect their commitment towards ESG&lt;/strong&gt;. &lt;/p&gt;
+
+&lt;p&gt;Where I am from, for example, the state-sponsored sovereign fund can&amp;#39;t buy any cryptocurrency, because they have to follow the ESG standards. But once a certain asset respect theses standards, they can start buying them. &lt;/p&gt;
+
+&lt;p&gt;Given the fact that Crypto.com is, by far, the fastest growing crypto platform right now, and that they will in all likelihood soon respect ESG standards, I believe that CRO is just getting started and that, at the end of 2022, we could see a lot of whales jumping in.&lt;/p&gt;
+
+&lt;p&gt;Best of luck to all!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[You don’t have to take profits or hold just because someone on Reddit tells you to]]></title><description><![CDATA[I’ve been seeing a lot of posts of people saying people need to take profit
+while they can and secure their gains. I’ve been against that point and trying
+to argue the HODL but to be fair there really is no right answer if the person
+I’m talking to wants something different than I do.
+
+At the end of…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qwblyq/you_dont_have_to_take_profits_or_hold_just/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qwblyq/you_dont_have_to_take_profits_or_hold_just/</guid><pubDate>Thu, 18 Nov 2021 02:46:09 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’ve been seeing a lot of posts of people saying people need to take profit while they can and secure their gains. I’ve been against that point and trying to argue the HODL but to be fair there really is no right answer if the person I’m talking to wants something different than I do. &lt;/p&gt;
+
+&lt;p&gt;At the end of the day you need to do what’s right for you and remember that &lt;strong&gt;everyone has their own moon&lt;/strong&gt;. &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If your moon is doubling what you put in, taking out 50%, and seeing where the rest goes that’s great. &lt;/li&gt;
+&lt;li&gt;If your moon is a target price you’ll cash out for to improve your life, also great.&lt;/li&gt;
+&lt;li&gt;If your moon is building bags and you want to hold every coin you buy to just keep accumulating, that’s great as well.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That being said - what&amp;#39;s your strategy?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Binance CEO:" To be honest, I don't get dogecoin. But this shows the power of decentralization. What I think may or may not matter," he told the Associated Press. "If a large enough number of people in the community values it because it's cute because they like the meme, then it has value."]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qw8gyv/binance_ceo_to_be_honest_i_dont_get_dogecoin_but/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qw8gyv/binance_ceo_to_be_honest_i_dont_get_dogecoin_but/</guid><pubDate>Thu, 18 Nov 2021 01:44:17 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Bitcoin's Lightning Network Goes Ballistic; Charts A New ATH]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qw0j50/bitcoins_lightning_network_goes_ballistic_charts/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qw0j50/bitcoins_lightning_network_goes_ballistic_charts/</guid><pubDate>Thu, 18 Nov 2021 01:44:17 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[If you are buying the dip, don't go in all at once.]]></title><description><![CDATA[It is extremely unlikely that the market will stop dipping the moment you buy
+in. You should never expect to perfectly time the market, especially if you are
+investing in Crypto. Not only that, you're also not going to have any leverage
+or control once the market dips more.
+
+I started DCAing from…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvwequ/if_you_are_buying_the_dip_dont_go_in_all_at_once/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvwequ/if_you_are_buying_the_dip_dont_go_in_all_at_once/</guid><pubDate>Thu, 18 Nov 2021 01:44:17 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It is extremely unlikely that the market will stop dipping the moment you buy in. You should never expect to perfectly time the market, especially if you are investing in Crypto. Not only that, you&amp;#39;re also not going to have any leverage or control once the market dips more. &lt;/p&gt;
+
+&lt;p&gt;I started DCAing from June-August with little amounts of money, I never went all in with a lump sum at the start. I&amp;#39;m currently +260% up with that strategy. If I went all in, I wouldn&amp;#39;t be up this much. There&amp;#39;s always the risk of the market dipping more when you go in, you should never risk it.&lt;/p&gt;
+
+&lt;p&gt;TLDR: DCA the dip instead of going in all at once. Trust me, it&amp;#39;s going to give you much less anxiety and much more control over the market.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Crypto might be one of the few remaining ways for millennials/GenZ to escape shitty working conditions and enjoy financial freedom]]></title><description><![CDATA[The way I see it, retirement funds are a joke in most countries, increasing
+inflation paired with increasing costs of living(rent, food, transport etc.)
+will wreck our cozy idea of working 40 years and "enjoying the rest".
+
+Of course, the blockchain technology, smart contracts, decentralised…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qw845n/crypto_might_be_one_of_the_few_remaining_ways_for/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qw845n/crypto_might_be_one_of_the_few_remaining_ways_for/</guid><pubDate>Thu, 18 Nov 2021 00:41:59 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The way I see it, retirement funds are a joke in most countries, increasing inflation paired with increasing costs of living(rent, food, transport etc.) will wreck our cozy idea of working 40 years and &amp;quot;enjoying the rest&amp;quot;. &lt;/p&gt;
+
+&lt;p&gt;Of course, the blockchain technology, smart contracts,  decentralised finance etc. are fascinating and hopefully the future, but if anything buying crypto now, represents hope to me. Hope that I bought the right token and that one day I won&amp;#39;t have to carry myself to an underpaid job, that let&amp;#39;s me hustle to provide shelter and basic necessities. 
+If it isn&amp;#39;t great technology, it is a lottery ticket that might set us free one day. &lt;/p&gt;
+
+&lt;p&gt;And to everyone saying you should only invest what you can afford to miss, I&amp;#39;m like 90% invested in Crypto. No regrets! &lt;/p&gt;
+
+&lt;p&gt;Thanks for hearing me out&lt;/p&gt;
+
+&lt;p&gt;Edit: it&amp;#39;s nice to see that I&amp;#39;m not the only one thinking this way or similar. Thank you all for your input to the discussion and holy smokes... thanks for the awards!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Crypto.com - CRO - Mass Adoption]]></title><description><![CDATA[Lets face it - Crypto . com has launched the most aggressive marketing campaign
+in the entire space. FTX probably 2nd place with the Tom Brady endorsement
+especially during football season. The thing that I don't understand is that
+apparently you still cannot use this exchange in the USA? Can…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qw7nq6/cryptocom_cro_mass_adoption/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qw7nq6/cryptocom_cro_mass_adoption/</guid><pubDate>Thu, 18 Nov 2021 00:41:59 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Lets face it - Crypto . com has launched the most aggressive marketing campaign in the entire space.  FTX probably 2nd place with the Tom Brady endorsement especially during football season.  The thing that I don&amp;#39;t understand is that apparently you still cannot use this exchange in the USA?  Can someone fill me in on what is going on with being able to use this exchange in the USA?  I can only speculate that with the amount of money being dropped on marketing the US right now by the CDC team that they are anticipating a release at any time?  &lt;/p&gt;
+
+&lt;p&gt;On another note, I bought CRO on KuCoin in July for like .10 per but it cost me 150 CRO to withdraw off the exchange...ouch..&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[iNfLaTiOn iS TeMpOrArY]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qw8ser/inflation_is_temporary/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qw8ser/inflation_is_temporary/</guid><pubDate>Thu, 18 Nov 2021 00:41:59 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Montesquieu https://t.co/lxm03utDSI]]></title><link>https://crypto.buzzing.cc/tweet/1461115034742964224</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1461115034742964224</guid><pubDate>Wed, 17 Nov 2021 23:40:09 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Am I the only one that checks the charts far less during dips?]]></title><description><![CDATA[I have found that during the bull runs I'm glued to the charts watching my gains
+but as soon as the tide turns I have zero interest and can't bear (pun not
+intended but welcomed) to watch my losses.
+
+From what I have guaged here people seem to either be glued regardless of ups or
+downs or they check…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qw8zss/am_i_the_only_one_that_checks_the_charts_far_less/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qw8zss/am_i_the_only_one_that_checks_the_charts_far_less/</guid><pubDate>Wed, 17 Nov 2021 23:40:03 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have found that during the bull runs I&amp;#39;m glued to the charts watching my gains but as soon as the tide turns I have zero interest and can&amp;#39;t bear (pun not intended but welcomed) to watch my losses. &lt;/p&gt;
+
+&lt;p&gt;From what I have guaged here people seem to either be glued regardless of ups or downs or they check more during bear runs.&lt;/p&gt;
+
+&lt;p&gt;Even during the crabby markets over the summer I checked maybe once a day but once the markets started to take off I was refreshing throughout the day. &lt;/p&gt;
+
+&lt;p&gt;Am I in the minority on this?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Does anyone else find it funny that we’re al just trying to take money out of each other’s pockets?]]></title><description><![CDATA[Let’s face it, when a coin moons and you cash out, that money doesn’t just come
+from nowhere, it’s come from another investor. Same as if you hold a coin which
+is dipping and others are selling, people are literally just taking some of your
+money and putting it in their pockets.
+
+We’re all pretty…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qw9tzo/does_anyone_else_find_it_funny_that_were_al_just/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qw9tzo/does_anyone_else_find_it_funny_that_were_al_just/</guid><pubDate>Wed, 17 Nov 2021 23:40:03 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Let’s face it, when a coin moons and you cash out, that money doesn’t just come from nowhere, it’s come from another investor. Same as if you hold a coin which is dipping and others are selling, people are literally just taking some of your money and putting it in their pockets.&lt;/p&gt;
+
+&lt;p&gt;We’re all pretty chummy with each other in this sub and it’s a great place. But let’s not forget, we’re all competing for a Lambo 😂&lt;/p&gt;
+
+&lt;p&gt;For the record, I’m not complaining… Hell I want to fill my pockets too but you bastards keep taking it all haha.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Bitcoin in El Salvador update]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qvrdam/bitcoin_in_el_salvador_update/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qvrdam/bitcoin_in_el_salvador_update/</guid><pubDate>Wed, 17 Nov 2021 22:35:42 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[FIDELITY APPROVED TO BECOME CANADA’S FIRST INSTITUTIONAL BITCOIN CUSTODIAN]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qw6r6d/fidelity_approved_to_become_canadas_first/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qw6r6d/fidelity_approved_to_become_canadas_first/</guid><pubDate>Wed, 17 Nov 2021 22:35:42 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Is Harmony ONE in your portfolio?]]></title><description><![CDATA[Harmony (ONE) is a decentralized blockchain-based platform, built to solve the
 issues of delivering both scalability and decentralization. It offers tools and
 functionalities for creating, hosting, managing, and using dApps.
 
@@ -742,254 +924,4 @@ Dutch article posted…]]></description><link>https://crypto.buzzing.cc/reddit/r
 &lt;p&gt;NOTE: Repost. Had to buy premium just to be able to post due to too little comment karma.&lt;/p&gt;
 
 &lt;p&gt;EDIT: Formatting&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[If you believed enough to invest in the first place, dips like these shouldn't concern you]]></title><description><![CDATA[I know it's easier said than done, and, really, this sub has been a great source
-of calm this time around - but I'm sure there are many here questioning their
-convictions after seeing red for the first time in a while.
-
-Just think about why you invested money in the first place: presumably…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvhvv8/if_you_believed_enough_to_invest_in_the_first/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvhvv8/if_you_believed_enough_to_invest_in_the_first/</guid><pubDate>Wed, 17 Nov 2021 02:30:52 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I know it&amp;#39;s easier said than done, and, really, this sub has been a great source of calm this time around - but I&amp;#39;m sure there are many here questioning their convictions after seeing red for the first time in a while.&lt;/p&gt;
-
-&lt;p&gt;Just think about why you invested money in the first place: presumably you bought because you were convinced about crypto&amp;#39;s long term success. If you put money into the top projects, whose movements effectively dictate the movements of the rest of the market, why should this dip concern you? Nothing ever keeps going up forever: the only thing that matters is the long term outlook, which is pretty good considering the way we&amp;#39;re driving towards adoption and the level of attention on the market. Crypto isn&amp;#39;t going away any time soon.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[The overwhelming percentage of the users in here are short term investors, so filter everything you read carefully..]]></title><description><![CDATA[Chasing the pump is not bad. I don't judge it at all! You can get enormous
-gains. You will need to be very lucky though. Long term.. That's the real deal.
-And you know why most of the users in here are not in for that?
-
-Because if you are long term, you simply don't care about today's dip..…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvidjf/the_overwhelming_percentage_of_the_users_in_here/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvidjf/the_overwhelming_percentage_of_the_users_in_here/</guid><pubDate>Wed, 17 Nov 2021 02:30:52 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Chasing the pump is not bad. I don&amp;#39;t judge it at all! You can get enormous gains. You will need to be very lucky though. Long term.. That&amp;#39;s the real deal. And you know why most of the users in here are not in for that?&lt;/p&gt;
-
-&lt;p&gt;Because if you are long term, you simply don&amp;#39;t care about today&amp;#39;s dip.. You don&amp;#39;t check the charts every five seconds to look if your coin pumped.. You don&amp;#39;t post about your fear.. You don&amp;#39;t ask about predictions.. You don&amp;#39;t shill stupid coins hoping you will pump the price.. &lt;/p&gt;
-
-&lt;p&gt;Not everyone invests an equal amount of money. Not everyone has the same goals as you. Not everyone&amp;#39;s good or bad is good or bad for you too. Each advice echoes to a different kind of situation.&lt;/p&gt;
-
-&lt;p&gt;So, the advice you get in here is most likely by short term investors! Capture this.. And think if that&amp;#39;s what you need! All i am saying is absorb everything with a filter according to your standards and goals, either short or long term..&lt;/p&gt;
-
-&lt;p&gt;Edit : To be clear, there is absolutely nothing wrong with selling, every situation can be different!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[99% people are buying NFTs only to sell it at higher price, maybe NFTs have great future but for now I see it as a 10 second made pixelated garbage]]></title><description><![CDATA[It is completely unclear to me why some people give so much money for NFTs.
-
-This may be an unpopular opinion but I have to say what I have been thinking for
-a long time.
-
-Maybe NFTs have a great future and huge potential, but right now I see it as
-garbage. Pixelated garbage. 10 second made…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvk4j7/99_people_are_buying_nfts_only_to_sell_it_at/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvk4j7/99_people_are_buying_nfts_only_to_sell_it_at/</guid><pubDate>Wed, 17 Nov 2021 01:53:34 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It is completely unclear to me why some people give so much money for NFTs.&lt;/p&gt;
-
-&lt;p&gt;This may be an unpopular opinion but I have to say what I have been thinking for a long time.&lt;/p&gt;
-
-&lt;p&gt;Maybe NFTs have a great future and huge potential, but right now I see it as garbage. Pixelated garbage. 10 second made pixelated garbage. It is not used for the purpose it was made.&lt;/p&gt;
-
-&lt;p&gt;Almost everyone who buys NFTs buys them for one reason only - to sell them at a higher price. And that is it, nothing else.&lt;/p&gt;
-
-&lt;p&gt;I don’t see their point, nor the point of giving so much money for something that is considered as a digital “art”. Maybe I don’t understand digital art. Maybe it’s just  me, and maybe it’s not. Maybe when the bear market comes most people will be left with their hands full of useless nothingness.&lt;/p&gt;
-
-&lt;p&gt;Artists who don’t have many followers make NFTs of the same quality but fail to hop into the market. The reason is simple, sales, higher earnings and that’s it.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Advice to Bears in 48hrs your going to regret your life choices]]></title><description><![CDATA[As a person who sometimes plays the bear game. This is a trap
-
-I know it looks tempting BTC at a major support; 50 daily MA. With previous
-support the 21 Daily EMA now as possible resistance. But don't!
-
-This is the exact same setup we had in July. The Daily RSI going below 50 and
-the 50 looking…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvda3v/advice_to_bears_in_48hrs_your_going_to_regret/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvda3v/advice_to_bears_in_48hrs_your_going_to_regret/</guid><pubDate>Wed, 17 Nov 2021 01:53:34 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As a person who sometimes plays the bear game. This is a trap &lt;/p&gt;
-
-&lt;p&gt;I know it looks tempting BTC at a major support; 50 daily MA. With previous support the 21 Daily EMA now as possible resistance. But don&amp;#39;t! &lt;/p&gt;
-
-&lt;p&gt;This is the exact same setup we had in July. The Daily RSI going below 50 and the 50 looking like it will break. A classic 50/50 sell signal with a proof down to the Weekly 20 MA at $52,000.00 &lt;/p&gt;
-
-&lt;p&gt;Easy money right? &lt;/p&gt;
-
-&lt;p&gt;Load up a 10x short? &lt;/p&gt;
-
-&lt;p&gt;No it&amp;#39;s not it&amp;#39;s a trap. I see your shorts open on ETH. I see the Put wall on BTC. It&amp;#39;s a repeat of July. You are going to get liquidated and be used as rocket fuel for the King. &lt;/p&gt;
-
-&lt;p&gt;If you are going to do it at least cover with 50% of the base asset so that your ass is protected from the big green candles&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Inflation was never this High in the Last 31-Years, but Printing even more Money is still Acceptable: With no Wage Increases They wonder why many Young People see Crypto as the only way to make enough Money]]></title><description><![CDATA[In the last three decades inflation was never this high
-
-For the fifth straight month inflation has been rising (and this will probably
-not stop until next year) and we were already at close to 7% in october.
-
-With housing shortages and no real wage increases despite massive inflation,
-going into…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvfu28/inflation_was_never_this_high_in_the_last_31years/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvfu28/inflation_was_never_this_high_in_the_last_31years/</guid><pubDate>Wed, 17 Nov 2021 01:53:34 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;In the last three decades inflation was never this high&lt;/p&gt;
-
-&lt;p&gt;For the fifth straight month inflation has been rising (and this will probably not stop until next year) and we were already at close to 7% in october.&lt;/p&gt;
-
-&lt;p&gt;With housing shortages and no real wage increases despite massive inflation, going into Crypto seems to be the only choice for many young people:&lt;/p&gt;
-
-&lt;p&gt;some recommended &amp;quot;safe&amp;quot; investments by experts dont even beat the inflation we currently experience&lt;/p&gt;
-
-&lt;p&gt;And they wonder why so many see Crypto as their only way out of this?&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Ted Cruz seeks repeal of Biden infrastructure bill's crypto broker definition]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvenmy/ted_cruz_seeks_repeal_of_biden_infrastructure/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvenmy/ted_cruz_seeks_repeal_of_biden_infrastructure/</guid><pubDate>Wed, 17 Nov 2021 00:51:37 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Got liquidated and lost $10k]]></title><description><![CDATA[I know you have to take responsibility and deal with it but it feels so shitty I
-can't even explain it. When it happened I thought I was gonna be sick. Still
-can't believe it hours later.
-
-I would hear a lot in crypto communities that everyone gets liquidated in
-futures at one point, I just never…]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qvgecn/got_liquidated_and_lost_10k/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qvgecn/got_liquidated_and_lost_10k/</guid><pubDate>Tue, 16 Nov 2021 23:41:11 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I know you have to take responsibility and deal with it but it feels so shitty I can&amp;#39;t even explain it. When it happened I thought I was gonna be sick. Still can&amp;#39;t believe it hours later.&lt;/p&gt;
-
-&lt;p&gt;I would hear a lot in crypto communities that everyone gets liquidated in futures at one point, I just never though it&amp;#39;d happen to me.&lt;/p&gt;
-
-&lt;p&gt;I only started trading futures a month and a half ago. I basically lost $6.5k that I put in, which is pretty much all the savings I had and the profits that I made along with it. All because I didn&amp;#39;t use stop losses and the positions just kept falling. I also should have never opened more than 10 positions. I had about 14.&lt;/p&gt;
-
-&lt;p&gt;I was doing pretty well too upto this point. Since I am apart of some signals chats I had made decent money trading 20x lev, about $200-$400 per day in profit. I would also exit losing positions quick - but this flash crash caught me off guard. All my positions were losing positions and I didn&amp;#39;t want to realize losses.&lt;/p&gt;
-
-&lt;p&gt;I wanted to share this here, maybe some of you could give me advice about anything at this point, don&amp;#39;t know who to talk to about it. I know I can succeed with futures but I don&amp;#39;t even know where I go from here since I&amp;#39;m unemployed too. Its really taking a toll on my mental.&lt;/p&gt;
-
-&lt;p&gt;Anyway thanks for reading. Any comment would be much appreciated.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[NFTs... Have people lost their minds?]]></title><description><![CDATA[So I'm not new to crypto and Blockchain technology. However I have not been
-paying super close attention to what's been going on. Does anyone have any clue
-why people are paying hundreds, and even thousands, if not hundreds of thousands
-of dollars for stupid little pictures (NFTs)? I understand that…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvgvdu/nfts_have_people_lost_their_minds/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvgvdu/nfts_have_people_lost_their_minds/</guid><pubDate>Tue, 16 Nov 2021 23:41:11 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So I&amp;#39;m not new to crypto and Blockchain technology. However I have not been paying super close attention to what&amp;#39;s been going on. Does anyone have any clue why people are paying hundreds, and even thousands, if not hundreds of thousands of dollars for stupid little pictures (NFTs)? I understand that the pictures are &amp;quot;unique&amp;quot; as non-fungible tokens are well, non-fungible. I spent a few minutes on opensea and I just can&amp;#39;t imagine paying $215 for an 8 bit viking with a stripe shirt. Valuable art usually has some type of historical value to it. I understand why Davinci pieces are expensive. Do people really believe that buying these NFTs means they&amp;#39;re going to hold them and get rich off them later on? Because to me it looks like the only people getting rich are the ones getting away with selling them first off and leaving the bag with the buyers.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Reminder: BTC jumped 61% in only 3 weeks. $100k is in striking distance.]]></title><description><![CDATA[Just in case today's (very healthy) correction is giving you amnesia, let me
-remind you of something:
-
-On September 29th, after a long, slow, nerve-wracking climb out from under $30k,
-the price opened at $41,049.
-
-Twenty one days later, the price closed at $66,128.
-
-I'm rooting for a six-figure…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvg96v/reminder_btc_jumped_61_in_only_3_weeks_100k_is_in/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvg96v/reminder_btc_jumped_61_in_only_3_weeks_100k_is_in/</guid><pubDate>Tue, 16 Nov 2021 23:41:11 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Just in case today&amp;#39;s (very healthy) correction is giving you amnesia, let me remind you of something:&lt;/p&gt;
-
-&lt;p&gt;On September 29th, after a long, slow, nerve-wracking climb out from under $30k, the price opened at $41,049.&lt;/p&gt;
-
-&lt;p&gt;Twenty one days later, the price closed at $66,128.&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;m rooting for a six-figure Bitcoin by end of year (because why not) but even assuming this current correction lasts into January, another 61% move from where we are right now would put Bitcoin at $97,000.&lt;/p&gt;
-
-&lt;p&gt;Let me run that by you again: &lt;strong&gt;just one more big move-- a move the exact same size as the last one-- puts us at the cusp of breaking six figures.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;P.S.: If 60k doesn&amp;#39;t hold this week, this post will probably age like milk, but that&amp;#39;s life on the edge, baby.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Every time I beat my meat I put a 100$ into my Bitcoin savings]]></title><description><![CDATA[Hi
-
-I have had a jerking off addiction for a larger part of my life and it is not
-something I am proud of. I’ve tried everything I can to stop from deleting all
-triggering apps , using internet filters , keeping myself occupied, giving
-myself consequences everytime I fail and so much more but it all…]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qvhlsi/every_time_i_beat_my_meat_i_put_a_100_into_my/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qvhlsi/every_time_i_beat_my_meat_i_put_a_100_into_my/</guid><pubDate>Tue, 16 Nov 2021 22:35:23 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi &lt;/p&gt;
-
-&lt;p&gt;I have had a jerking off addiction for a larger part of my life and it is not something I am proud of. I’ve tried everything I can to stop from deleting all triggering apps , using internet filters , keeping myself occupied, giving myself consequences everytime I fail and so much more but it all seems to fail. &lt;/p&gt;
-
-&lt;p&gt;I came to a realization after achieving post nut clarity that it is most likely an addiction I won’t be able to overcome so the best I can do is manage/make the most of it at least. &lt;/p&gt;
-
-&lt;p&gt;I practice a budgeting system using a money pipeline modeled after &lt;a href=&quot;https://collegeinfogeek.com/budgeting-for-college-students/&quot;&gt;Thomas Frank’s money pipeline&lt;/a&gt; and I decided anytime I beat my meat I will take a 100$ from my entertainment fund and put it into my Bitcoin savings this way even though I fail in managing my addiction I get punished ( paying for beating my meat ) and rewarded ( investing into a long term fund ) at the same time. &lt;/p&gt;
-
-&lt;p&gt;Although this may not be the best way to manage an addiction, it’s the least I can do to make the most out of it anytime I fail. &lt;/p&gt;
-
-&lt;p&gt;Looking forward to hear your thoughts , advice and discussions&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I ran a small experiment: Do people on this sub back up their price predictions? Examples/responses below.]]></title><description><![CDATA[TL;DR: Generally? No. The overwhelming majority of posts and comments - all
-except 1 - did not provide anything substantive. Some made jokes, some told me
-to fuck off, others readily admitted it was hopium. While this is a small sample
-size it was somewhat random. I only pursued this when they…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvcnmw/i_ran_a_small_experiment_do_people_on_this_sub/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvcnmw/i_ran_a_small_experiment_do_people_on_this_sub/</guid><pubDate>Tue, 16 Nov 2021 22:35:23 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;TL;DR: Generally? No. The overwhelming majority of posts and comments - all except 1 - did not provide anything substantive. Some made jokes, some told me to fuck off, others readily admitted it was hopium. While this is a small sample size it was &lt;em&gt;somewhat&lt;/em&gt; random. I only pursued this when they popped up as I browsed the sub, I did not seek them out or request any, but it&amp;#39;s still mostly either from brand new or top posts. &lt;/p&gt;
-
-&lt;p&gt;Anyway here&amp;#39;s the breakdown (all links are np): &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://np.reddit.com/r/CryptoCurrency/comments/ql1do9/comment/hizuydr/?utm_source=share&amp;amp;utm_medium=web2x&amp;amp;context=3&quot;&gt;ETH to $7423 end of November&lt;/a&gt;. &lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;My response: &amp;quot;Based on?&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;OP response: &amp;quot;Yes.&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;Verdict: Hopium.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://np.reddit.com/r/CryptoCurrency/comments/qkngbn/did_people_miss_that_dot_just_hit_a_new_ath/hiyutyx/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&amp;amp;context=3&quot;&gt;I have a good feeling that DOT will hit $100 this year&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;My response: &amp;quot;Based on?&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;OP response: No response.&lt;/p&gt;
-
-&lt;p&gt;Verdict: Hopium&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://np.reddit.com/r/CryptoCurrency/comments/qgzeko/my_coworker_is_convinced_shibainu_will_go_up_to/hi9ifmg/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&amp;amp;context=3&quot;&gt;“Shiba will hit $0.01 USD eventually”&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;My response: “Why”&lt;/p&gt;
-
-&lt;p&gt;Commenter asserting thread OP is correct: Some comments about utility ending in “I don&amp;#39;t have any DD I just know what they&amp;#39;re working on. And if the supply is continuously going down doesn&amp;#39;t it make sense that the price will continuously go up?”&lt;/p&gt;
-
-&lt;p&gt;Verdict: Literally says no DD. Hopium at worst, buzz words about utility at best. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://np.reddit.com/r/CryptoCurrency/comments/ql3rfr/ethereum_hits_new_all_time_high_again_why_isnt/hj0c352/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&amp;amp;context=3&quot;&gt;“Ethereum $10k looks. Pretty easy now.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;My response: “Based on?”&lt;/p&gt;
-
-&lt;p&gt;OP response: “Pure grade A hopium.” &lt;/p&gt;
-
-&lt;p&gt;Verdict: Admire the honesty lol. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://np.reddit.com/r/CryptoCurrency/comments/ql3rfr/ethereum_hits_new_all_time_high_again_why_isnt/hj0c7rz/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&amp;amp;context=3&quot;&gt;Re: Eth “Like that it’s steadily climbing. 5k soon.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;My response: “Based on?” &lt;/p&gt;
-
-&lt;p&gt;OP Response: “Thinking ppl will be putting memecoins profits into btc and eth soon.” Fails to follow up when I asked for more details. &lt;/p&gt;
-
-&lt;p&gt;Verdict: Hopium.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://np.reddit.com/r/CryptoCurrency/comments/ql3rfr/ethereum_hits_new_all_time_high_again_why_isnt/hj0c4nw/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&amp;amp;context=3&quot;&gt;Comment deleted by user after I asked “Why?” on their prediction&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Verdict: shrug?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://np.reddit.com/r/CryptoCurrency/comments/qlqfs7/eth_cofounder_vitalik_buterin_discusses_loopring/hj5iu0e/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&amp;amp;context=3&quot;&gt;[Loopring] easily deserves a spot in the top 50 - which puts my napkin math at 5$ a loopring&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;My response: “Why?”&lt;/p&gt;
-
-&lt;p&gt;OP response: This one is actually substantial and is one of the only examples of someone making a real case. Way too long to post so just check it out.&lt;/p&gt;
-
-&lt;p&gt;Verdict: Some hopium as always, I think a lot of this is “I have the largest bag I think and am really invest in it,” but he actually attempts to make a case. Not enough IMO but a case nonetheless. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://np.reddit.com/r/CryptoCurrency/comments/qltk12/polkadot_dot_celebrates_new_alltime_high_where_to/hj6fjme/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&amp;amp;context=3&quot;&gt;Re: Polkadot: “$150 isn’t a crazy estimate over the next few years. Stake what you have and buckle up!”&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;My response: “How did you get $150?”&lt;/p&gt;
-
-&lt;p&gt;OP response: None provided.&lt;/p&gt;
-
-&lt;p&gt;Verdict: Hopium. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://np.reddit.com/r/CryptoCurrency/comments/qltk12/polkadot_dot_celebrates_new_alltime_high_where_to/hj6fhbj/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&amp;amp;context=3&quot;&gt;“DOT will cement itself as a top 3 project. Mark my words.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;My response: “Why?” &lt;/p&gt;
-
-&lt;p&gt;OP response: None provided.&lt;/p&gt;
-
-&lt;p&gt;Verdit: Hopium.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://np.reddit.com/r/CryptoCurrency/comments/qm403f/the_bull_run_is_about_to_heat_up_selling_late_in/hj8qw2j/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&amp;amp;context=3&quot;&gt;“The bull run is about to heat up...we will see $120k BTC and $10k ETH minimum.&amp;quot;&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;My response: “Based on? Where are these numbers coming from?”&lt;/p&gt;
-
-&lt;p&gt;OP response: None provided.&lt;/p&gt;
-
-&lt;p&gt;Verdict: Hopium. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://np.reddit.com/r/CryptoCurrency/comments/qpcc04/btc_at_66k_and_eth_at_47k_and_this_bull_run_has/hjtabbd/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&amp;amp;context=3&quot;&gt;BTC at 66k and ETH at 4.7k and this bull run has barely started!!!&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;My response: General request for DD, P&amp;amp;L’s, anything at all to show this prediction has legs or that his past ones were correct.&lt;/p&gt;
-
-&lt;p&gt;OP response: None provided.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Verdict: Hopium.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://np.reddit.com/r/CryptoCurrency/comments/qv6aem/either_were_in_for_a_huge_six_weeks_or_all_those/hkuvtlz/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&amp;amp;context=3&quot;&gt;I don&amp;#39;t think bullrun is over yet. This is a healthy correction and we&amp;#39;re going above $100k EOY&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;My response: “Based on?”&lt;/p&gt;
-
-&lt;p&gt;OP Response: None provided.&lt;/p&gt;
-
-&lt;p&gt;Verdict: Hopium. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;So there you have it! I&amp;#39;m done with this for now lol&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[India to Legalize Bitcoin]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qv7rsu/india_to_legalize_bitcoin/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/qv7rsu/india_to_legalize_bitcoin/</guid><pubDate>Tue, 16 Nov 2021 22:35:23 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Moderator of r/buttcoin and r/badeconomics Gets Rekt Betting Against Crypto]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvgtss/moderator_of_rbuttcoin_and_rbadeconomics_gets/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/qvgtss/moderator_of_rbuttcoin_and_rbadeconomics_gets/</guid><pubDate>Tue, 16 Nov 2021 22:35:23 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
