@@ -1,4 +1,203 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 26 Nov 2021 05:44:39 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[An awesome visualization - http://bits.monospace.live]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r261jl/an_awesome_visualization_httpbitsmonospacelive/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r261jl/an_awesome_visualization_httpbitsmonospacelive/</guid><pubDate>Fri, 26 Nov 2021 00:58:05 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[South Park episode last night set in the year 2040 : We only take Bitcoin]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r20w0x/south_park_episode_last_night_set_in_the_year/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r20w0x/south_park_episode_last_night_set_in_the_year/</guid><pubDate>Fri, 26 Nov 2021 00:58:05 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[20 play-to-earn blockchain games that really earn crypto rewards!]]></title><description><![CDATA[My fellow crypto enthusiasts:
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 26 Nov 2021 10:49:53 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[A rigorous comparison between ADA vs. ALGO]]></title><description><![CDATA[This is a very controversial subject, given how: (1) Everyone on this sub loves
+and shills ALGO, and; (2) People either love ADA or hate it on this sub
+depending on market conditions. Therefore, it makes sense to start with a
+disclaimer about me and my goals in making this post.
+
+Disclaimer: I don't…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r2839e/a_rigorous_comparison_between_ada_vs_algo/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r2839e/a_rigorous_comparison_between_ada_vs_algo/</guid><pubDate>Fri, 26 Nov 2021 05:35:56 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;This is a very controversial subject, given how: (1) Everyone on this sub loves and shills ALGO, and; (2) People either love ADA or hate it on this sub depending on market conditions. Therefore, it makes sense to start with a disclaimer about me and my goals in making this post.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; I don&amp;#39;t care about price or market cap whatsoever, b/c I&amp;#39;m more interested in the technical future of this field than short-term moonshots; the only thing I care about are the technical claims made by formal research driven by the blockchains&amp;#39; respective foundations and the tradeoffs therein. I&amp;#39;m gonna be using my background knowledge in theoretical computer science and abstract math (which, of course, does not even &lt;em&gt;begin&lt;/em&gt; to compare to that of Charles or Silvio) to make these comparisons, so I&amp;#39;ll probably have to do a Satoshi and claim that &amp;quot;if you&amp;#39;re not gonna get it, then I don&amp;#39;t have time to explain it to you&amp;quot; (he allegedly said this on the forums in the early days of BTC.) My goal is to determine the most sound way of doing things in this field from a technical and formal mathematical perspective, so stick with me on this if and only if you&amp;#39;re doing it for the tech.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m gonna be comparing the following attributes of each cryptocurrency:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Decentralization&lt;/li&gt;
+&lt;li&gt;Scalability (both current and future outlook)&lt;/li&gt;
+&lt;li&gt;Security guarantees&lt;/li&gt;
+&lt;li&gt;Programmability of smart contracts and other on-chain user-programs&lt;/li&gt;
+&lt;li&gt;Monetary policy&lt;/li&gt;
+&lt;li&gt;Long-term goals and ecosystem culture&lt;/li&gt;
+&lt;li&gt;Current and future use-cases&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Let&amp;#39;s get started!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Decentralization (winner: tie)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;First, we have to qualify how exactly we&amp;#39;re measuring this; pretty much every competitor in this space is using this word in their marketing, but there&amp;#39;s no objective way to compare the respective decentralization of two general blockchains. In the absence of a standard, I&amp;#39;m gonna go with the ones that are most important to me as a long-term investor:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hardware requirements for a full-node (your own copy of the chainstate) and for a stake-pool (handling staking on your own computers without having to go through any third-party)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://news.earn.com/quantifying-decentralization-e39db233c28e&quot;&gt;Balaji Srinivasan&amp;#39;s Nakamoto Coefficient&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Starting with ALGO, we first observe that there are multiple different kinds of nodes; you can either have a non-relay/non-archival node (the bare minimum you need to have your own independent copy of the chainstate), or you can provide features incl. relay and archiving optionally for rewards directly from the Foundation (there&amp;#39;s no &amp;quot;staking&amp;quot; per se, all coins are pre-mined). The requirements to run a participation node (no special services and no rewards) are trivial -- it can be done on a Raspberry Pi -- but the requirements for archival and staking are two vCPU cores and 4GB RAM (roughly $20/mo. in the cloud).&lt;/p&gt;
+
+&lt;p&gt;ADA, on the other hand, requires roughly 8GB (16GB is recommended) of RAM to run a full-node (e.g., with Daedalus). For staking, you need 2 vCPU cores, 8GB of RAM, along with 1GB bandwidth per hour, and about 30GB of disk space to run the database -- all on a public/static IPv4 address. This will probably run you $20-40/mo. on a cloud provider.&lt;/p&gt;
+
+&lt;p&gt;The requirements for the two aren&amp;#39;t all that different -- ADA&amp;#39;s is slightly higher -- but I do want to note that Cardano is focused on lessening the barrier to adoption by relaxing the requirements to be part of the network, e.g., through &lt;a href=&quot;https://iohk.io/en/blog/posts/2021/10/29/mithril-a-stronger-and-lighter-blockchain-for-better-efficiency/&quot;&gt;Mithril&lt;/a&gt;, whereas ALGO qualifies that the requirements might increase over time. With that said, there isn&amp;#39;t enough here to sweat it, as I&amp;#39;m sure ALGO will manage to keep the requirements low over time as well.&lt;/p&gt;
+
+&lt;p&gt;Re. Nakamoto coefficient, you can refer to &lt;a href=&quot;https://adapools.org/groups&quot;&gt;the latest blockchain stats&lt;/a&gt; to see that we have roughly N=25 (higher is better). I&amp;#39;m not sure how to compute the same thing for ALGO from the metrics, but I&amp;#39;ll hazard a guess that it&amp;#39;s around the same. There&amp;#39;s also the caveat that Nakamoto coefficient is expected to double for ADA when the K-parameter is relaxed in due time.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m calling this a tie b/c ALGO seems &lt;em&gt;slightly&lt;/em&gt; more decentralized now, but ADA has a formal mathematical plan to become more decentralized as more stake is introduced.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scalability (winner: ALGO, although it&amp;#39;s close)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s really no competition here if you&amp;#39;re considering TPS on the main-chain today; ALGO has TPS in the thousands, whereas ADA is upper-bounded at 4-6 TPS until the block size increases.&lt;/p&gt;
+
+&lt;p&gt;With that said, ADA does have an entire Basho era dedicated to securely offloading work onto sidechains, and Hydra is in the testing phase, so it&amp;#39;s arguably apples to oranges; as Charles often argues, TPS is an oversimplification of the scalability problem b/c there&amp;#39;s a difference between settlement on sidechains as opposed to on the main-chain (also discounting highly-complex transactions that can happen &amp;quot;for free&amp;quot; per block or even &lt;em&gt;between&lt;/em&gt; blocks).&lt;/p&gt;
+
+&lt;p&gt;I think it suffices to say that ALGO is what is scalable &lt;strong&gt;today&lt;/strong&gt;, whereas ADA has an entirely different approach to the whole scalability problem that we haven&amp;#39;t even seen the beginning of yet. I&amp;#39;m calling this one in favor of ALGO gang, but it&amp;#39;s really close, b/c we haven&amp;#39;t seen anything from Basho yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Security guarantees (winner: tie)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;TBH, both of these chains have pretty much the same cryptographic guarantees; in either case, you need a supermajority of the stake-holders to be honest in order for the chain to work.&lt;/p&gt;
+
+&lt;p&gt;The comparison is really between ALGO&amp;#39;s cryptographic sortition for block production and ADA&amp;#39;s Ouroboros protocol. I&amp;#39;m calling this a tie, b/c this is an &lt;em&gt;incredibly&lt;/em&gt; hard choice; while ALGO uses all kinds of fancy cryptographic primitives like VRFs, ADA has the Ouroboros protocol family, which gets more and more impressive to me with each new release.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;#39;t get me wrong: Ouroboros is impressive to me b/c each generation builds on and strengthens the assumptions of the last to offer guarantees against different attack vectors; this is a DEEP rabbit hole to go down, but a sufficient TL;DR is that the latest generations -- Praos and Chronos -- are the first to formalize a notion of &amp;quot;time&amp;quot; on the blockchain so that attackers can&amp;#39;t use real-time conditions induced by an evolving stakeholder population to exploit the system. With that said, this is all some silicon voodoo that 99% of you don&amp;#39;t actually care about, so I&amp;#39;m not gonna give it to ADA b/c of this.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Programmability (winner: ADA)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The background info here is that ALGO supports smart-contracts using Python or a JavaScript-like language called Reach, whereas ADA has its own Turing-complete programming language for smart contracts through Plutus (built on Haskell). Personally, I&amp;#39;m a huge fan of Haskell, along with other advancements in formal methods of programming language theory that ADA takes advantage of, but I&amp;#39;ll try not to let that bias get to me.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m giving it to ADA b/c, when you write a smart contract, you want as many formal guarantees provided by the system as possible (there&amp;#39;s money on the line, and nobody wants to lose it). ALGO does better in this space than many other chains, having formal verification against things like memory leaks and integer/buffer overflows, but the formal methods supported by Haskell/Plutus in ADA are on a whole other league; you can mathematically &lt;em&gt;prove&lt;/em&gt; that the outcome of a smart contract is going to be one that is explicitly defined by the developer on Plutus, and you can similarly prove complex mathematical theorems using the underlying Haskell-based infrastructure. From the rigorous perspective of a computer scientist and a theoretical mathematician, ALGO provides the basics for you to avoid shooting yourself in the foot, whereas ADA changes the whole smart-contracts game.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Monetary Policy (winner: ADA)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In this respect, ADA is a spiritual successor to Bitcoin, following the fixed-supply and halving cycles, whereas all ALGO is pre-mined and distributed to network participants by the Foundation.&lt;/p&gt;
+
+&lt;p&gt;Personally, I think monetary policy was one of the only things that Bitcoin did right; the point of this whole blockchain space, as it is, evolved from the idea of digital &lt;em&gt;scarcity&lt;/em&gt; in a &lt;em&gt;decentralized&lt;/em&gt; setting; ADA moves that foundation forward, whereas ALGO&amp;#39;s monetary policy is effectively a centralization on the Foundation. I&amp;#39;m not saying this takes away from the decentralization of the chain itself -- otherwise, I&amp;#39;d have brought it up in the &lt;strong&gt;Decentralization&lt;/strong&gt; section -- but I am qualifying that ALGO&amp;#39;s decentralization depends on that of the Algorand Foundation (a legal entity operating as non-profit in either Switzerland or Singapore, I forget which) itself.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Long-term goals and ecosystem culture (winner: tie)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It wouldn&amp;#39;t really be fair of me to give this to one chain or another, as both communities have done great things for the advancement of the space, but I will say that I really appreciate the Cardano/Africa movement for bringing decentralization and security in the economic and legal systems to the people in the world who need it most. Algorand is probably doing something equally impressive on the nation-state side, but it sounds like Algorand is doing some &lt;a href=&quot;https://www.algorand.com/resources/ecosystem-announcements/colombian-government-selects-vitalpass-as-nations-official-digital-vaccination-passport&quot;&gt;equally-impressive things&lt;/a&gt; to advance blockchain-driven solutions in developing nations.&lt;/p&gt;
+
+&lt;p&gt;Both Foundations are clearly very active and involved in the process of bringing blockchain to the third-world, so I can&amp;#39;t ask for much more (at least not when the rest of the market has its money in meme coins).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Current and future use-cases (winner: ADA, but really close)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s a very close comparison b/c they have largely the same goals and a lot of similar technical foundations, but I&amp;#39;m giving it to ADA on the basis of Plutus being built specifically for high-assurance and high-complexity smart-contracts, whereas ALGO seems to be more geared for the average Joe developer. Again, I&amp;#39;m somewhat biased here as a Haskell-enthusiast, but as far as correctness-critical blockchain applications go (e.g., controlling the flight conditions of a plane in real-time on the blockchain,) you don&amp;#39;t care how hard the programming language is to learn as long as you&amp;#39;re sure the output is code that people can trust with pretty much theirs and their loved ones&amp;#39; whole lives.&lt;/p&gt;
+
+&lt;p&gt;Hopefully, it&amp;#39;s clear why I&amp;#39;m claiming that Cardano is a better technical foundation for some things than Algorand is, but the approachability of Algorand development more than makes up for this in the short-term.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion (winner: tie)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;They&amp;#39;re both brilliant projects brought to creation by the most gifted and technically-capable scientists and engineers of our generation; you can&amp;#39;t really go wrong investing in either community and initiative. Personally, I&amp;#39;m a lot more bullish on ADA than this sub is when the price drops, but that&amp;#39;s b/c I see it as a technical foundation of the likes of Algorand that is going to be the backbone of human interaction based on value, identity, and governance, for years to come.&lt;/p&gt;
+
+&lt;p&gt;TL;DR: Any newcomer in this space should take a look at projects like these that expand the sphere of what is possible with the technological primitives rather than defaulting to BTC+ETH for long-term investments and memecoins for short-term speculation.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[New Study: 96% of Americans Don't Understand the Basics of Crypto, Bitcoin, NFTs, or DeFi]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r26l99/new_study_96_of_americans_dont_understand_the/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r26l99/new_study_96_of_americans_dont_understand_the/</guid><pubDate>Fri, 26 Nov 2021 05:35:56 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Why coins such as Banano are very important for newcomers!]]></title><description><![CDATA[Hello!
+
+I'm going to tell you a little story. I first met cryptocurrencies through a
+post on the front page of Reddit a few months ago. It was a Banano giveaway and
+I got 1 Banano.
+
+Thanks to the Banano community I was able to learn about wallets, Dag
+technology, make test transactions and finally…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1sld2/why_coins_such_as_banano_are_very_important_for/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1sld2/why_coins_such_as_banano_are_very_important_for/</guid><pubDate>Fri, 26 Nov 2021 05:35:56 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello! &lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m going to tell you a little story. I first met cryptocurrencies through a post on the front page of Reddit a few months ago. It was a Banano giveaway and I got 1 Banano. &lt;/p&gt;
+
+&lt;p&gt;Thanks to the Banano community I was able to learn about wallets, Dag technology, make test transactions and finally about this subreddit. &lt;/p&gt;
+
+&lt;p&gt;Most members in the Banano community have a tip culture in which they tip people for fun contributions. They have fun events such as poetry contest, drawing contest and other cool stuff. &lt;/p&gt;
+
+&lt;p&gt;But the most striking stuff is that, contrary to some places, they are proud of members selling and taking profits. They try to promote a wholesome culture and if you have friends trying to learn crypto but don&amp;#39;t want to put forward capital, you can really send them there. &lt;/p&gt;
+
+&lt;p&gt;They use the Folding@home as a way to distribute Banano and there are multiple faucets which provide more than decent payouts. &lt;/p&gt;
+
+&lt;p&gt;I think, wholesome spaces in Crypto are very important and I&amp;#39;m glad to have found them because thanks to them I am now part of this subreddit! &lt;/p&gt;
+
+&lt;p&gt;Thanks to them I got 130$ in my portfolio (which I have since sold for BTC) and I have multiple NFTs with small value (between 2 and 30$) &lt;/p&gt;
+
+&lt;p&gt;Do you have projects such as this one which are very beginners friendly and are distributed in a fun and wholesome manner? &lt;/p&gt;
+
+&lt;p&gt;I think Moons are also a good way to get people in Crypto but this sub, due to its very large community, is more about serious info/discussions, than memes and having fun while learning.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[BAT has been rising (+26.8%) , What and Why it is for people that do not know.]]></title><description><![CDATA[BAT stands for Basic Attention Token
+
+They aim to "solve the endemic inefficiencies and privacy violations hobbling
+the digital ad industry."Basically advertisers like Google, who probably know
+more about you than you know about yourself. The targeted ads on every single
+website you go to happens…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r23nhv/bat_has_been_rising_268_what_and_why_it_is_for/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r23nhv/bat_has_been_rising_268_what_and_why_it_is_for/</guid><pubDate>Fri, 26 Nov 2021 04:43:03 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;BAT stands for  Basic Attention Token&lt;/p&gt;
+
+&lt;p&gt;They aim to &amp;quot;solve the endemic inefficiencies and privacy violations hobbling the digital ad industry.&amp;quot;Basically advertisers like Google, who probably know more about you than you know about yourself. The targeted ads on every single website you go to happens behind your back, and you can do little to control your privacy. For example: You go look at a new gaming keyboard or something along that lines. You visit (Brand A), but you leave their website after. 2 minutes later you have multiple ads from (Brand B), (Brand C) and (Brand D). Google knows that you went on (Brand A)&amp;#39;s website to look at a keyboard, and starts forcing other keyboard ads in your face. It&amp;#39;s an invasion of privacy, and as I said, you can do little to control it.&lt;/p&gt;
+
+&lt;p&gt;Why the project has been insanely successful is because of its integration with the Brave Browser, which is also privacy orientated. Brave lets you choose what kind of ads you get, rewarding you partially for viewing ads, and also calculating your attention span. From &lt;a href=&quot;https://brave.com&quot;&gt;brave.com&lt;/a&gt; &amp;quot; You can control every aspect of Brave Ads — from the number of system notifications you’d like to see, to whether or not you want to hide sponsored images. You’ll earn 70% of the ad revenue that we receive from advertisers. In exchange for your attention, you’ll accumulate tokens as you browse. You can contribute these tokens to the sites you love — with more options coming later. &amp;quot;&lt;/p&gt;
+
+&lt;p&gt;Fun Fact, Brave is also built on the Chromium base which browsers like Chrome and Edge are also built on.&lt;/p&gt;
+
+&lt;p&gt;Why I believe BAT is rising:I don&amp;#39;t believe it&amp;#39;s just following the trend, hitchhiking along with other coins, but also because it&amp;#39;s mission is getting the attention of some media and investors. BAT has a purpose, and Brave&amp;#39;s browser is gaining popularity, not just because you can earn some crypto on it, but also because of its built in privacy features. (Think of it like duckduckgo but you can earn a little $) It has long term potential, as intrusive advertising sites, (EX: FACEBOOK) will face lots of laws/regulations about their invasive techniques, more people will become cautious about using the internet, and wanting to stay safe. BAT has short AND long term potential.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;BAT has spiked to $1.33, with a $1,977,737,669 market cap.&lt;/p&gt;
+
+&lt;p&gt;For more information about BAT read &lt;a href=&quot;https://basicattentiontoken.org/&quot;&gt;https://basicattentiontoken.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Brave: &lt;a href=&quot;https://brave.com/&quot;&gt;https://brave.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Thank you for listening to my ted talk.&lt;/p&gt;
+
+&lt;p&gt;(I earn an average of 12-20 bat tokens a month)&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Edit: &lt;strong&gt;YOU CAN WATCH YOUTUBE WITHOUT ADS&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I’m the guy from a few days ago that got scammed for 200k tether.]]></title><description><![CDATA[I’m the guy that got scammed for 200k tether from Twitter. Here are the details:
+
+Scammer: lin_cutekiller Dapp: eth-coin dot info
+
+Transaction hash:
+0xaaf1448c918aed5345fa521cac36e327b22fcccb3437f3cf786ddb211112d7f4
+
+Bounty: all of it is yours unless you have some sympathy and want to kick back
+some…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r2atqi/im_the_guy_from_a_few_days_ago_that_got_scammed/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r2atqi/im_the_guy_from_a_few_days_ago_that_got_scammed/</guid><pubDate>Fri, 26 Nov 2021 04:43:03 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m the guy that got scammed for 200k tether from Twitter. Here are the details:&lt;/p&gt;
+
+&lt;p&gt;Scammer: lin_cutekiller
+Dapp: eth-coin dot info&lt;/p&gt;
+
+&lt;p&gt;Transaction hash: 0xaaf1448c918aed5345fa521cac36e327b22fcccb3437f3cf786ddb211112d7f4&lt;/p&gt;
+
+&lt;p&gt;Bounty: all of it is yours unless you have some sympathy and want to kick back some to me. Have at it&lt;/p&gt;
+
+&lt;p&gt;I’ve definitely learned my lesson. Although it won’t help me personally, I’ve gone ahead and filed with local police station, FBI internet crimes, and the FTC. Not sure what else is left to do other than work hard and starting over again. Thanks to those of you that were supportive during my last post.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[What's the worst thing the US government can do against bitcoin?]]></title><description><![CDATA[Serious, theoretical discussion. I'm not claiming to be an expert on bitcoin,
+but just want to hear some thoughts. Let's say bitcoin is a big threat to the
+dollar's status as a reserve currency, what is the worst case realistic
+scenario? Let's not discuss "US government waltzes into your homes and…]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r25ttq/whats_the_worst_thing_the_us_government_can_do/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r25ttq/whats_the_worst_thing_the_us_government_can_do/</guid><pubDate>Fri, 26 Nov 2021 04:43:03 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Serious, theoretical discussion. I&amp;#39;m not claiming to be an expert on bitcoin, but just want to hear some thoughts. Let&amp;#39;s say bitcoin is a big threat to the dollar&amp;#39;s status as a reserve currency, what is the worst case realistic scenario? Let&amp;#39;s not discuss &amp;quot;US government waltzes into your homes and takes your hardware wallet&amp;quot; because that&amp;#39;s not a realistic scenario. If we reach that point, we have much bigger problems.&lt;/p&gt;
+
+&lt;p&gt;From what I can see, they&amp;#39;ve already done the worst and it&amp;#39;s set capital gains against purchases by bitcoins. No one in the US wants to pay capital gains every time you buy something, most people don&amp;#39;t want to fight the federal government believe it or not. This is fine with me, because it still allows bitcoin to be an asset class.&lt;/p&gt;
+
+&lt;p&gt;With how many billionaires, institutions, giant companies, jobs now revolve around bitcoin and crypto, could anything else harmful really be done? I doubt very much anyone in the US govt would want to rock the boat much at this point when their major donors and friends  are becoming invested.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Crypto.com token (CRO) added $7 billion to its market cap over past week. After spending $700 million on the naming rights to the Staples Center, the Crypto.com exchange token price doubled its value.]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r2559j/cryptocom_token_cro_added_7_billion_to_its_market/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r2559j/cryptocom_token_cro_added_7_billion_to_its_market/</guid><pubDate>Fri, 26 Nov 2021 03:37:50 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Hillary Clinton knows exactly what she's talking about with crypto]]></title><description><![CDATA[I'm sure everyone has seen the clip by now. If you haven't Google it.
+
+USD is the world's reserve currency, china holds over 3T USD alone. USD
+stabilizes local currencies around the globe. If China decides to cash out their
+USD for a cryptocurrency. It would crash the USD, US economy and the US…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r2az4i/hillary_clinton_knows_exactly_what_shes_talking/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r2az4i/hillary_clinton_knows_exactly_what_shes_talking/</guid><pubDate>Fri, 26 Nov 2021 03:37:50 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m sure everyone has seen the clip by now. If you haven&amp;#39;t Google it. &lt;/p&gt;
+
+&lt;p&gt;USD is the world&amp;#39;s reserve currency, china holds over 3T USD alone. USD stabilizes local currencies around the globe. If China decides to cash out their USD for a cryptocurrency. It would crash the USD, US economy and the US would lose it&amp;#39;s world power status. This is a very real threat that in my opinion is inevitable&lt;/p&gt;
+
+&lt;p&gt;If this scares you I would recommend researching the technology behind crypto and buying the best one. Even a small amount of a crypto that will become the world&amp;#39;s new reserve currency will lead to incredible gains. I have my opinion on which crypto I think will succeed but I don&amp;#39;t want to be labeled a shill&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[As a millennial I always used to think that I'll work until I die. But crypto gave me a fighting chance. A tiny little spark that ignites the bonfire at the end of the tunnel.]]></title><description><![CDATA[I'm a dad of two small kids. I have no special skills, I don't have wealthy
+parents, good job, haven't got a single relative who would care enough for me to
+hook me up with a better job or anything, I got no real estate, stocks or
+anything like that. Its my own fault.
+
+I always felt like I missed…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r28x2c/as_a_millennial_i_always_used_to_think_that_ill/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r28x2c/as_a_millennial_i_always_used_to_think_that_ill/</guid><pubDate>Fri, 26 Nov 2021 02:38:45 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m a dad of two small kids. I have no special skills, I don&amp;#39;t have wealthy parents, good job, haven&amp;#39;t got a single relative who would care enough for me to hook me up with a better job or anything, I got no real estate, stocks or anything like that. Its my own fault.&lt;/p&gt;
+
+&lt;p&gt;I always felt like I missed all trains. I have mental health issues because of my ex and I carry a lot of emotional and physical scars that years of bullying in high school brought. Not many know about it as I cover it up pretty good. (Hollywood should pick me up really)&lt;/p&gt;
+
+&lt;p&gt;A mixture of my personality, health and bullying all brought me to the state where I didn&amp;#39;t give my best to get in a better school, uni and later job. I never thought that I&amp;#39;ll be able to afford retirement. Or to take kids for vacations for that matter. That started to change over the time. And the reason for that is crypto. Maybe it sounds cliche but its true.&lt;br/&gt;
+I&amp;#39;m really thankful for everything that cryptoverse brought us, technology, new way of finances, way to fight inflation, fight corruption and so on....BUT the thing I cherish &lt;strong&gt;by far the most&lt;/strong&gt;, is that crypto gave me hope. It ignited the spark and lit up the bonfire at the end of virtually endless tunnel, for me. &lt;/p&gt;
+
+&lt;p&gt;In regards of mental health, for me it feels like a bonus healthpack in DOOM. Frankly it does more to my mental health that all the therapy did so far. &lt;/p&gt;
+
+&lt;p&gt;They say &amp;quot;Dont put your emotions in your investments&amp;quot;, which I agree. But this is so much more than an emotion. It feels like I was battling a boss monster barehanded but with crypto I was given a sword. A chance to fight back even if just a little. To parry the swings that the massive boss that we call life swings at me. That&amp;#39;s all I need to keep going.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[How do large corporations protect their coins? What’s to stop an employee of Tesla say, transferring a billion to their own wallet?]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r22kie/how_do_large_corporations_protect_their_coins/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r22kie/how_do_large_corporations_protect_their_coins/</guid><pubDate>Fri, 26 Nov 2021 02:01:47 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[An awesome visualization - http://bits.monospace.live]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r261jl/an_awesome_visualization_httpbitsmonospacelive/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r261jl/an_awesome_visualization_httpbitsmonospacelive/</guid><pubDate>Fri, 26 Nov 2021 00:58:05 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[South Park episode last night set in the year 2040 : We only take Bitcoin]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r20w0x/south_park_episode_last_night_set_in_the_year/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r20w0x/south_park_episode_last_night_set_in_the_year/</guid><pubDate>Fri, 26 Nov 2021 00:58:05 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[20 play-to-earn blockchain games that really earn crypto rewards!]]></title><description><![CDATA[My fellow crypto enthusiasts:
 
 The following list is one I have compiled after playing Crypto Royale for the
 first time, realizing how big the future of blockchain gaming is going to be.
@@ -967,90 +1166,4 @@ crypto provides. I think it’s very easy to get swept…]]></description><link>
 &lt;p&gt;While the math adds up, you have to consider that in order for a coin to grow the market cap (coin amount outstanding x coin price) has to grow at the same rate. For a lot of these alt coins with hundreds of billions of coins in circulation this is a huge ask. Shiba was a great example of this: a lot of people thought shiba could reach $1 as doge did and plain and simply it could not. Total supply of shiba is 550 trillion coins so you would need a market cap of $550T to reach this price. &lt;/p&gt;
 
 &lt;p&gt;Again, I’m sure none of this is new for most experienced investors here but newbies please take note. I like to look for coins with around $1-5B in market cap and a similarly sized total supply. This gives me a reasonable expectation of growth as well as a basic understanding of my price targets. This simple consideration has served me well on my crypto journey and I hope it can help you too!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Saylor: "Bitcoin Will 100 X From Here" ( $5,000,000 Bitcoin )]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r1hiyo/saylor_bitcoin_will_100_x_from_here_5000000/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r1hiyo/saylor_bitcoin_will_100_x_from_here_5000000/</guid><pubDate>Thu, 25 Nov 2021 04:46:54 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[So. I got hacked today.]]></title><description><![CDATA[EDIT: I was scammed, not hacked, as someone has pointed out.
-
-I got hacked scammed today. It fucking sucks. Here's what happened - hopefully
-others will learn from my dumb ass mistakes.
-
-A week ago I moved some money into a defi protocol. Wonderland. While moving
-things around and connecting my…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1ctpl/so_i_got_hacked_today/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1ctpl/so_i_got_hacked_today/</guid><pubDate>Thu, 25 Nov 2021 04:46:54 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;EDIT: I was scammed, not hacked, as someone has pointed out.&lt;/p&gt;
-
-&lt;p&gt;I got &lt;del&gt;hacked&lt;/del&gt;  scammed today.  It fucking sucks.  Here&amp;#39;s what happened - hopefully others will learn from my dumb ass mistakes.&lt;/p&gt;
-
-&lt;p&gt;A week ago I moved some money into a defi protocol.  Wonderland.  While moving things around and connecting my wallet it seems I was the victim of a phishing scam and I allowed access to my wallet to a site I didn&amp;#39;t recognize.  I was already on a few sites that had connections to my wallet and assumed it was one of them asking for something.  Apparently I clicked yes when my metamask asked for connection to another site.  I had figured it was just one of the others that I was already on... traderjoe, wonderland and abracadabra.  I also connected it to DeBank.&lt;/p&gt;
-
-&lt;p&gt;This morning I found the funds were all gone and transferred to this wallet:&lt;/p&gt;
-
-&lt;p&gt;0x34b58707e43904137ea1f8cd1d554571f650e8c2&lt;/p&gt;
-
-&lt;p&gt;This person has been stealing funds from a lot of people it seems.&lt;/p&gt;
-
-&lt;p&gt;Thankfully I only lost about 5k but it still hurts.  That&amp;#39;s a good chunk of my hard earned money and really all the throw away cash I had for defi experiments.  It was clearly my fault.&lt;/p&gt;
-
-&lt;p&gt;Security wise I do use random generated passwords stored in a bitwarden account.  I have avast and have never had a virus / malware positive hit on my computer.  I had multiple accounts on this metamask wallet but only one was looted leading me to the conclusion they did not have my passwords.  I have since disconnected the wallets to all sites now.  Unfortunately I panicked and disconnected them before I could identify which connection was the phishing attack.  If anyone has info that could help me see what it was connected to when it happened I would be thankful for that.&lt;/p&gt;
-
-&lt;p&gt;I have been aware of hardware wallets for basically forever and am a total fool for not getting and using one.  I&amp;#39;ve ordered a Ledger Nano S to help keep me safe in the future.&lt;/p&gt;
-
-&lt;p&gt;Please, learn this expensive lesson from me and not from your own wallet.  Get a hardware ledger or use multisignature on your wallet.  Keep an eye on all connections and remove them when they are no longer necessary.&lt;/p&gt;
-
-&lt;p&gt;This fucking sucks.  I&amp;#39;m so angry at myself.  This is going to be a terrible thanksgiving.&lt;/p&gt;
-
-&lt;p&gt;Anyway... rant over.  I hope at least someone can learn from this and not have it happen to them.  Any further advice I am happy to hear.&lt;/p&gt;
-
-&lt;p&gt;Good luck out there...&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[The Bitcoin Network Has Handled More Volume Than PayPal in 2021]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r1d9y2/the_bitcoin_network_has_handled_more_volume_than/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r1d9y2/the_bitcoin_network_has_handled_more_volume_than/</guid><pubDate>Thu, 25 Nov 2021 04:46:54 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Have you told your family/friends that you own crypto, or are you keeping it a secret? Why?]]></title><description><![CDATA[So a rule that I see here often posted is to never share the fact that you own
-cryptocurrency, and I sort of disagree with that. Certainly, there are reasons
-why you shouldn't tell everyone that you have cryptocurrency - you expose
-yourself to $5 wrench attacks, plus if anyone actually likes the…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1eb7d/have_you_told_your_familyfriends_that_you_own/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1eb7d/have_you_told_your_familyfriends_that_you_own/</guid><pubDate>Thu, 25 Nov 2021 03:40:26 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So a rule that I see here often posted is to never share the fact that you own cryptocurrency, and I sort of disagree with that. Certainly, there are reasons why you shouldn&amp;#39;t tell everyone that you have cryptocurrency - you expose yourself to $5 wrench attacks, plus if anyone actually likes the idea of crypto and asks you more about it, and then they buy crypto asset, then you are risking that they will lose and blame you. &lt;/p&gt;
-
-&lt;p&gt;On the other side you never know who else might be interested in cryptocurrencies too - perhaps a friend who you&amp;#39;d never think would be into crypto, they actually might be a huge crypto buff - you won&amp;#39;t know unless you ask! So I told my closest friends, but otherwise I don&amp;#39;t really share it publicly&lt;/p&gt;
-
-&lt;p&gt;What&amp;#39;s your approach?&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[The crypto trading hamster that outperformed the S&P 500 has died]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1ep5q/the_crypto_trading_hamster_that_outperformed_the/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1ep5q/the_crypto_trading_hamster_that_outperformed_the/</guid><pubDate>Thu, 25 Nov 2021 03:40:26 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[For those of you who are going to HODL until you die, do you at least use your crypto assets for something useful, such as borrowing against it or lending some out with interest?]]></title><description><![CDATA[I've been buying since 2017 and have mostly HODL'ed, cashing out a couple tiny
-amounts, but putting most of it back. I've been offered the opportunity to
-borrow against it from my exchange but declined. I looked into lending but heard
-borrowers can and do default, and figured borrowers who borrow…]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r171h5/for_those_of_you_who_are_going_to_hodl_until_you/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r171h5/for_those_of_you_who_are_going_to_hodl_until_you/</guid><pubDate>Thu, 25 Nov 2021 02:41:02 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve been buying since 2017 and have mostly HODL&amp;#39;ed, cashing out a couple tiny amounts, but putting most of it back.  I&amp;#39;ve been offered the opportunity to borrow against it from my exchange but declined.  I looked into lending but heard borrowers can and do default, and figured borrowers who borrow bitcoin likely do so because they get turned down from banks, and so I decided to not risk it.  So I mostly just sit on it.&lt;/p&gt;
-
-&lt;p&gt;What do you do?&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Paid my hairdresser a tip in BTC like I sent him Satoshis from my wallet to his. Made me realize the defi economy is really real and here now.]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r0x1uo/paid_my_hairdresser_a_tip_in_btc_like_i_sent_him/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r0x1uo/paid_my_hairdresser_a_tip_in_btc_like_i_sent_him/</guid><pubDate>Thu, 25 Nov 2021 02:04:56 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Bitcoin Will Reach $500K In Five Years As A Result Of Institutional Purchases, Says Cathie Wood]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r1d0c3/bitcoin_will_reach_500k_in_five_years_as_a_result/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r1d0c3/bitcoin_will_reach_500k_in_five_years_as_a_result/</guid><pubDate>Thu, 25 Nov 2021 01:00:26 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[New Moons Distribution (Round 20 Proposal)]]></title><description><![CDATA[Moons are r/CryptoCurrency [/r/CryptoCurrency]'s version of Community Points.
-Community Points [https://reddit.com/community-points] are a way for users to be
-rewarded for their contributions to the subreddit, and they can be used on
-premium features in the community.
-
-Moons are distributed every 4…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1fx2w/new_moons_distribution_round_20_proposal/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1fx2w/new_moons_distribution_round_20_proposal/</guid><pubDate>Thu, 25 Nov 2021 01:00:26 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Moons are &lt;a href=&quot;/r/CryptoCurrency&quot;&gt;r/CryptoCurrency&lt;/a&gt;&amp;#39;s version of Community Points. &lt;a href=&quot;https://reddit.com/community-points&quot;&gt;Community Points&lt;/a&gt; are a way for users to be rewarded for their contributions to the subreddit, and they can be used on premium features in the community.&lt;/p&gt;
-
-&lt;p&gt;Moons are distributed every 4 weeks based on contributions people make to &lt;a href=&quot;/r/CryptoCurrency&quot;&gt;r/CryptoCurrency&lt;/a&gt;. For every distribution, Reddit publishes karma data as a default measure of contribution. The community can review the data and optionally propose an alternative distribution, if they wish.&lt;/p&gt;
-
-&lt;p&gt;This distribution is based on karma earned from 2021-10-27 to 2021-11-23. &lt;a href=&quot;https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_20_proposed.csv&quot;&gt;Here is the data.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;To propose an alternative distribution:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You can create a CSV with alternative contribution scores or propose changes to the algorithm used to calculate them from karma (as long as the changes can be implemented easily).&lt;/li&gt;
-&lt;li&gt;The amount of Moons distributed to a user will be proportional to their contribution score. Contribution scores cannot be negative.&lt;/li&gt;
-&lt;li&gt;Make a poll to have the community vote on your proposal. Include an accurate description of the changes you are proposing.&lt;/li&gt;
-&lt;li&gt;In order to pass, the winning option in the poll must meet the decision threshold (minimum number of Moons in support). If it is in favor of the change, it becomes the official contribution measurement (unless there is evidence of abuse in the vote, such as bribery). Algorithm changes will carry forward to future distributions.&lt;/li&gt;
-&lt;li&gt;In case of multiple competing polls passing, the one with the most Moons cast in favor will be the official one.&lt;/li&gt;
-&lt;li&gt;If no alternative passes, the data provided here will become official.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The contribution scores for this round will be finalized on 2021-12-01. Any poll proposing an alternative needs to be completed by then.&lt;/p&gt;
-
-&lt;p&gt;After the scores are finalized, Reddit will sign the data and publish the final, official data. After that, people with a registered Vault will receive Moons directly into their Vault. Other users will receive their Moons when they create and register a Vault.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Next week the bullrun will continue!! Buckle up!]]></title><description><![CDATA[We're seeing some dips this days, but crypto is just ramping up to its real
-parabolic run.
-
-Now that it stays stable around $57k, starting at next week we will be going to
-see massive price spikes.
-
-If you're not buying now, you will be regretting it. Remember the
-post-El-Salvador dip to $42k?…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1ewk2/next_week_the_bullrun_will_continue_buckle_up/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1ewk2/next_week_the_bullrun_will_continue_buckle_up/</guid><pubDate>Thu, 25 Nov 2021 01:00:26 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;We&amp;#39;re seeing some dips this days, but crypto is just ramping up to its real parabolic run.&lt;/p&gt;
-
-&lt;p&gt;Now that it stays stable around $57k, starting at next week we will be going to see massive price spikes.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;#39;re not buying now, you will be regretting it. Remember the post-El-Salvador dip to $42k? People were fearful and were not buying, now we&amp;#39;re sitting on $57k.&lt;/p&gt;
-
-&lt;p&gt;At end of November, the bullrun will continue. It will be so huge, I cannot exactly say how much we will reach, but all I can say is that new ATHs will be reached at insane prices.&lt;/p&gt;
-
-&lt;p&gt;I wish you all great fortune, luck and super profit!!&lt;/p&gt;
 &lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
