@@ -1,8 +1,398 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 25 Nov 2021 19:57:55 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[CCIP022 - Reducing the double-karma for comments within Comedy posts]]></title><description><![CDATA[This proposal was created by another member who wishes to remain anonymous.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 26 Nov 2021 01:06:45 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[迄今为止，世界上关于加密货币的最重要的法规已经到来。我读完了所有405页的 "欧盟加密资产市场监管提案"，所以你不需要读。以下是我的结论。]]></title><description><![CDATA[我向你介绍，最重要的加密货币监管框架
+迄今为止最重要的加密货币监管框架："欧洲议会和理事会关于加密资产市场法规的建议
+关于加密资产市场的法规建议，以及对第2019/1937号指令的修订"。
 
-Re-posted as you apparently can not schedule Governance polls Comedy posts earn
-10% of Moons compared to other regular posts. They are fun and I enjoy reading
-them, however the comments are very repetitive and you almost…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1uqrc/ccip022_reducing_the_doublekarma_for_comments/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1uqrc/ccip022_reducing_the_doublekarma_for_comments/</guid><pubDate>Thu, 25 Nov 2021 15:38:49 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;This proposal was created by another member who wishes to remain anonymous.&lt;/strong&gt;&lt;/p&gt;
+首先，一些背景。这将是一个很长的帖子，但有时...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r218s7/the_most_important_piece_of_regulation_on/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r218s7/the_most_important_piece_of_regulation_on/</guid><pubDate>Thu, 25 Nov 2021 19:33:37 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;h1&gt;I present to you, the most important regulatory framework for cryptocurrencies so far: &amp;quot;Proposal for a Regulation Of The European Parliament and of The Council on Markets in Crypto-assets, and amending Directive (EU) 2019/1937&amp;quot;.&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;First of all, some context. This will be a long post but sometimes long posts are necessary. Bear with me.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The proposed Regulation, the most important one to date for the entire crypto industry, establishes rules for issuers/offerors of crypto-assets (also known as: the foundations, developers and companies behind coins/tokens) and crypto-asset service providers (also known as: exchanges and custodians).&lt;/p&gt;
+
+&lt;p&gt;These rules will have to be followed by every entity operating in the European Union. However, because of the “&lt;em&gt;Brussels Effect&lt;/em&gt;”, there is a very good chance these rules will become international standards in the end. While everyone is focused on the US and China, the EU is casually leading the way.&lt;/p&gt;
+
+&lt;p&gt;The Council of the European Union (all EU Ministers of Finance or Economics) has just given its permission to start negotiations with the European Parliament (basically: things just got real). If they both approve the proposed Regulation, it will become EU law. I expect the Regulation to be voted through relatively easily with only minor amendments. The final legal text to become official EU law will thus be &lt;em&gt;very similar&lt;/em&gt; to the current proposal I will be discussing in this post.&lt;/p&gt;
+
+&lt;p&gt;The European Union emphasizes that they have an interest in “developing and promoting the uptake of transformative technologies in the financial sector, including distributed ledger technology (DLT)”. They state that this Regulation is meant to: “support innovation and fair competition, while ensuring a high level of protection of retail holders and market integrity in crypto-asset markets, enable crypto-asset service providers to scale up their business on a cross-border basis, and facilitate their access to banking services to run their activities smoothly&amp;quot;. The EU also says that they do not (!) intend to regulate the underlying technology of crypto-assets.&lt;/p&gt;
+
+&lt;p&gt;I will now discuss (1) the rules this Regulation sets out for issuers/offerors of different categories of crypto-assets and (2) the rules set out for exchanges operating in the European Union.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Rules in this Regulation for Issuers/Offerors of Crypto-Assets&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A) Crypto-assets that are unique and not fungible with other crypto-assets: no regulations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;NFTs, including digital art and collectibles are not (!) bound to the rules described in this Regulation, even when these assets are traded in market places and when they have (high) speculative value.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;B)&lt;/strong&gt; &lt;strong&gt;Utility Tokens: no regulations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;‘Utility token’ means a type of crypto-asset which is only intended to provide access to a good or a service supplied by the issuer of that token (EU definition). Utility tokens are not (!) bound to the rules described in this Regulation, as long as the good or service exists or is in operation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;C)&lt;/strong&gt; &lt;strong&gt;Crypto-assets offered for free: no regulations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Crypto-assets where the receiver does not give money, fees, personal data or commissions to the offerors/issuers in return for those crypto-assets, are not (!) bound to bound to the rules described in this Regulation. This may be good news for Moons (there is no active exchange of personal data in return for Moons; even when Reddit collects personal data from all users).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;D) Crypto-assets that are “automatically created as a reward for the maintenance of the DLT or the validation of transactions in the context of a consensus mechanism”: no regulations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;These crypto-assets are not (!) bound to the rules described in this Regulation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;E) E-Money (stablecoins): very strict regulations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;‘Electronic money token’ or ‘e-money token’ means a type of crypto-asset that purports to maintain a stable value by referencing to the value of an official currency of a country (EU definition). These tokens will be strictly regulated. Only recognized credit institutions and ‘electronic money institutions’ are allowed to issue e-money stablecoins. They will have to follow very strict rules (see Regulation Title IV for further details).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;F) Asset-Referenced Tokens (stablecoins): very strict regulations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;‘Asset-referenced token’ means a type of crypto-asset that is not an electronic money token and that purports to maintain a stable value by referencing to any other value or right or a combination thereof, including one or several official currencies of a country (EU definition). This is what Facebook/Meta tried to do with Libra. These tokens will be strictly regulated. Only recognized credit institutions and entities that have been granted permission by the authority of an EU Member State can issue asset-referenced stablecoins in the European Union. They will have to follow very strict rules (see Regulation Title III for further details).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;G)&lt;/strong&gt; &lt;strong&gt;Crypto-assets that do not belong to any of the previously mentioned categories (e.g. payment coins that do not promise a stable value or tokens that cannot be seen as utility tokens): some regulations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;These crypto-assets face some regulation. The Regulation describes very detailed rules on the contents of white papers and also establishes rules on marketing communications. This is bad news for scams with poorly written, undetailed white papers and those using misleading forms of marketing. The European Securities and Markets Authority (ESMA) will most likely establish templates and standards for white papers in the crypto-industry (see Regulation Title II for further details).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Rules in this Regulation for Exchanges and Custodians&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A) Exchanges / custodians (centralized): rather strict regulations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Regulation focuses on establishing strict rules, such as: the obligation to apply for official authorization in an EU Member States; the obligation to act in the best interest of clients; the obligation for capital requirements, safeguards and insurance policies; the obligation to follow organizational requirements; the obligation to protect the crypto-assets and funds of clients; the obligation to hold the crypto-assets of clients in separate accounts than the accounts belonging to the exchange; the obligation to maintain effective and transparent complaint handling procedures; the obligation to identify, disclose and prevent conflicts of interest; the obligation to have resilient trading systems with sufficient capacity to deal with peak order and message volumes; and much more (see Regulation Title V for further details).&lt;/p&gt;
+
+&lt;p&gt;There is, however, a small but concerning statement for privacy coins: “The operating rules of the trading platform for crypto-assets shall prevent the admission to trading of crypto-assets which have inbuilt anonymisation function unless the holders of the crypto-assets and their transaction history can be identified by the crypto-asset service providers that are authorised for the operation of a trading platform for crypto-assets”. What exactly they mean with this and which coins exactly fall under this category still remains to be seen. But I don&amp;#39;t think this comes as a shock for many.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;B) Fully decentralized exchanges and DeFi: no regulations (yet)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Fully decentralized exchanges and DeFi protocols are not (!) bound to the rules described in this Regulation. Exchanges that are only partially decentralized may be bound to some of the rules in this Regulation but this is up for interpretation. The EU will, in the next few years, explore whether or not they will regulate this specific space.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;C)&lt;/strong&gt; &lt;strong&gt;Self-custody software wallets / hardware wallets: no regulations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;These are not (!) bound to the rules described in this Regulation. Remember the huge &amp;quot;EU will ban anonymous wallets&amp;quot; FUD a few months ago? It was all a lie. No rules!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Overall assessment&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I am pleasantly surprised. While some of you want nothing to do with regulation, which I respect, this seems very reasonable and a step in the right direction. This text has clearly been written by highly knowledge civil servants and has been endorsed by EU Ministers of Finance with a more open approach to blockchain and cryptocurrencies than their non-EU counterparts. The EU made the mistake of allowing the US/Asia to dominate the tech industry. They do not want to repeat that mistake with the cryptocurrency space.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR: Cryptocurrency will still be the &amp;#39;Wild West of Finance&amp;#39;; but now there will be a new Sheriff in town. And that Sheriff, is the European Union. It does no longer tolerate unregulated stablecoins; it does no longer tolerate shady projects with no utility, crappy white papers, and misleading marketing; and it sure as hell does no longer tolerate unprofessional exchanges who screw EU citizens out of their money. But it does like innovation and it will try&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;not&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;to hinder development in the cryptocurrency and blockchain space because they have made similar mistakes before in other industries.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Link to follow-up on the Ordinary Legislative Procedure: &lt;a href=&quot;https://eur-lex.europa.eu/legal-content/EN/HIS/?uri=CELEX:52020PC0593&quot;&gt;https://eur-lex.europa.eu/legal-content/EN/HIS/?uri=CELEX:52020PC0593&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Link to the proposed EU Regulation on Markets in Crypto-Assets: &lt;a href=&quot;https://www.consilium.europa.eu/media/53105/st14067-en21.pdf&quot;&gt;https://www.consilium.europa.eu/media/53105/st14067-en21.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Link to the &amp;quot;Brussels Effect&amp;quot;: &lt;a href=&quot;https://en.wikipedia.org/wiki/Brussels_effect&quot;&gt;https://en.wikipedia.org/wiki/Brussels_effect&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Blogs, crypto journalists (you know who you are), etc. are all free to use the info in this post. &lt;strong&gt;No need to credit me&lt;/strong&gt;. I just want people to be informed.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[你知道中本聪为什么选择匿名吗？据称是因为美国政府对待自由美元创造者Bernard von NotHaus的方式。]]></title><description><![CDATA[TLDR：伯纳德-冯-诺特豪斯创造了一种以黄金为支撑的私人货币，并且
+美国政府对他进行了刑事指控。
+
+自由美元是一个私人货币系统，由伯纳德-冯-诺特霍斯于1998年创立。
+诺特霍斯于1998年开始的，他也是夏威夷皇家造币公司的联合创始人，也是 "自由美元 "的创造者。
+自由...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1vf3g/did_you_know_why_satoshi_nakomoto_chose_to_be/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1vf3g/did_you_know_why_satoshi_nakomoto_chose_to_be/</guid><pubDate>Thu, 25 Nov 2021 17:30:52 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;TLDR: Bernard von NotHaus created a private currency that is backed by gold and US government bought criminal charges against him.&lt;/p&gt;
+
+&lt;p&gt;The Liberty Dollar was a private currency system started in 1998 by Bernard von NotHaus, also co-founder of the Royal Hawaiian Mint Company and creator of the Free Marijuana Church of Honolulu. The name of the Indiana based company that produced Liberty Dollars was originally “National Organization for the Repeal of the Federal Reserve and the Internal Revenue Code” (NORFED), but it was later changed to the less inflammatory name, Liberty Services, to reduce negative attention.&lt;/p&gt;
+
+&lt;p&gt;The premise of the Liberty Dollar was that unlike U.S. dollars and many world currencies, each Liberty Dollar was backed by a specific weight in precious metal. $20 Liberty Dollars were set to be one ounce of silver. Unlike most other forms of alternative currencies, each Liberty Dollar carried a U.S. face value, was exchanged for U.S. Dollars, and included not just paper currency but also minted coins. &lt;/p&gt;
+
+&lt;p&gt;By 2007 Liberty Dollar’s attracted the attention of federal government officials. The exact legality of the currency was under debate by many government officials. At first, it was unclear if Liberty Dollars were being passed as counterfeit dollars because their likeness was too similar to the U.S. money, especially in light of the company’s original name. However, Claudia Dickens of the U.S. Treasury Department’s Bureau of Engraving and Printing was quoted as stating that it was not illegal provided that the bills did not say “legal tender”.&lt;/p&gt;
+
+&lt;p&gt;This did not last long though since government officials soon found Liberty Dollars in violation of 18 U.S.C § 486 which forbids private citizens or companies from producing coins made of metal that are used for current money. In late 2007 the FBI launched a raid against the company, seizing the Liberty Dollars, the precious metal stores and computers used to store information. Soon after, the Liberty Dollar bank accounts were frozen and the company’s website was shut down. Legal troubles followed with creator Bernard Von NotHaus being convicted of several crimes related to creating his own coins along with one count of conspiracy. These convictions carry potentially steep penalties, that may also include forfeiture of the Liberty Dollars produced in precious metals. This last issue is still being ironed out in court, with the Liberty Dollars being worth $7 million in precious metal.&lt;/p&gt;
+
+&lt;p&gt;The legal troubles faces by Bernard Von Nothaus is thought to be the reason why Satoshi Nakamoto chose to remain anonymous rather than expose himself to the mercy of the US government given the political situation at that time.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[如果你是吸烟者，请戒烟并开始购买加密货币。]]></title><description><![CDATA[我想不出有什么更糟糕的方式来浪费你辛苦赚来的钱。你不仅是在
+把它们扔进垃圾桶，而且还伤害了你的身体。我知道这是一种
+乐趣，但买烟的钱一天天堆积起来，这些钱你可以投资于加密货币。
+否则你可以投资于加密货币。
+
+在我住的地方，一包...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1wde2/if_you_are_smoker_quit_and_start_buying_crypto/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1wde2/if_you_are_smoker_quit_and_start_buying_crypto/</guid><pubDate>Thu, 25 Nov 2021 17:30:52 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I can&amp;#39;t think of worse way to waste your hard earned money. Not only you are throwing them in the bin but you are harming your body as well. I know it&amp;#39;s a pleasure and fun but the money paid for cigarettes pile up day by day, money which you otherwise can invest in Crypto.&lt;/p&gt;
+
+&lt;p&gt;Where i live a pack of cigs costs around $3 and in most Western countries are much more expensive.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;#39;s assume you smoke a pack per day and put things in perspective for 1 year. $3 x 365 = $1095 &lt;/p&gt;
+
+&lt;p&gt;One of the most expensive places in the world to buy cigarettes is New York with average prices of around $12. This makes $4380 if you smoke a pack per day.&lt;/p&gt;
+
+&lt;p&gt;Each one of you can make the calculation for themselves depending on the price and how much they smoke, but the totals are staggering. Thousands of euro, dollars, pounds which can be invested, staked, borrowed or whatever you can think of, all better than wasting them on this bad habit.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[CCIP-019 - 禁用实时帖子]]></title><description><![CDATA[预案链接
+[https://np.reddit.com/r/CryptoCurrencyMeta/comments/p38rb2/disable_live_posts/]
+
+链接到以前的投票
+[https://np.reddit.com/r/CryptoCurrency/comments/qh2l1z/ccip019_disable_live_posts/]
+
+
+对重新提交的解释。
+
+如果有人觉得要投票，我完全理解...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1nxe4/ccip019_disable_live_posts/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1nxe4/ccip019_disable_live_posts/</guid><pubDate>Thu, 25 Nov 2021 16:59:16 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://np.reddit.com/r/CryptoCurrencyMeta/comments/p38rb2/disable_live_posts/&quot;&gt;Link to pre-proposal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://np.reddit.com/r/CryptoCurrency/comments/qh2l1z/ccip019_disable_live_posts/&quot;&gt;Link to previous poll&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1&gt;Explanation for resubmission:&lt;/h1&gt;
+
+&lt;p&gt;I fully understand if anyone feels they want to vote against it on principle against re-runs. &lt;/p&gt;
+
+&lt;p&gt;This poll was ran last cycle. The moon threshold last time was very high from how many moons voted in the two previous rounds before it. The turn out last round did not keep pace with the threshold growth. There were 9.1M moons that voted to pass this proposal, meaning that in any other round it would have passed. With a low turn out last round, the threshold is lowered this time reflecting that. &lt;/p&gt;
+
+&lt;p&gt;I truly believe that this had an overwhelming amount of community support, and just unlucky timing on when it was posted. Should this proposal fail again with a more reasonable threshold this month, I will not be re-running it in the future. &lt;/p&gt;
+
+&lt;h1&gt;Summary:&lt;/h1&gt;
+
+&lt;p&gt;Through my personal observations here, I have never seen a live post intentionally created and used by a non-mod. They are consistently accidently created, and can&amp;#39;t be converted once made. I propose they be disabled overall to prevent their accidental creation.&lt;/p&gt;
+
+&lt;h1&gt;Problem Statement:&lt;/h1&gt;
+
+&lt;p&gt;I will be the first to admit this is not a crushing, dire issue. However, it is a consistent one. While browsing I will occasionally see live posts being made, and every single time the poster says they made a mistake and can&amp;#39;t change it. These users tend to be newer members of the sub, and this to me doesn&amp;#39;t seem like a good ending for their early experience posting. Live posts do not get the attention other post types receive, which can stifle legitimate questions and conversations from someone trying to get into either the sub or crypto in general.&lt;/p&gt;
+
+&lt;p&gt;Going further, these posts now also will be counted against a users daily posts. Since the posters tend to be newer members, this again seems like a negative experience for newer members of the sub.&lt;/p&gt;
+
+&lt;p&gt;With low user interaction, taking up one of a users three daily posts, and the almost always accidental nature of them, they seem to add nothing of value to this sub as a whole.&lt;/p&gt;
+
+&lt;h1&gt;Solution:&lt;/h1&gt;
+
+&lt;p&gt;Live threads should be disabled. Mods would still be able to create/use them for any planned events or other official posts. This would prevent their accidental creation, and everything associated with that as said in the problem statement&lt;/p&gt;
+
+&lt;h1&gt;Concerns:&lt;/h1&gt;
+
+&lt;p&gt;- Users would not be able to make live posts if they legitimately wanted to&lt;/p&gt;
+
+&lt;p&gt;This is true. I would like to ask how many users have actually ever intentionally made a live post here, and had a positive enough reception to want to create another one? Could it have just been posted in the daily for the same results? The daily is itself basically a live post without officially being one. &lt;a href=&quot;https://np.reddit.com/r/CryptoCurrencyMeta/comments/otdn3x/should_we_try_making_the_daily_a_live_thread/&quot;&gt;This pre-proposal&lt;/a&gt; looked into changing the daily into a live post and was overwhelmingly shot down. No one seems to like live posts despite that actually being a place for one.&lt;/p&gt;
+
+&lt;p&gt;For the what I believe to be very few intentional ones that I have never seen, they are very much outweighed by the accidently created ones.&lt;/p&gt;
+
+&lt;h1&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;Did I write an entire governance poll about a minor issue like this that will probably only impact a newer user once or twice overall?&lt;/p&gt;
+
+&lt;p&gt;Yes.&lt;/p&gt;
+
+&lt;p&gt;If I had accidently done this in one of my first few posts, It would have slightly bothered me. While its not a big issue if there is no reason for this slight annoyance to be possible, why not fix it to give new users the best chance at a positive first interaction with this sub and potentially crypto in general?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/poll/r1nxe4&quot;&gt;View Poll&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[CCIP023 - 新的Flair系统的月亮倍增器]]></title><description><![CDATA[什么是投票？
+
+我们可以使用 "天赋 "系统，给月球以奖励或惩罚，以鼓励
+最好的帖子，让所有的访客都能享受并从中受益。月亮
+奖励应该与花费的精力成正比。
+
+
+怎么做？
+
+我们几位版主最近改变了奖励制度，使其不那么...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1uphn/ccip023_moons_multiplier_for_the_new_flair_system/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1uphn/ccip023_moons_multiplier_for_the_new_flair_system/</guid><pubDate>Thu, 25 Nov 2021 16:59:16 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;h3&gt;What&amp;#39;s the poll?&lt;/h3&gt;
+
+&lt;h4&gt;We can use the Flair system to give Moons bonuses or penalties to encourage the best kind of posts that all visitors to the sub enjoy and benefit from. Moons awarded should be proportional to effort spent.&lt;/h4&gt;
+
+&lt;h3&gt;How?&lt;/h3&gt;
+
+&lt;h4&gt;A few of us Mods recently changed the flair system to be less specific and get rid of some of the older and irrelevant flairs. &lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/lm99v3/change_moon_distribution_for_comedy_posts_and/&quot;&gt;We currently award 10% (x0.1) of moons to Comedy posts and Media posts.&lt;/a&gt; I propose that we choose some sensible &lt;strong&gt;&lt;em&gt;&amp;quot;Moons Multipliers&amp;quot;&lt;/em&gt;&lt;/strong&gt; to all of our flairs.&lt;/h4&gt;
+
+&lt;h3&gt;What&amp;#39;s the benefit?&lt;/h3&gt;
+
+&lt;h4&gt;Some of the best and most helpful posts on this subreddit are when redditors sit down and perform awesome write-ups. I&amp;#39;ve seen tonnes of helpful threads such as a full documentation of the best Liquidity Farming platforms, users that create tools for the community to use, and in-depth, thoughtful debates. I believe we can further incentivize these posts by awarding Multipliers to each flair to curate the content this community provides to what&amp;#39;s beneficial, and not link farming or lazy comedy posts with minor alterations.&lt;/h4&gt;
+
+&lt;h3&gt;What&amp;#39;s the drawback?&lt;/h3&gt;
+
+&lt;h4&gt;A hell of a lot of posts get submitted daily to this subreddit. 4 figures per day sometimes. And as this has the potential to award users more Moons than normal for their posts, you can bet your ass some gaming of the system will go down. Here&amp;#39;s some thoughts I&amp;#39;ve had for you to digest;&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;While users can game the system, we only need to consider the handful of posts that reach the front page. I couldn&amp;#39;t care less if someone awarded their 16 karma post a 1.25x Multiplier flair.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Incorrectly flaired and popular posts are inherently viewable and we already have &amp;quot;incorrect flair&amp;quot; reporting, plus the ability to change flairs.  &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Users can&amp;#39;t change flair after set, so they can&amp;#39;t game posts after they&amp;#39;ve become popular.  &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;This could cause a reduced diversity of posts, but the types of posts that earn bonus moons do require extra effort.  &lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Proposed Multipliers&lt;/h3&gt;
+
+&lt;h4&gt;I&amp;#39;ve posted this a few times in the Meta sub and the current flairs &amp;amp; their proposed multipliers are well accepted. There&amp;#39;s always room for improvement however.&lt;/h4&gt;
+
+&lt;table&gt;&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Flair&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;Example&lt;/th&gt;
+&lt;th&gt;Moons Multiplier&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Analysis&lt;/td&gt;
+&lt;td&gt;For analysis self-posts, trading analysis, profit &amp;amp; loss etc&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/lk2rtw/the_ultimate_guide_to_earning_passive_income_with/&quot;&gt;The ultimate guide to earning passive income with cryptocurrencies&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;1.25x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Debate&lt;/td&gt;
+&lt;td&gt;Comparing &amp;amp; Contrasting different coins or technologies&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/lt2wyz/top_25_cryptocurrencies_3_pros_3_cons/&quot;&gt;Top 25 Cryptocurrencies - 3 Pros, 3 Cons&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;1.25x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Comedy&lt;/td&gt;
+&lt;td&gt;Those &lt;em&gt;hilarious&lt;/em&gt; gotcha self-posts, like the daughters idiot boyfriend&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/lqavxo/to_all_the_newbies_this_has_never_happened_before/&quot;&gt;To all the newbies: This has never happened before, Bitcoin was only meant to go straight up&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;0.1x (no change from current)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Anecdote&lt;/td&gt;
+&lt;td&gt;Self stories, such as &lt;strong&gt;&amp;quot;I sold all to buy my Dad a &amp;#39;how to love your son for dummies&amp;#39; textbook&amp;quot;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/oa9qvt/i_24f_feel_like_a_bad_btch_compared_to_my/&quot;&gt;I (24F) feel like a bad b*tch compared to my boyfriend&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;0.1x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Advice&lt;/td&gt;
+&lt;td&gt;&amp;quot;Take your coins off exchange&amp;quot; &amp;quot;Use 2 Factor Authentication&amp;quot;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pia31k/no_leaving_your_crypto_on_an_exchange_is_not_the/&quot;&gt;No, leaving your crypto on an exchange is not the end of the world and you don&amp;#39;t have to move your $100 woth of crypto to a cold wallet&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;0.5x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tool&lt;/td&gt;
+&lt;td&gt;Users that build tools for the community to use, such as CCMoons website, Exchange-Bots, PnL calculators&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://ccmoons.com/&quot;&gt;ccmoons.com&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;1.5x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Perspective&lt;/td&gt;
+&lt;td&gt;A user&amp;#39;s thoughts, which often prompt discussion but with no analysis&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/qokcpi/you_can_find_a_x100_coin_you_just_cant_hodl_it/&quot;&gt;You CAN find a x100 coin. You just CAN&amp;#39;T hodl it long enough to take x100 profits.&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;0.1x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Questions&lt;/td&gt;
+&lt;td&gt;&amp;quot;Which exchange offers the best withdrawal rates&amp;quot; etc&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/p1mazi/which_is_the_best_choice_concerning_the_visa/&quot;&gt;Which is the best choice concerning the Visa debit card?&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;0.5x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Reminders&lt;/td&gt;
+&lt;td&gt;&amp;quot;Don&amp;#39;t use Robinhood!&amp;quot; &amp;quot;Remember Coinbase Pro has lower fees&amp;quot; etc&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/ou5p6t/reminder_after_robinhood_ipoed_today_move_your/&quot;&gt;Reminder after Robinhood IPOed today. Move your funds out of Robinhood. You don&amp;#39;t own your coins, robinhood does.&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;0.5x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;News&lt;/td&gt;
+&lt;td&gt;Posting links to articles, tweets, websites&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/puqil2/coinbase_ceo_says_he_owns_a_ton_of_bitcoin/&quot;&gt;Coinbase CEO Says He Owns a Ton of Bitcoin, Unveils Outlook on Rise of Altcoins&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;1x (no change)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Updates&lt;/td&gt;
+&lt;td&gt;Simple links should be posted as News, for updates and discussion on what it means, then a self-post with links is ideal&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/osis3a/the_ethereum_upgrade_london_coming_in_9_days_will/&quot;&gt;The Ethereum upgrade &amp;quot;London&amp;quot; coming in 9 days will be a &amp;quot;hard fork&amp;quot; and I found out what that means so you don&amp;#39;t have to.&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;1.1x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Market&lt;/td&gt;
+&lt;td&gt;Posts such as &amp;quot;$X Million shorts were just squeezed&amp;quot; / &amp;quot;We&amp;#39;ve gained $200 Billion in 1 week&amp;quot; etc&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/prpshu/solana_xrp_cardano_lead_losses_as_91_of_all/&quot;&gt;Solana, XRP, Cardano lead losses as 91% of all crypto ‘longs’ liquidated - The market saw a sudden drop this morning leading to 620 millions of dollars in ‘liquidations.’&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;0.9x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Moons&lt;/td&gt;
+&lt;td&gt;As CC&amp;#39;s own Crypto, it should have its own dedicated discussion &amp;amp; flair&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/pdtixb/14255_accounts_in_last_distribution_with_no/&quot;&gt;14,255 Accounts in last distribution with NO REDDIT VAULT&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;1x (no change)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Politics&lt;/td&gt;
+&lt;td&gt;Government adoption, discussion&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/p1txxi/5_out_of_the_6_us_senators_against_crypto_are/&quot;&gt;5 out of the 6 US Senators against Crypto are over 65 years old. Do you really think they know anything about crypto?&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;0.8x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;All other flairs&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Discussion, Exchange etc&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;1x (No change)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;hr/&gt;
+
+&lt;p&gt;So the general idea is, &lt;strong&gt;we want to encourage&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Analysis  &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Debates  &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Updates &amp;amp; Info  &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Tools  &lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;No change for news link posts as that&amp;#39;s Reddit&amp;#39;s bread and butter.  &lt;/p&gt;
+
+&lt;p&gt;And small to large penalisations for &lt;strong&gt;repetitive and low-effort content&lt;/strong&gt;:  &lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Comedy &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Questions &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Reminders &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Advice  &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Politics  &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Market information  &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Perspectives&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You might think it odd to see Reminders or Advice in there, &lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/o4rdv6/im_glad_we_have_an_enclave_of_dedicated_templars/&quot;&gt;but these are heavily abused for some easy moons.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I&amp;#39;m hoping that if implemented, users will be encouraged to curate better analysis and debate posts, so we can all learn new things and become better at investing and using Cryptocurrency, while also discouraging lazy re-hashed comedy threads, repetitive reminders and advice better contained in a &amp;quot;Newcomers&amp;quot; section or similar.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/poll/r1uphn&quot;&gt;View Poll&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Cardano不是去中心化的，没有智能合约，它没有规模，它有中心化的治理，而且它只是一种时尚！我将用这首诗撕毁Cardano。我将用这篇基于事实的帖子来撕毁Cardano!]]></title><description><![CDATA[https://preview.redd.it/4d3zgll06xg71.jpg?width=1080&format=pjpg&auto=webp&s=217266c607a8c8a3b3869df1d7105be207a83bea
+
+经过十多年的发展，已经很清楚，尽管有无数的预测
+人的预测，区块链不会出现赢家通吃的局面。
+相反，少数的...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1xktm/cardano_is_not_decentralized_has_no_smart/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1xktm/cardano_is_not_decentralized_has_no_smart/</guid><pubDate>Thu, 25 Nov 2021 16:59:16 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/4d3zgll06xg71.jpg?width=1080&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=217266c607a8c8a3b3869df1d7105be207a83bea&quot;&gt;https://preview.redd.it/4d3zgll06xg71.jpg?width=1080&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=217266c607a8c8a3b3869df1d7105be207a83bea&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;After over a decade it has become  clear that despite countless predictions people have made, there won’t  be a winner-takes-all situation in blockchain. Rather, a small number of  the most unique and competitive  blockchains will dominate and rise to  the top, likely culminating into a top 3 or 4. This is a very common  trend in numerous markets such as grocery chains, energy,  telecommunications, computers and more, with  blockchains appearing to  follow suit as well.&lt;/p&gt;
+
+&lt;p&gt;Cardano  is a  cryptocurrency project that aims to be the go to platform for smart  contract development in the blockchain space. To achieve this ambitious  goal it tries to solve the following challenges which are major issues  currently:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Scalability&lt;/li&gt;
+&lt;li&gt;Smart contract security&lt;/li&gt;
+&lt;li&gt;Sustainability through a protocol DAO which enables decentralized ecosystem self-funding&lt;/li&gt;
+&lt;li&gt;An environmentally friendly consensus mechanism (Proof of Stake)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cardano   follows a scientific approach where research is performed in  collaboration with multiple universities around the world thereby coming  out with state of the art advances in the field.   This research-based  approach provides Cardano countless benefits over its competitors,  however one of the clear tradeoffs has been it’s  time to market once  the research has been complete.&lt;/p&gt;
+
+&lt;p&gt;Cardano   was the first chain to design and publish a provably secure solution  to Proof of Stake which culminated in the release of the Ouroboros  Protocol paper back in 2017. Since then the core developers have been   hard at work bringing the protocol into reality, with Proof of Stake   officially live and fully implemented on Cardano mainnet today. Users  are able to:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Freely create stakepools&lt;/li&gt;
+&lt;li&gt;Delegate to stakepools in a user friendly manner without losing custody of their funds&lt;/li&gt;
+&lt;li&gt;Receive rewards for block creation / delegation&lt;/li&gt;
+&lt;li&gt;Instantly move their funds at any time (no multi day lock such as in other chains)&lt;/li&gt;
+&lt;li&gt;Mint / Burn tokens (which are considered native rather than built on top of a smart contract standard like ERC-20)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Thus  users have a full fledged PoS system at their disposal which  overcomes  many of the usability pitfalls other PoS chains struggle  with. Besides  solving PoS, Cardano also has a whole host of further  upgrades coming   up  including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Plutus  (Smart contracts = Goguen done in Q3 &amp;#39;21, major dApps (DEXes,  borrow&amp;amp;lending under audits to be deployed soon in Q4/Q1 &amp;#39;22, fun  smart contract for NFT marketplaces for spacebudz and deadpxlz  (pxlz.org) already functional and kicking ass)&lt;/li&gt;
+&lt;li&gt;Hydra (scalability using state channels)&lt;/li&gt;
+&lt;li&gt;Voltaire (On-chain voting)&lt;/li&gt;
+&lt;li&gt;And more farther out in the pipeline&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Since  the launch of Cardano mainnet in 2017, the network has gained a  significant amount of user interest. Cardano currently is one of the top   crypto projects in terms of marketcap (#6 at 50B+ $) and has over 3100  stakepools, making it one of the most decentralized blockchains.&lt;/p&gt;
+
+&lt;p&gt;IOG  (one of the entities behind Cardano) has closed multiple partnerships  with governments around the  world;   The Ethiopian partnership  will   bring  5 million students across 3,500 schools to Cardano by  providing    decentralized IDs and the storage of educational records (&lt;a href=&quot;https://www.coindesk.com/from-paper-to-cardano-blockchain-iohk-in-ethiopia&quot;&gt;https://www.coindesk.com/from-paper-to-cardano-blockchain-iohk-in-ethiopia&lt;/a&gt;). Partnerships like this are a staple of the Cardano ecosystem, and signal a strong future for Cardano globally.&lt;/p&gt;
+
+&lt;p&gt;When  looking at competitors, there are constant debates around Proof of Work   (PoW) vs Proof of Stake(PoS), yet rarely is any focus put on the   top  of  UTXO-model vs Account-based model which are at the foundation of    every  blockchain ledger. In many ways the latter topic is more    important than  the former for a smart contract platform, because it    dictates the  long-term viability of everything from scaling, security,    to formal  verification. A useful analogy to understand the difference    is to  imagine that a UTXO behaves the same way as dollar bills work,   wherein  you will receive change back because you over pay with an    indivisible  bill. In the Account-based model on the other hand, you    always transfer  the exact amount the same way that you do with bank    transfers. The  latter may seem more efficient by default, however it    has numerous  unexpected consequences which make a significant    difference.&lt;/p&gt;
+
+&lt;p&gt;The  Account-based  model is used by the majority of current smart contract  platforms,  primarily due to the fact that it is simpler  to comprehend  when  designing and launching the smart contract layer of  the blockchain as  it exposes global state to every contract at any time.  As any   programmer knows, global state is dangerous and severely limits  the    ability of programs to parallelize/scale, and this similarly maps  onto   the blockchain context as well.&lt;/p&gt;
+
+&lt;p&gt;This   global-access paradigm of the Account-based is going to be severely   limited with the introduction of sharding  where each shard will be  distinct and separate from one another,  meaning  much  of the original  benefits will be swept away in pursuit of  building  a  system that  actually scales. This means that the way that  protocols  are  designed  will begin moving towards how the UTXO-model  works, yet   carrying  along all of the previous baggage from choosing  Account-based   in the  first place.&lt;/p&gt;
+
+&lt;p&gt;Lastly, what  sets  Cardano apart is its self-sustainable mechanism for supporting   ecosystem growth: a decentralized DAO called Catalyst. This  DAO allows  community projects to be funded by a decentralized treasury (over 1B $  right now for funding) which is  managed by the users of the network.  Each ADA a user holds counts as a  single vote, meaning that the users  of the system decide  the  future  development of the ecosystem. This  brings the incentives in  alignment  and as such is one of the first  successful self-funding  mechanisms on a  large L1 blockchain.&lt;/p&gt;
+
+&lt;p&gt;Sources:  &lt;a href=&quot;https://medium.com/dcspark/why-cardano-f9c9a0db9d01&quot;&gt;https://medium.com/dcspark/why-cardano-f9c9a0db9d01&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;TL;DR: turns out this is not &amp;quot;shit on ADA&amp;quot; post... My bad! I&amp;#39;ll try to FUD better next time! I promise!&lt;/p&gt;
+
+&lt;p&gt;Also remember kids, Ethereum had nothing to show for until 2018, that&amp;#39;s about 2-3 years since its launch: see &lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/r1xgwo/welcome_to_q4_of_2017_its_been_over_2_years_and/&quot;&gt;https://np.reddit.com/r/CryptoCurrency/comments/r1xgwo/welcome_to_q4_of_2017_its_been_over_2_years_and/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[初学者所犯的最大错误之一是只关注短期，并期望每天都能获利，没有任何回撤。]]></title><description><![CDATA[有很多初学者在投资一两个星期后就卖掉了，只是因为他们有几个红日。
+因为他们有几个红色的日子，并决定放弃加密货币作为一个整体。
+整体。特别是在市场的这个时候，现在卖出的人几乎肯定会后悔，因为我们甚至还没有接近一个新的市场。
+几乎肯定会后悔，因为我们甚至没有接近熊市......]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1wgcg/one_of_the_biggest_mistakes_the_beginners_make_is/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1wgcg/one_of_the_biggest_mistakes_the_beginners_make_is/</guid><pubDate>Thu, 25 Nov 2021 16:59:16 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;There are so many beginners who sell after a week or two of investing just because they had a few red days and just decided to give up on Crypto as a whole. Especially at this time in the market, people who are selling now will almost certainly regret it as we aren&amp;#39;t even close to a bear market.&lt;/p&gt;
+
+&lt;p&gt;You should always look at the bigger picture. Crypto, in its 12 year history has always recovered every crash no matter how big or small. You should never doubt your investment just because you had a bad day. Patience always rewards you in Crypto. This is exactly why long term Crypto investors hold through massive crashes no matter how  big.&lt;/p&gt;
+
+&lt;p&gt;TLDR: There will always be red days, but those days don&amp;#39;t matter at all in the long term&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[CCIP022 - 减少喜剧帖子内的评论的双重因果关系]]></title><description><![CDATA[该提案是由另一位不愿透露姓名的会员创建的。
+
+重新发布，因为你显然不能安排治理民意调查，喜剧帖子赚取
+与其他常规帖子相比，获得10%的月票。他们很有趣，我喜欢读他们。
+然而，评论是非常重复的，你几乎...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1uqrc/ccip022_reducing_the_doublekarma_for_comments/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1uqrc/ccip022_reducing_the_doublekarma_for_comments/</guid><pubDate>Thu, 25 Nov 2021 15:38:49 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;This proposal was created by another member who wishes to remain anonymous.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Re-posted as you apparently can not schedule Governance polls&lt;/strong&gt;
 Comedy posts earn 10% of Moons compared to other regular posts. They are fun and I enjoy reading them, however the comments are very repetitive and you almost know what the top few comments will say before you even read them.&lt;/p&gt;
@@ -10,14 +400,14 @@ Comedy posts earn 10% of Moons compared to other regular posts. They are fun and
 &lt;p&gt;This proposal will reduce contribution point multiplier on comments within comedy threads back to 1x instead of the 2x that was enacted in &lt;a href=&quot;https://www.reddit.com/r/CryptoCurrency/comments/k12wnd/moon_proposal_double_comment_karma/&quot;&gt;CCIP-001&lt;/a&gt;, which should help alleviate the constant repetition of the same responses to jokes. &lt;strong&gt;It will only affect threads flaired as &amp;quot;comedy&amp;quot;.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.reddit.com/poll/r1uqrc&quot;&gt;View Poll&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[How is your Mental Health?]]></title><description><![CDATA[Let's face it. Crypto can be stressful.
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[你的心理健康状况如何？]]></title><description><![CDATA[让我们面对现实吧。Crypto可能是有压力的。
 
-Your health is your true wealth. As a community, it is good to talk about how
-Crypto has affected our mental wellbeing.
+你的健康是你真正的财富。作为一个社区，谈论以下问题是很好的
+Crypto是如何影响我们的精神健康的。
 
-Please feel free to talk about anything that's been on your mind.
+请随意谈论你心中的任何事情。
 
-E.g: • Have you overextended your finances? • Has excessive checking of…]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1t91t/how_is_your_mental_health/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1t91t/how_is_your_mental_health/</guid><pubDate>Thu, 25 Nov 2021 15:38:49 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Let&amp;#39;s face it. Crypto can be stressful.&lt;/p&gt;
+例如。- 你是否过度扩张了你的财务状况？- 是否有过度检查...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1t91t/how_is_your_mental_health/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r1t91t/how_is_your_mental_health/</guid><pubDate>Thu, 25 Nov 2021 15:38:49 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Let&amp;#39;s face it. Crypto can be stressful.&lt;/p&gt;
 
 &lt;p&gt;Your health is your true wealth. As a community, it is good to talk about how Crypto has affected our mental wellbeing.&lt;/p&gt;
 
@@ -31,7 +421,7 @@ E.g: • Have you overextended your finances? • Has excessive checking of…]]
 • Has crypto had a positive effect on you?&lt;/p&gt;
 
 &lt;p&gt;I would love to hear how you all are coping, and learn some strategies to maintain good mental health in crypto.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[The future is bright, the future is Bitcoin]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r1v8bs/the_future_is_bright_the_future_is_bitcoin/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r1v8bs/the_future_is_bright_the_future_is_bitcoin/</guid><pubDate>Thu, 25 Nov 2021 15:38:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[地板模型9.8万美元的11月收盘价将可能是第一次失误（在8月、9月、10月的钉子之后）。S2F模型没有受到影响，而且确实在向10万美元迈进。https://t.co/QO3bRUoGo3]]></title><link>https://crypto.buzzing.cc/tweet/1463849685924388866</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1463849685924388866</guid><pubDate>Thu, 25 Nov 2021 12:52:34 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[作为一个来自拉丁美洲的21岁的工人，在我学习期间，加密货币改变了我的生活和我的财务。]]></title><description><![CDATA[在我学习的时候，我已经工作并搬到了我父母家，这样我就可以节省更多的钱。
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[未来是光明的，未来是比特币的。]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r1v8bs/the_future_is_bright_the_future_is_bitcoin/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r1v8bs/the_future_is_bright_the_future_is_bitcoin/</guid><pubDate>Thu, 25 Nov 2021 15:38:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[地板模型9.8万美元的11月收盘价将可能是第一次失误（在8月、9月、10月的钉子之后）。S2F模型没有受到影响，而且确实在向10万美元迈进。https://t.co/QO3bRUoGo3]]></title><link>https://crypto.buzzing.cc/tweet/1463849685924388866</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1463849685924388866</guid><pubDate>Thu, 25 Nov 2021 12:52:34 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[作为一个来自拉丁美洲的21岁的工人，在我学习期间，加密货币改变了我的生活和我的财务。]]></title><description><![CDATA[在我学习的时候，我已经工作并搬到了我父母家，这样我就可以节省更多的钱。
 
 我每小时赚5美元，所以我并没有真正赚到多少钱。
 自从大流行病开始，我就拼命工作，加班加点，尽可能多地挣钱。
@@ -637,137 +1027,4 @@ TheDeFi project with the biggest reputation at this point, SundaeSwap, will most
 &lt;p&gt;When in doubt, please remember that Bitcoin has great potential to promote green energy through making waste energy from e.g. solar usable and thus promoting the build up of green infrastructure. Bitcoin is good for our path to reduce CO2 emissions (and already consumes mostly green energy). No need even into comparing it to e.g. Christmas lights, who consume roughly the same energy or vs. the banking sector or virtually (almost) any other established industry consuming more.&lt;/p&gt;
 
 &lt;p&gt;Valuable source here: &lt;a href=&quot;https://assets.ctfassets.net/2d5q1td6cyxq/5mRjc9X5LTXFFihIlTt7QK/e7bcba47217b60423a01a357e036105e/BCEI_White_Paper.pdf&quot;&gt;https://assets.ctfassets.net/2d5q1td6cyxq/5mRjc9X5LTXFFihIlTt7QK/e7bcba47217b60423a01a357e036105e/BCEI_White_Paper.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[整个 "加密货币挖矿对环境有害 "只是政府众多巨大的气化技术之一，它指责普通人对环境有害，而不是指责大型企业和他们的工厂。]]></title><description><![CDATA[你总是听到公司和媒体如何居高临下地说教
-关于我们应该如何改变我们的生活方式，以便更环保
-而他们却继续从他们的工厂和制造厂喷出有毒的废料。
-制造厂的有毒废料。更加虚伪的是，所有的人都在为自己的行为负责。]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r18gnb/the_whole_cryptocurrency_mining_is_bad_for_the/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r18gnb/the_whole_cryptocurrency_mining_is_bad_for_the/</guid><pubDate>Wed, 24 Nov 2021 18:30:44 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;You always here about how corporations and the media condescendingly lecture about how we&amp;#39;re supposed to change our lifestyles in order to be greener all while they continue to spew toxic waste materials from their factories and manufacturing plants. What adds to the hypocrisy is that all these &amp;quot;environmentally progressive&amp;quot; leaders use their private jets to go to environment summits to barely pay attention to what&amp;#39;s going on. Also, add to that the active fear-mongering towards nuclear energy, one of the greenest energy sources known to man, and twisting it into a nuclear apocalypse ticking time bomb.&lt;/p&gt;
-
-&lt;p&gt;But let&amp;#39;s talk about mining, how it&amp;#39;s detrimental to the environment. No, I&amp;#39;m not talking about cryptocurrency mining, I&amp;#39;m talking about coal mining, which, long before the birth of Cryptocurrency, has been the black stain of the environment and contributed to climate change before crypto mining even existed. What&amp;#39;s worse is that these mining companies use cheap labor in third world countries to mine for coal, which is one of the most dangerous and health hazardous jobs in the world, all for the sake of being as profitable as possible.&lt;/p&gt;
-
-&lt;p&gt;All this is happening, yet these pretentious fucks want to lecture us cryptocurrency miners about how we&amp;#39;re a bane to the environment? FUCK off. It wasn&amp;#39;t my fault that oil and natural gas was used as the main power source of nations years before I was born. Countries had to literally invade and destroy nations and other peoples&amp;#39; lives for oil, yet the same politicians want to point their fingers on miners.&lt;/p&gt;
-
-&lt;p&gt;You fucks wanna talk about the environment? Change your main power sources to green energy, and then we&amp;#39;ll talk. But for now, I&amp;#39;m just gonna sit back and mute your voices over the sound of my 80 decibel miner.&lt;/p&gt;
-
-&lt;p&gt;Edit: Removed a word&lt;/p&gt;
-
-&lt;p&gt;Edit 2: I&amp;#39;m seeing numerous replies about Whataboutism. Your very own homes, with your plugged in electronics and appliances, are consuming a lot of energy (even when these electronics and appliances are not in use). These glamorous Christmas lights that people put up from November until Valentine&amp;#39;s day, huge energy consumers. Main point is that as long as nations are using energy sources that generate pollution and greenhouse gases, every single necessity that we use (lights, cars, houses, computers) will negatively impact the environment.
-In addition to that, and this specifically applies to Americans, I keep hearing about HOAs that prohibit homeowners from installing solar roof panels on their homes just because they look ugly or ruin the aesthetics, and add to that people not liking wind turbines because they either look hideous or kill birds, or nuclear energy because people think that another Chernobyl is bound to happen. As long as this mentality is prevalent, expect nothing to change.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[CRO与鱿鱼币或其他在这里兜售的狗屎币不一样。]]></title><description><![CDATA[因此，现在我们有一吨的CRO假货。进入所有已经错过的人。
-不知道他们为什么这么反对。
-
-这不是一个被马斯克抽走的便便币或备忘录币。它是一个附属于
-它是附属于一个大型交易所的硬币，该交易所最近刚刚获得了斯台普斯中心的命名权。
-中心(One of the...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r18c7k/cro_is_not_the_same_as_squid_coin_or_any_other/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r18c7k/cro_is_not_the_same_as_squid_coin_or_any_other/</guid><pubDate>Wed, 24 Nov 2021 17:30:37 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So now we have a ton of CRO shilling. Enter all the people who have missed out. Not sure why they are so against it. &lt;/p&gt;
-
-&lt;p&gt;This is not a poo coin or meme coin being pumped by Musk. It’s a coin attached to a large exchange that just recently acquired the naming rights to the Staples Center (One of the most famous stadiums). &lt;/p&gt;
-
-&lt;p&gt;Again. CRO is not a shit coin. It’s not a meme coin. So we have a legit coin with great growing potential that now ppl are being turned off by all the shilling?&lt;/p&gt;
-
-&lt;p&gt;If you jumped into shit coins then this is a no brainer. Marketing is KEY.&lt;/p&gt;
-
-&lt;p&gt;Marketing made ppl jump into lots of pointless projects. Here we have a legit exchange with a legit token. &lt;/p&gt;
-
-&lt;p&gt;The only thing bringing down CRO will be Crypto dot com being shut down. Just with the new stadium and Matt Damon ? I highly doubt it. &lt;/p&gt;
-
-&lt;p&gt;Thoughts?&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[有没有人注意到最近Cardano ADA的帖子有些奇怪？]]></title><description><![CDATA[Cardano今天在bitstamp上推出（大约一个小时后）。另外，小型
-交易所etoro决定停止托管ADA。
-
-昨天和昨天晚上，整个Reddit的帖子都在散布关于
-etoro取消ADA的上市，价格也在下跌。
-
-大量的ADA etoro FUD帖子是...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r161q5/anyone_notice_something_strange_about_the_cardano/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r161q5/anyone_notice_something_strange_about_the_cardano/</guid><pubDate>Wed, 24 Nov 2021 17:01:02 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Cardano is launching today on bitstamp (in about an hour). Also, the small exchange etoro decided to stop hosting ADA.&lt;/p&gt;
-
-&lt;p&gt;All yesterday and last night posts all over Reddit were spreading FUD about the etoro delisting of ADA and the price was falling. &lt;/p&gt;
-
-&lt;p&gt;A large amount of the ADA etoro FUD posts were made by users with new accounts. After a while, regular users started to repost the FUD so not all the posts are questionable.&lt;/p&gt;
-
-&lt;p&gt;Could folks be spamming FUD about ADA hoping the price drops more before it jumps back up today when it launches on bitstamp?&lt;/p&gt;
-
-&lt;p&gt;Check out the user accounts on the new ADA posts about FUD, let’s make sure we aren’t allowing trolls to manipulate anything!&lt;/p&gt;
-
-&lt;p&gt;Just a heads up, I already saw a couple Cardano FUD posts spreading false and speculative information, which I commented on and corrected… the posts and accounts were deleted soon after… saw a few other questionable FUD posts too&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我是如何几乎失去我所有的积蓄。]]></title><description><![CDATA[我要澄清的是，我来自一个糟糕的第三世界国家（对我的英语感到抱歉）。
-英语），我把我所有的储蓄都放在BTC的加密货币中。我有整整1个BTC
-(欢迎来到我的DM，诈骗者）。这对我来说是一大笔钱，我的工资是
-720美元/月。
-
-我一直认为我是相当精通技术的，而且...]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r109ky/how_i_almost_lost_all_my_savings/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r109ky/how_i_almost_lost_all_my_savings/</guid><pubDate>Wed, 24 Nov 2021 17:01:02 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I will clarify that I am from a shithole third world country (sorry for my English) and I keep all my savings in cryptocurrency in BTC. I had 1 whole BTC (welcome to my DM, scammers). This is a lot of money for me, with my salary of $720/month.&lt;/p&gt;
-
-&lt;p&gt;I have always believed that I am quite tech-savvy and have computer skills above the regular user. I was especially interested in security. I loved to climb in the settings, turn on all the security options EVERYWHERE, on the PC and phone - in all programs and applications.&lt;/p&gt;
-
-&lt;p&gt;My computer was no exception, which at first was my working PC and then migrated to the basement, got a couple of cards and began to mine ETH.&lt;/p&gt;
-
-&lt;p&gt;It all started that I downloaded a new version of the miner from a phishing site that was in the top in Google at my request.&lt;/p&gt;
-
-&lt;p&gt;The miner mined as it should, but on the first launch, he injected an exploit into my PC (Windows 10) that gave an attacker access to Googgle Remote Desktop. And this is access to everything. This alone gave the hacker access to my entire electronic life. My Google account, passwords in Chrome. I EVEN MADE A QR RECOVERY SCREENSHOT OF Google Autenteficator AND IT SYNCHRONIZED WITH Google Photos.&lt;/p&gt;
-
-&lt;p&gt;At 1 am I received two e-mails about the successful entry into my accounts in Binance and another local exchange in my country. But I have zeros in my accounts.&lt;/p&gt;
-
-&lt;p&gt;My bitcoin was on my electrum, which was installed on the same PC. The only thing that saved me was that I put a password on my seed. BUT THIS PASSWORD WAS AMONG THE SAVED ON GOOGLE CHROME.&lt;/p&gt;
-
-&lt;p&gt;An elementary substitution of each password from Chrome into electrum would give access to all my funds sooner or later.&lt;/p&gt;
-
-&lt;p&gt;I must say that I did not immediately understand what was the matter. I reinstalled Windows but ran the same miner again, and everything was repeated. The problem was that the memory was clogged and I was losing the hashrate and I was looking for a problem in this.&lt;/p&gt;
-
-&lt;p&gt;Once again, when I was sitting at the computer, I saw a standard notification by Chrome Remote YOUR COMPUTER IS CONTROLLED by [&lt;a href=&quot;mailto:username@gmail.com&quot;&gt;username@gmail.com&lt;/a&gt;](mailto:&lt;a href=&quot;mailto:username@gmail.com&quot;&gt;username@gmail.com&lt;/a&gt;) (this was my personal account). I understood everything. I instantly transferred all my money via phone to another address in Samourai Wallet.&lt;/p&gt;
-
-&lt;p&gt;And the next day I was already unpacking my new Trezor.&lt;/p&gt;
-
-&lt;p&gt;I must say that I was quite negative about hardware wallets, thinking that I had enough skills to secure myself on my PC or phone.&lt;/p&gt;
-
-&lt;p&gt;Now I advise everyone to have a hardware wallet.&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;TL; TR: Hackers managed to hack me but failed to steal my bitcoins.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[已经超过11周了，仍然没有Cardano dapps。]]></title><description><![CDATA[自从11周前我第一次发帖提出对
-即将到来的 "Cardano上的dapps"，一直没有这方面的消息。
-
-我不仅在PM中受到个人侮辱，被绝大多数Cardano持有者称为FUDer和骗子。
-我不仅在PM中受到侮辱，被绝大多数的Cardano持有者称为FUDER和骗子，而且还被告知Cardano的dapps将...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r16ywl/its_been_over_11_weeks_and_there_are_still_no/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r16ywl/its_been_over_11_weeks_and_there_are_still_no/</guid><pubDate>Wed, 24 Nov 2021 17:01:02 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Since my first post that was almost 11 weeks ago raising concerns about the “upcoming” dapps on Cardano, there have been no news on this.&lt;/p&gt;
-
-&lt;p&gt;I was not only personally insulted in PMs, called a FUDer and an liar by the vast majority of Cardano holders, but was also told that Cardano dapps would be running 1 week after Alonzo Fork and dexes like Sudaeswap and ERGO would be fully functional any “moment” after the Alonzo Fork.&lt;/p&gt;
-
-&lt;p&gt;So, are there any news about that?? Did the concurrency problem get resolved? If yes, why are there no functioning dexes on Cardano yet? Can someone from the Cardano community enlighten us please?&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[CoinbaseOne正在测试]]></title><description><![CDATA[我刚刚收到了注册CoinbaseOne的邀请，这是一项每月一次的
-订阅服务。它是29.99美元/月。如果你注册了，你将取消所有的
-交易费用，给你一个专门的支持热线，并提供高达100万美元的
-美元的资产保护，以防你被黑客攻击。不知道是否有人...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r0rjcp/coinbaseone_now_testing/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r0rjcp/coinbaseone_now_testing/</guid><pubDate>Wed, 24 Nov 2021 15:39:16 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I just got an invitation to sign up for CoinbaseOne, which is a monthly subscription service. It&amp;#39;s $29.99/mo. And if you sign up thy remove all transaction fees, give you a dedicated support line, and offer up to $1 million dollars in asset protection in case you get hacked. Don&amp;#39;t know if anyone else has been invited yet and haven&amp;#39;t seen any posts about it. &lt;/p&gt;
-
-&lt;p&gt;I signed up due to paying more in transaction fees due to my DCA payments. I don&amp;#39;t know if it will cover both Pro and regular, but keep your eyes out for it if you use the regular Coinbase app.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[这个浏览器游戏不应该价值88亿美元。]]></title><description><![CDATA[这里有游戏玩家吗？我有一句话要讲。
-
-Decentraland。可能这里的每个人都听说过它。而且很多人也买过和卖过
-MANA。但是你们有多少人真正访问过这个网站？它现在的价值是
-4.87美元一个代币，市值超过88亿。现在，我知道做一个游戏有多难
-制作一个游戏有多难，而且...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r12jz1/this_browser_game_should_not_be_worth_88_billion/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r12jz1/this_browser_game_should_not_be_worth_88_billion/</guid><pubDate>Wed, 24 Nov 2021 15:39:16 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Any gamers here? I have a rant to make.&lt;/p&gt;
-
-&lt;p&gt;Decentraland. Probably everyone here heard of it. And many also bought and sell MANA. But how many of you actually even visited the website? It is now worth 4.87$ a token, with over 8.8 billion market cap. Now, I know how hard it is to make a game, and the fact that market cap doesn&amp;#39;t reflect a realistic value for a blockchain game.&lt;/p&gt;
-
-&lt;p&gt;However, the game is utterly shit. It is a browser game to start with. In my 10 minutes of gameplay, there is one annoying background music playing on a loop. The graphics are of course bad as expected. I don&amp;#39;t think they even bothered to properly texture some stuff.&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/e9dauy3dui181.png?width=1486&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=2ea576f435f0267726c0bb3f16c099b55dc96f00&quot;&gt;The character creating screen&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;You have two shapes and a bunch of free stuff to use. I think you can buy NFTs (worth probably thousands!) as avatars, which is cool I guess.  &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/qwr7d77pui181.png?width=1492&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d378818e5b739f02fac67231d22448f1bba78ea5&quot;&gt;The Main Menu&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This is where you start. There are a bunch of places you can teleport and a gaping blue asshole in the middle.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/v46e3ly6vi181.png?width=1514&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9dc2a234e497681f19fb78d189aebc93e6a7658d&quot;&gt;Emotes I guess&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Not much to talk about.  &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/otjmbockvi181.png?width=1524&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=26266a79efe4537813d22f2c36a7e242f69c9265&quot;&gt;The \&amp;quot;Casino\&amp;quot;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;At first I thought the &amp;quot;casino&amp;quot; was an empty shell. But it turns out there are invisible desks I can&amp;#39;t interact with. Not sure if these didn&amp;#39;t load in my computer or something else happened. I think there are like 3 casinos on the map.  &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/ygeorn7mwi181.png?width=1486&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ca0b3312f85209814f06e262aecc1a9104df9e1b&quot;&gt;Mining Minigame&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I have no idea how this works since I am on a guest account. You can pay 10 mana and buy 100 coins on a stand you can accidentally left click too.&lt;/p&gt;
-
-&lt;p&gt;Decentraland in its core is a glorified casino game which was heavily influenced by second life. I don&amp;#39;t think any adult who buys and sells thousands would legitimately play this game. The bubble is expanding as I write this post. What do you think, fellow cryptocurrency members?&lt;/p&gt;
 &lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
