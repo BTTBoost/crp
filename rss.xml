@@ -1,4 +1,132 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 28 Nov 2021 10:24:22 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[整个加密货币市场在过去48小时内被做空，几乎没有人在谈论这个问题。]]></title><description><![CDATA[在过去的几天里，短线一直在稳步上升，没有上限。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[加密货币国外热门讨论]]></title><description><![CDATA[用中文浏览关于加密货币的国外热门讨论]]></description><link>https://crypto.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 28 Nov 2021 16:10:52 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[真正的中本聪？]]></title><description><![CDATA[我一直想知道中本聪是谁，为什么他创造了比特币，却还没有
+他为什么创造了比特币却没有动用他的550亿财富。我读了很多关于这个问题的文章，我相当肯定它是
+不是克雷格-莱特，他声称自己是中本聪并起诉了bitcoin.org
+[https://bitcoin.org/]（并赢得了）版权侵权，因为...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r3mtep/the_real_satoshi_nakamoto/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r3mtep/the_real_satoshi_nakamoto/</guid><pubDate>Sun, 28 Nov 2021 08:38:02 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve always wondered who Satoshi Nakamoto is and why he made bitcoin and has not touched his 55b fortune yet. I&amp;#39;ve read a lot about it and I&amp;#39;m fairly sure it isn&amp;#39;t Craig Wright, who claims to be Satoshi Nakamoto and sued &lt;a href=&quot;https://bitcoin.org/&quot;&gt;bitcoin.org&lt;/a&gt; (and won) for copyright infringements for sharing the bitcoin whitepaper (lol).&lt;/p&gt;
+
+&lt;p&gt;But that leaves the question, who is Satoshi Nakamoto?&lt;/p&gt;
+
+&lt;p&gt;At the start of this year, a research article was published called &amp;quot;Len Sassaman and Satoshi: a Cyberpunk History&amp;quot;. Here is a link to the article: &lt;a href=&quot;https://evanlhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10&quot;&gt;https://evanlhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10&lt;/a&gt;. It&amp;#39;s quite long, around a 20 minute read, but really interesting. For the people who can&amp;#39;t or don&amp;#39;t want to read the entire thing, I&amp;#39;ll summarize the most important parts here, it&amp;#39;s still a long read, but I&amp;#39;ve removed about 2/3.&lt;/p&gt;
+
+&lt;p&gt;________________________________________&lt;/p&gt;
+
+&lt;p&gt;- Embedded on every single node of the bitcoin network there is a obituary to Len Sassaman. Hacked into the transaction data, it&amp;#39;s a memorial to Len Sassaman, a man essentially immortalized in the blockchain itself. I&amp;#39;ve tried copy pasting the code in this post but the layout gets all messed up so here is a link: &lt;a href=&quot;https://pastebin.com/raw/BUB3dygQ&quot;&gt;https://pastebin.com/raw/BUB3dygQ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;- By all accounts, Len was on track to be one of the most important cryptographers of his time. But on July 3rd, 2011, he tragically took his own life at 31, following a long battle with depression and functional neurological disorders.&lt;/p&gt;
+
+&lt;p&gt;His death coincided with the disappearance of the world’s most famous cypherpunk: Satoshi Nakamoto. Only 2 months before Len died, Satoshi sent his/their final communication (&lt;a href=&quot;https://bitcointalk.org/index.php?topic=2228.msg29479#msg29479&quot;&gt;https://bitcointalk.org/index.php?topic=2228.msg29479#msg29479&lt;/a&gt;):&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;#39; I&amp;#39;ve moved on to other things and probably won&amp;#39;t be around in the future&amp;#39;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;- Len was a true Cypherpunk— equal parts brilliant, irreverent, and idealistic. He devoted his life to defending personal freedoms through cryptography, working as a developer on PGP encryption and open-source privacy technology, as well as an academic cryptographer researching P2P networks under blockchain inventor David Chaum. Even in his youth, Len was a self-taught technologist who gravitated towards cryptography and protocol development. Despite living in small-town Pennsylvania, by 18 Len was on the &lt;a href=&quot;https://web.archive.org/web/20111002192432/http:/securehomes.esat.kuleuven.be/%7Elsassama/&quot;&gt;Internet Engineering Task Force&lt;/a&gt; responsible for the TCP/IP protocol underlying the internet and later the Bitcoin network.&lt;/p&gt;
+
+&lt;p&gt;- At Network Associates, Len worked on PGP alongside Hal Finney. Finney was the second PGP developer and helped create the RFC 4880 standard for OpenPGP interoperability. He was also &lt;strong&gt;t&lt;/strong&gt;he earliest and most important contributor to Bitcoin after Satoshi:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Finney was the first person other than Satoshi to contribute to Bitcoin’s code and to run a bitcoin node. (&lt;a href=&quot;https://nitter.net/halfin/status/1110302988?lang=en&quot;&gt;https://nitter.net/halfin/status/1110302988?lang=en&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Finney was &lt;a href=&quot;https://nakamotoinstitute.org/bitcoin-and-me/&quot;&gt;the first recipient of Bitcoin&lt;/a&gt; (sent from Satoshi himself).&lt;/li&gt;
+&lt;li&gt;Finney invented the concept of &lt;a href=&quot;https://nakamotoinstitute.org/finney/rpow/index.html&quot;&gt;Reusable Proofs of Work&lt;/a&gt; which Bitcoin’s mining is based on.&lt;/li&gt;
+&lt;li&gt;Satoshi corresponded with Finney &lt;a href=&quot;https://medium.com/r?url=https%3A%2F%2Fonline.wsj.com%2Fpublic%2Fresources%2Fdocuments%2Ffinneynakamotoemails.pdf&quot;&gt;extensively &lt;/a&gt;even before Bitcoin’s release. In one of their last posts, Satoshi &lt;a href=&quot;https://satoshi.nakamotoinstitute.org/posts/bitcointalk/541/&quot;&gt;publicly intimated&lt;/a&gt; their respect for Finney.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Unsurprisingly, Finney is one of the most popular candidates for Satoshi, though this implies that Finney faked his extensive email interactions with Satoshi and simultaneously contributed to Bitcoin under both his real name and a separate fake identity. Finney would also continue to work on Bitcoin well after Satoshi had “moved on” in 2011. Len and Finney shared one very rare and relevant skillset: they both were developers of the remailer technology that was a precursor to Bitcoin.&lt;/p&gt;
+
+&lt;p&gt;- After high school, Len worked to support his family and never had the chance to attend college. In spite of this, in 2004 he secured his “dream job” as a researcher and Ph.D. candidate at COSIC, the &lt;a href=&quot;https://en.wikipedia.org/wiki/COSIC&quot;&gt;Computer Security and Industrial Cryptography Research Group&lt;/a&gt; of K.U. Leuven in Belgium.&lt;/p&gt;
+
+&lt;p&gt;Len’s Ph.D. advisor at COSIC was none other than “father of digital currency” David Chaum. While Chaum laid the groundwork for the entire Cypherpunk movement and all cryptocurrencies, few could claim to have worked with him directly.&lt;/p&gt;
+
+&lt;p&gt;A few of Chaum’s relevant accomplishments:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The invention of cryptocurrency in his 1983 paper &lt;em&gt;“&lt;/em&gt;&lt;a href=&quot;https://medium.com/@chamirachid/on-blind-signatures-for-untraceable-payments-by-david-chaum-275bbd6e1546&quot;&gt;&lt;em&gt;Blind Signatures for Untraceable Payments&lt;/em&gt;&lt;/a&gt;&lt;em&gt;”&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;The invention of the blockchain, with his &lt;a href=&quot;https://ieeexplore.ieee.org/document/8674176&quot;&gt;1982 dissertation&lt;/a&gt; including code for all but one element of the blockchain detailed in the Bitcoin whitepaper.&lt;/li&gt;
+&lt;li&gt;The creation of the first electronic cash system with his company &lt;a href=&quot;https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf&quot;&gt;Digicash&lt;/a&gt;. Anonymous payment between digital pseudonyms was central to this vision.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;While Digicash failed (partially due to a reliance on centralized systems), Chaum wanted to create a second digital currency that would offer a combination of anonymity and practicality.&lt;/p&gt;
+
+&lt;p&gt;While many saw its failure as proof that digital cash was infeasible, Satoshi defended the &lt;a href=&quot;https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/threads/1/&quot;&gt;“old Chaumian currencies”&lt;/a&gt; while acknowledging the issues caused by centralization.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;A lot of people automatically dismiss e-currency as a lost cause because of all the companies that failed since the 1990’s. I hope it’s obvious&lt;/em&gt; &lt;em&gt;it was only the centrally controlled nature of those systems that doomed them.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;- Since COSIC was based in Leuven, Len was living in Belgium during Bitcoin’s development. This is salient given that a number of facts suggest that Satoshi was based in Europe — the primary focus of an early inquiry by &lt;a href=&quot;https://www.newyorker.com/magazine/2011/10/10/the-crypto-currency&quot;&gt;The New Yorker&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Satoshi’s writing exhibits spelling and word choices idiosyncratic of British English such as *“*bloody difficult”, “flat”, “maths”, grey”, as well as the dd/mm/yyyy date format. However, Satoshi also refers to &lt;a href=&quot;https://medium.com/r?url=https%3A%2F%2Fplan99.net%2F%7Emike%2Fsatoshi-emails%2Fthread1.html&quot;&gt;Euros rather than pounds&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Bitcoin’s Genesis Block also included a headline from that day’s copy of &lt;a href=&quot;https://news.bitcoin.com/wp-content/uploads/2020/11/genblock.jpg&quot;&gt;&lt;em&gt;The Times&lt;/em&gt;&lt;/a&gt; newspaper &lt;em&gt;(“The Times 03/Jan/2009 Chancellor on brink of second bailout for banks”).&lt;/em&gt; This headline was specific to the print version, which was only circulated in the UK and Europe. In 2009, &lt;em&gt;The Times&lt;/em&gt; was a Top 10 newspaper in Belgium and “&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Times&quot;&gt;heavily used by scholars and researchers &lt;/a&gt;because of its widespread availability in libraries and its detailed index”.&lt;/p&gt;
+
+&lt;p&gt;These clues leave us with a paradox: they suggest Satoshi was European, yet someone with the requisite skillset and exposure to Bitcoin’s primary influences would likely have been American. Much of the Cypherpunk community coalesced conferences and meetups, part of why a disproportionate number hailed from America and especially SF. The jobs where one could have gained cutting-edge professional infosec and crypto experience were similarly concentrated in the US.&lt;/p&gt;
+
+&lt;p&gt;Strangely enough, Len used the very same British English as Satoshi even though he was American (see original article for pictures).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@insearchofsatoshi/the-time-zones-of-satoshi-nakamoto-aa40f035178f&quot;&gt;Analysis &lt;/a&gt;of Satoshi’s posting history suggests they were a European ‘night owl’ who worked on Bitcoin after returning from a job or school during the day. At one point, Satoshi also &lt;a href=&quot;https://bitcointalk.org/index.php?topic=43.msg346#msg346&quot;&gt;stated &lt;/a&gt;that an increase in mining difficulty happened “yesterday”, which would not have been true if they lived in the US.&lt;/p&gt;
+
+&lt;p&gt;And when we examine Len’s tweet history, we see that timestamps of Satoshi’s &lt;a href=&quot;https://news.bitcoin.com/new-research-suggests-satoshi-nakamoto-lived-in-london-creating-bitcoin/&quot;&gt;posts and code commits&lt;/a&gt; correspond closely to Len’s own hours of late-night activity. (see link and original article)&lt;/p&gt;
+
+&lt;p&gt;- While not the first cryptocurrency, Bitcoin was the first to be based on a fully P2P, distributed network. The importance of this is emphasized in Satoshi’s very first reference to Bitcoin:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I’ve been working on a new electronic cash system that’s fully peer-to-peer, with no trusted third party&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In order to build Bitcoin, Dan Kaminsky &lt;a href=&quot;https://www.newyorker.com/magazine/2011/10/10/the-crypto-currency&quot;&gt;stated &lt;/a&gt;that Satoshi would have needed to “understand economics, cryptography, and P2P networking”, and Len had an unusually early and intimate exposure to all 3, along with their application to digital currency.&lt;/p&gt;
+
+&lt;p&gt;- While in SF, Len &lt;a href=&quot;https://www.seattletimes.com/business/bittorrent-file-sharing-program-floods-the-web/&quot;&gt;lived and collaborated with Bram Cohen&lt;/a&gt;, creator of most widely used P2P protocol: BitTorrent. During this period (2000–2002), Bram developed a revolutionary P2P network called&lt;a href=&quot;https://www.salon.com/2000/10/09/mojo_nation/&quot;&gt; MojoNation&lt;/a&gt; which used a digital currency of “Mojo tokens”, making it one of the first digital currencies to see a working public release.&lt;/p&gt;
+
+&lt;p&gt;- When Len’s passed away in 2011, it represented a huge loss for the Cypherpunk and the tech community at large, a fact reflected in the huge outpouring of memories and sympathy that followed. One comment in particular still stands out to me: a Hacker News post from “pablos08”.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I became friends with Len and we were coconspirator cypherpunks at a time when that was a wild frontier. We were reimagining our world, riddled with cryptosystems that would mathematically enforce the freedoms that we treasured. Anonymous remailers to preserve speech without fear of retribution; onion routers to ensure nobody could censor the internet;&lt;/em&gt; &lt;em&gt;digital cash to enable a radically free economy. We have schemes to decentralize &amp;amp; distribute everything.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[比特币鲸鱼在最近的加密货币调整中买入价值超过22.6亿美元的BTC]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r3i2hp/bitcoin_whales_buy_over_226_billion_worth_of_btc/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r3i2hp/bitcoin_whales_buy_over_226_billion_worth_of_btc/</guid><pubDate>Sun, 28 Nov 2021 07:30:50 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[DIP在这里。我们在买什么]]></title><description><![CDATA[我们中的一些人想要的降价是在这里（包括我），我坐在这里等待我的菲亚特，以便我可以购买降价。
+我正坐在这里等待我的菲亚特，这样我就可以买下这个DIP。自从我加入社区以来，我看到很多人都在谈论买入DIP的问题。
+自从我加入这个社区以来，我看到很多人都在谈论买入跌停板，我也看到很多人都是超级的
+看跌。
+
+考虑到很多人都在买什么...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r3whz6/the_dip_is_here_what_are_we_buying/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r3whz6/the_dip_is_here_what_are_we_buying/</guid><pubDate>Sun, 28 Nov 2021 07:30:50 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The dip some of us wanted is here (Including me) and I&amp;#39;m sitting here waiting on my fiat so I can BUY THE DIP. I have seen a lot of people talk about buying the dip ever since I joined the community and I also see a lot of people being super bearish about it. &lt;/p&gt;
+
+&lt;p&gt;What are yall buying considering a lot of crypto is down right now?&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m going to a DCA for LRC, enough CRO to get jade, and ADA seems like a good buy because its on the low low. I am also looking for AMP to drop below .05, and DOT to get lower.&lt;/p&gt;
+
+&lt;p&gt;Would love to know what the community is planning. It is a big crypto world out there and im hoping to hear about some that i may have overlooked.&lt;/p&gt;
+
+&lt;p&gt;🦀🦀🦀&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[不要做傻瓜。永远不要，我是说永远不要贷款投资于加密货币。它不值得你的压力，你的心理健康和破产的风险。]]></title><description><![CDATA[在投资加密货币的过程中，最糟糕的事情是失去了
+你没有的钱。
+
+这里经常重复的一句话是 "不要投资你不能承受的东西
+损失"。
+
+这绝对不值得承担风险、压力和你的心理健康。
+
+有些人很幸运，但大多数...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r3sgt5/dont_be_a_fool_never_i_mean_never_take_a_loan_to/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r3sgt5/dont_be_a_fool_never_i_mean_never_take_a_loan_to/</guid><pubDate>Sun, 28 Nov 2021 06:30:09 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The worse thing about losing money while investing in cryptocurrencies is losing money you don’t have. &lt;/p&gt;
+
+&lt;p&gt;The sentence that is often repeated here is &lt;em&gt;“don’t invest what you can’t afford to lose&amp;quot;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It is absolutely not worth the risk, stress and your mental health.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Some people get lucky, but most don&amp;#39;t. Don&amp;#39;t be an idiot, ignore the stories where people borrowed money and managed to get it back and make some profit along the way. Those are rare ones.&lt;/p&gt;
+
+&lt;p&gt;Instead you should read this: &lt;a href=&quot;https://toronto.ctvnews.ca/two-ontario-women-speak-out-after-losing-more-than-100-000-in-cryptocurrency-scams-1.5662694&quot;&gt;&amp;quot;I&amp;#39;m&lt;/a&gt; &lt;em&gt;thinking about the money I borrowed from my friend, even my savings, like my RRSP is gone. I just can&amp;#39;t believe it&amp;quot;&lt;/em&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;quot;So now I&amp;#39;m really freaking out because I’m like $80,000 in and I really need that money&amp;quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;You don&amp;#39;t want to be those people. Invest what you can afford to lose.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[哈萨克斯坦计划建造核电站开采加密货币，俄罗斯将提供帮助]]></title><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r3qhsw/kazakhstan_plans_to_build_nuclear_power_plant_to/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r3qhsw/kazakhstan_plans_to_build_nuclear_power_plant_to/</guid><pubDate>Sun, 28 Nov 2021 06:30:09 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[他们什么时候才会在键盘上增加一个比特币的符号？]]></title><description><![CDATA[当他们最终在键盘上添加比特币符号时，你就知道我们已经成功了
+了！！。问题是，要把这个键放在哪里？只是把$替换成shift+4
+键？还是为它做一个全新的键？它总得有一个地方，你们怎么看？
+想法。]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r3esel/when_are_they_going_to_add_a_bitcoin_symbol_to/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r3esel/when_are_they_going_to_add_a_bitcoin_symbol_to/</guid><pubDate>Sun, 28 Nov 2021 06:30:09 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;When they finally add the Bitcoin symbol to the keyboard, you know we&amp;#39;ve made it!!!  The question is, where to put the key?  Just replace the $ as the shift+4 key?  Or make a whole new key for it?  It&amp;#39;s gotta go somewhere, what do you guys think.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[有多少人真正投资于比特币？]]></title><description><![CDATA[加密货币的祖先，比特币。我们都知道它并相信它。I
+定期阅读关于投资组合多样化的建议，大多数人建议
+比特币占其持有量的40-50%之间。然而，我们有多少人是按照这个
+建议。
+
+当我今天看着我的投资组合，看着我所有的...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r3nx51/how_many_of_yall_actually_invest_in_bitcoin/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r3nx51/how_many_of_yall_actually_invest_in_bitcoin/</guid><pubDate>Sun, 28 Nov 2021 05:35:14 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The Grandfather of Cryptocurrency, Bitcoin. We all know it and believe in it. I read advice regularly about diversification of portfolios, most people recommend Bitcoin between 40-50% of their holdings. However, how much of us live by this advice.&lt;/p&gt;
+
+&lt;p&gt;As I look at my portfolio today, and look at all my holdings. I realized, that Bitcoin only makes up a small portion of what I hold. It made me think, am I alone? Or is everybody looking for fuck you money in alt coins looking for that next project to go parabolic like Loopring or CRO.&lt;/p&gt;
+
+&lt;p&gt;I hold more in altcoins than I should, and I fully believe in Bitcoin, but chasing that retirement money has made my alt collection grow. Anybody like me? Or am I the only loser not holding enough Bitcoin?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[整个加密货币市场在过去48小时内被做空，几乎没有人在谈论这个问题。]]></title><description><![CDATA[在过去的几天里，短线一直在稳步上升，没有上限。
 买入压力仍在提供向上的压力。
 
 只要看看datamish.com[https://datamish.com]，就知道大多数硬币，特别是BTC是如何被疯狂做空的。
@@ -488,230 +616,4 @@ Reddit的用户数量在过去的半年里翻了一番!
 
 100个额外的硬币以折扣方式获得🥳。
 
-#比特币 🇸🇻]]></title><link>https://crypto.buzzing.cc/tweet/1464542340576686080</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1464542340576686080</guid><pubDate>Sat, 27 Nov 2021 10:42:22 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[同时，第三大比特币地址在几个小时前刚刚以54,190美元买入991个BTC。这个地址在2021年11月又积累了7,066个BTC。不要恐慌性抛售，保持你的DCA稳定。牛市还远未结束。]]></title><description><![CDATA[我最喜欢的活动之一是看鲸鱼。根据Bitinfocharts的数据。
-第三大比特币地址在几个小时前刚刚买入另外991个BTC，平均价格为
-几个小时前，平均价格为54,190.34美元。
-
-
-
-在Bitinfocharts网站上看到，这个地址今天刚买了991个BTC。
-并且已经积累了大量的...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r34tot/meanwhile_the_third_largest_bitcoin_address_just/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r34tot/meanwhile_the_third_largest_bitcoin_address_just/</guid><pubDate>Sat, 27 Nov 2021 10:42:18 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;One of my favourite activities is whale watching. According to Bitinfocharts, the third largest Bitcoin address just bought another 991 BTC at an average price of $54,190.34 few hours ago.&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/95sshkq962281.png?width=1087&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b4573674298deda0d32a02d82a548e67ff280112&quot;&gt;As seen on Bitinfocharts website, this address has just bought 991 BTC today, and has accumulated a lot of BTC in November 2021.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This address now has &lt;strong&gt;114,959.56997991 BTC&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/icw6pf3l62281.png?width=511&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=fc2bb925d619c93419621f5c358bc8aedcf94dc7&quot;&gt;Balance as at 27 November 2021 as per Bitinfocharts website&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;There is still dispute whether this address is a whale or an exchange, but this is a pretty good indicator of how the whales are reacting. So while many planktons are scared off, the whales are accumulating more Bitcoins than ever. &lt;/p&gt;
-
-&lt;p&gt;Another interesting thing: This address ranked 81th in February 2019 but have now become the third largest address. Note the first two largest addresses are exchanges (Binance 1st, Bitfinex 2nd)&lt;/p&gt;
-
-&lt;p&gt;DCA plus swim-with-the-whale strategy: DCA is the first choice for many small retail investors like us. But also time like this is the perfect opportunity to swim with the whales (of course not by leverage!). The whales move the market and I do think they do it to make even more profits.&lt;/p&gt;
-
-&lt;p&gt;I have written a post last week about DCA strategy and the best one in my opinion is: regular DCA + set aside a fund to buy when the flash crash happens. See how the whales swim.&lt;/p&gt;
-
-&lt;p&gt;This address has made 3,931,206,864.56 USD profit ever since. But even when we confine it to November, this address appears to time the market perfectly, it sold 1,500 BTC on 09 November 2021 when BTC hit $67,510.46.&lt;/p&gt;
-
-&lt;p&gt;I put this into a spreadsheet:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/rem6yxjra2281.png?width=719&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7f6f045395295356e37a9360e0806f742cfbbab3&quot;&gt;Third largest Bitcoin address activities in November 2021 - summary&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;So I think: DCA, don&amp;#39;t panic, buy the dip like the whales do. The bull market is far from over. Technically we had always been in a bull market since 2010, thinking long term.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[冠状病毒已经变异了6000多次。不要上当受骗]]></title><description><![CDATA[导致Covid-19的冠状病毒已经变异了6600多次。主要
-在南非的新闻之后，加密货币已经下跌。这本身不应该成为
-恐慌和卖出。特别是刚接触加密货币的人。这只是FUD，并将
-将会结束，事实上，这是一个很好的买点......]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r2zu1x/coronavirus_had_mutated_more_than_6000_times_dont/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r2zu1x/coronavirus_had_mutated_more_than_6000_times_dont/</guid><pubDate>Sat, 27 Nov 2021 08:37:52 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The coronavirus that causes Covid-19 has mutated more than 6,600 times . Major crypto has fallen after South Africa&amp;#39;s news. This alone shouldn&amp;#39;t be the reason to panic and sell . Especially people new to crypto . This is just FUD and will be over , infact this is a great buying opportunity.&lt;/p&gt;
-
-&lt;p&gt;Remember the crash this year? How many of us wished we bought the dip , but we didnt thinking it would go deeper or never recover. &lt;/p&gt;
-
-&lt;p&gt;This is a buying opportunity, similar to march 2020 when Covid caused that crash not as intense tho.&lt;/p&gt;
-
-&lt;p&gt;If you are in crypto for the Long term , this is  a great opportunity to buy, Don&amp;#39;t fall for the FUD or panic sell.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[南方公园》的最新一集嘲笑 "仅有比特币 "的未来。这很搞笑。]]></title><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r2uylr/south_parks_latest_episode_mocks_the_bitcoinonly/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r2uylr/south_parks_latest_episode_mocks_the_bitcoinonly/</guid><pubDate>Sat, 27 Nov 2021 06:30:47 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我还很年轻，只能买得起1000美元，但我终于趁着下跌的机会买了进去！这是我的梦想。]]></title><description><![CDATA[它在比特币中的作用会比坐在我的储蓄账户中失去价值要大!
-
-兴奋地想看看未来会怎样。]]></description><link>https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r3102o/still_young_and_could_only_afford_1000_but_i/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/Bitcoin/comments/r3102o/still_young_and_could_only_afford_1000_but_i/</guid><pubDate>Sat, 27 Nov 2021 06:30:47 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It’s gonna do more in Bitcoin than sitting in my savings account losing value! &lt;/p&gt;
-
-&lt;p&gt;Excited to see what the future holds.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[如果你在2020年11月29日投资100美元，并持有到今天，你会有多少钱？]]></title><description><![CDATA[免责声明：在我计算这些的时候，价格可能已经改变了。
-
-标题是错误的，我犯了一个语法错误，我对此表示道歉。
-
-标题。如果你在2020年11月29日投资100美元，并持有到今天，这是
-是你会有多少钱
-
-
-
-币名 币价 2020年11月29日 币价 今天...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r33shq/if_you_invested_100_on_29th_november_2020_and/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r33shq/if_you_invested_100_on_29th_november_2020_and/</guid><pubDate>Sat, 27 Nov 2021 05:34:45 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Disclaimer: The prices may changed by the time I calculated this&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The title is wrong, I made a grammar mistake and I apologize for that:&lt;/p&gt;
-
-&lt;p&gt;Title: &lt;strong&gt;If you invested $100 on 29th November 2020, and held it till today this is how much you would have&lt;/strong&gt; &lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;table&gt;&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&quot;left&quot;&gt;Coin Name&lt;/th&gt;
-&lt;th align=&quot;left&quot;&gt;Coin Price Nov. 29, 2020&lt;/th&gt;
-&lt;th align=&quot;left&quot;&gt;Coin Price Today at this moment&lt;/th&gt;
-&lt;th align=&quot;left&quot;&gt;Your money with $100 investment&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Bitcoin BTC&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$18,177.48&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$54,314.02&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$298.72&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Ethereum ETH&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$575.76&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$4114.09&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$714.36&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Algorand ALGO&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$0.3176&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$1.6417&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$515.68&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Cardano ADA&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$0.1666&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$1.57&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$944.538&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;XRP&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$0.6062&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$0.9537&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$156.25&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Polkadot DOT&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$5.19&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$35.07&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$675.44&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Polygon MATIC&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$0.01886&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$1.693&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$8898.750&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;VeChain VET&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$0.01518&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$0.11602&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$763.83&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Harmony ONE&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$0.005425&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$0.27093&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$4998.6&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Nerwos Network CKB&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$0.004023&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$0.03034&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$754.45&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Loopring LRC&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$0.1915&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$2.9378&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$1533.53&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Cosmos ATOM&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$5.43&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$27.65&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$509.03&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Monero XRM&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$123.99&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$231.2&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$186.5&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Dogecoin DOGE&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$0.003448&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$0.2050&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$6040.3278&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Solana SOL&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$1.92&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$193.98&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$10102.47&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Fantom FTM&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$0.01928&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$2.1615&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$11257.09&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Chainlink LINK&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$13.37&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$24.39&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;$182.19&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[你管上的不喜欢政策是加密货币诈骗者的天堂]]></title><description><![CDATA[越来越荒唐了，尼日利亚王子的骗局在优酷上越来越严重了。
-你管。
-
-这些假频道有看似合法的名字，并将自己伪装成合法的频道。
-频道，主要是在一个小屏幕上显示一个加密货币会议或讲座的直播。
-小屏幕上显示的是加密货币会议或讲座的现场直播，而屏幕上则是通往...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r2yuz8/the_no_dislike_policy_on_you_tube_is_a_haven_for/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r2yuz8/the_no_dislike_policy_on_you_tube_is_a_haven_for/</guid><pubDate>Sat, 27 Nov 2021 04:45:06 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It&amp;#39;s getting ridiculous the Nigerian Prince scam is getting worse and worse on you tube.  &lt;/p&gt;
-
-&lt;p&gt;The fake channels have seemingly legit names and disguise themselves as a legit channels, mostly a live stream of a crypto conference or talk is shown on a small screen and on the boarders are steps to magically double your crypto holdings. The video is fake liked by like bots sometimes in the ten thousands. &lt;/p&gt;
-
-&lt;p&gt;The new rule that no more dislikes are shown below you tube videos made this even worse.&lt;br/&gt;
-Imagine being a new Investor and seeing something like this on a seemingly legit YouTube channel and you only see upvotes, of course you fall for it...&lt;br/&gt;
-Every now and then I mass report every one of them I find. This time I wrote you tube a little message.. &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/h0lozyguo0281.png?width=1082&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=271ac79f698e2fef5092c4fb118351eeac95d064&quot;&gt;https://preview.redd.it/h0lozyguo0281.png?width=1082&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=271ac79f698e2fef5092c4fb118351eeac95d064&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Please don&amp;#39;t fall for stuff like this.&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;much love,&lt;/p&gt;
-
-&lt;p&gt;thelovetoy&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[回到极端恐惧的家伙]]></title><description><![CDATA[恐惧和贪婪指数又回到了极端恐惧的状态。我喜欢看到这一点。我
-贪婪，因为它说的是极度恐惧。我在网上还没有看到很多恐惧，除了
-新闻文章说，加密货币现在处于熊市。
-
-而该死的是，这让我如此看涨。
-
-其他让我看涨的事情。
-
--...]]></description><link>https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r315ei/back_at_extreme_fear_guys/</link><guid isPermaLink="false">https://crypto.buzzing.cc/reddit/r/CryptoCurrency/comments/r315ei/back_at_extreme_fear_guys/</guid><pubDate>Sat, 27 Nov 2021 03:40:08 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The fear and greed index is back at extreme fear. I love to see that. I get greedy when it says extreme fear. I haven&amp;#39;t seen much fear online yet, except for news articles saying that crypto is now in a bear market.&lt;/p&gt;
-
-&lt;p&gt;And holy shit, that makes me so bullish.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Other things that make me bullish:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;- Peter Schiff is laughing at Bitcoin and saying people should have invested in gold. This is a bottom signal&lt;/p&gt;
-
-&lt;p&gt;- The president of El Salvador bought the dip, this is a bottom signal&lt;/p&gt;
-
-&lt;p&gt;- Benjamin Cowen says: Time is on our side, this means time is on our side&lt;/p&gt;
-
-&lt;p&gt;- Bitcoin dominance doesn&amp;#39;t shoot up yet, so the whales aren&amp;#39;t scared, people are still in altcoins&lt;/p&gt;
-
-&lt;p&gt;- The bull market support band got tested at around 53K&lt;/p&gt;
-
-&lt;p&gt;- People in the Buttcoin subreddit are laughing&lt;/p&gt;
-
-&lt;p&gt;If history is an indication, it&amp;#39;s a good idea to become bullish when &lt;a href=&quot;/u/wiardv&quot;&gt;u/wiardv&lt;/a&gt; becomes bullish. I&amp;#39;m bullish, so you should be bullish as well. Be bullish my friend&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
+#比特币 🇸🇻]]></title><link>https://crypto.buzzing.cc/tweet/1464542340576686080</link><guid isPermaLink="false">https://crypto.buzzing.cc/tweet/1464542340576686080</guid><pubDate>Sat, 27 Nov 2021 10:42:22 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
